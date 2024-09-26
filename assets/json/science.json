@@ -1,0 +1,1104 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "NASA Sets Coverage for Agency’s SpaceX Crew-9 Launch, Docking",
+            "snippet": "NASA will provide coverage of the upcoming prelaunch and launch activities for the agency's SpaceX Crew-9 mission to the International Space Station.",
+            "publisher": "NASA",
+            "timestamp": "1727246657000",
+            "newsUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-9-launch-docking/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVNWEJZV2psNFZVNUhhbmhCVFJERUF4aW1CU2dLTWdZZFE1Z3JJUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVVNWEJZV2psNFZVNUhhbmhCVFJERUF4aW1CU2dLTWdZZFE1Z3JJUWs"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared (video)",
+                    "snippet": "Even before NASA removed two astronauts from the SpaceX Crew-9 mission to the ISS, the crew knew that no spaceflight is guaranteed.",
+                    "publisher": "Space.com",
+                    "timestamp": "1727344804000",
+                    "newsUrl": "https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUhhbE5wZDNWdlN6ZHplVGxOVFJDZkF4ampCU2dLTWdzSk1KYW9vR2lDQml2TGd3=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNUhhbE5wZDNWdlN6ZHplVGxOVFJDZkF4ampCU2dLTWdzSk1KYW9vR2lDQml2TGd3"
+                    }
+                },
+                {
+                    "title": "SpaceX, NASA move Crew-9 launch over fears of Helene's track toward Florida",
+                    "snippet": "Mission managers are closely watching the forecast track for Tropical Storm Helene as SpaceX and NASA prepare to launch one astronaut and one Russian ...",
+                    "publisher": "Fox Weather ",
+                    "timestamp": "1727208120000",
+                    "newsUrl": "https://www.foxweather.com/earth-space/spacex-nasa-helene-florida-crew-9-launch",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNDVNQzFVYmxreVZHZDRRbkpWVFJDSEF4aVBCaWdLTWdPWkV3QQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNDVNQzFVYmxreVZHZDRRbkpWVFJDSEF4aVBCaWdLTWdPWkV3QQ"
+                    }
+                },
+                {
+                    "title": "Sunita Williams’ rescue mission delayed? NASA postpones SpaceX Crew-9 launch due to storm Helene",
+                    "snippet": "NASA and SpaceX have delayed the Crew-9 mission to the ISS due to Tropical Storm Helene. The new launch date is September 28, weather permitting.",
+                    "publisher": "Business Today",
+                    "timestamp": "1727239911000",
+                    "newsUrl": "https://www.businesstoday.in/technology/news/story/sunita-williams-rescue-mission-delayed-nasa-postpones-spacex-crew-9-launch-due-to-storm-helene-447404-2024-09-25",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhjMEl0VFZkWlowVnZlRkpZVFJDZkF4ampCU2dLTWdhdFJaVE9vUWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhjMEl0VFZkWlowVnZlRkpZVFJDZkF4ampCU2dLTWdhdFJaVE9vUWc"
+                    }
+                },
+                {
+                    "title": "Launch Roundup: NASA Crew-9 to fly half-empty, Starlink and Chinese launches continue",
+                    "snippet": "NASA and SpaceX's launch of the Crew-9 mission will be center stage this week. The launch of two new International Space Station crew members is currently ...",
+                    "publisher": "NASASpaceflight.com",
+                    "timestamp": "1727114061000",
+                    "newsUrl": "https://www.nasaspaceflight.com/2024/09/launch-roundup-092324/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWlXRlpxZFVOd1QyaG1ObWRtVFJERUF4aW1CU2dLTWdNNVFBTQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWlXRlpxZFVOd1QyaG1ObWRtVFJERUF4aW1CU2dLTWdNNVFBTQ"
+                    }
+                },
+                {
+                    "title": "NASA, SpaceX conduct prelaunch activities as Tropical Storm delays Crew-9 mission",
+                    "snippet": "SpaceX static fires its Falcon 9 rocket at Space Launch Complex 40 (SLC-40) in preparation for the Crew-9 mission on Saturday, Sept. 28.",
+                    "publisher": "Spaceflight Now",
+                    "timestamp": "1727215451000",
+                    "newsUrl": "https://spaceflightnow.com/2024/09/24/live-coverage-nasa-spacex-conduct-prelaunch-activities-as-tropical-storm-delays-crew-9-mission/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZNSFpUYW1aU1ZXUkhTM000VFJERUF4aW1CU2dLTWdhaEk0ck5wUVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZNSFpUYW1aU1ZXUkhTM000VFJERUF4aW1CU2dLTWdhaEk0ck5wUVE"
+                    }
+                },
+                {
+                    "title": "NASA and SpaceX prepare for impact of Florida Hurricane Helene on Cape Canaveral",
+                    "snippet": "With Hurricane Helene approaching Florida's Gulf Coast, NASA and SpaceX are preparing for potential impacts on the Space Coast.",
+                    "publisher": "Florida Today",
+                    "timestamp": "1727292705000",
+                    "newsUrl": "https://www.floridatoday.com/story/tech/science/space/2024/09/25/florida-hurricane-helene-prompts-nasa-and-spacex-cape-canveral-take-precaution/75380197007/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVpXR1pSUVhSNVNTMUhWMVZ0VFJEekFoaVVCU2dLTWdPWmNBUQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVpXR1pSUVhSNVNTMUhWMVZ0VFJEekFoaVVCU2dLTWdPWmNBUQ"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Pollen allergies drove woolly mammoths to extinction, study claims",
+            "snippet": "A boom in vegetation at the end of the last ice age may have created so much pollen, it blocked mammoths' sense of smell. A new study suggests this drove ...",
+            "publisher": "Livescience.com",
+            "timestamp": "1727279602000",
+            "newsUrl": "https://www.livescience.com/animals/mammoths/pollen-allergies-drove-woolly-mammoths-to-extinction-study-claims",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBka3B1Tm1sVU9GUlNUMFk1VFJDZkF4ampCU2dLTWdhTmNvWktyUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBka3B1Tm1sVU9GUlNUMFk1VFJDZkF4ampCU2dLTWdhTmNvWktyUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Earth will capture 'second moon' this weekend",
+            "snippet": "NASA scientists have calculated that Earth will capture a \"second moon\" on Sunday (Sept. 29). The \"mini-moon\" comes in the form of the tiny asteroid 2024 ...",
+            "publisher": "Space.com",
+            "timestamp": "1727341221000",
+            "newsUrl": "https://www.space.com/earth-will-capture-second-moon-sept-2024",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXNWM0pOYlVoRU5tMXpUM2w1VFJDZkF4ampCU2dLTWdrUlFZS0hMbWM5MVFB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXNWM0pOYlVoRU5tMXpUM2w1VFJDZkF4ampCU2dLTWdrUlFZS0hMbWM5MVFB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "The science behind the 'mini moon' entering Earth's orbit",
+                    "snippet": "An asteroid called 2024 PT5 will go around the Earth for two months this autumn. Why is it called a 'mini moon' and can you see it?",
+                    "publisher": "BBC.com",
+                    "timestamp": "1727237094000",
+                    "newsUrl": "https://www.bbc.com/reel/video/p0jsl446/the-science-behind-the-mini-moon-entering-earth-s-orbit",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVFORVpUVUZaaFgyUnRjRTFoVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVFORVpUVUZaaFgyUnRjRTFoVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "A space rock is about to become Earth’s new ‘mini-moon’",
+                    "snippet": "A temporary “mini-moon” will whirl around Earth for about two months as our planet's gravity captures a small asteroid named 2024 PT5 in its orbit.",
+                    "publisher": "CNN",
+                    "timestamp": "1726842300000",
+                    "newsUrl": "https://www.cnn.com/2024/09/20/science/earth-asteroid-mini-moon/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFObGR2TWpGeVNETlJWa3AyVFJDaEF4amdCU2dLTWdaRllaYldLQWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWFObGR2TWpGeVNETlJWa3AyVFJDaEF4amdCU2dLTWdaRllaYldLQWc"
+                    }
+                },
+                {
+                    "title": "Small, temporary 'mini-moon' detected by astronomers, invisible to naked eye",
+                    "snippet": "Earth will soon be gaining a \"mini-moon\" but it's only temporary, officials say.",
+                    "publisher": "KATU",
+                    "timestamp": "1727309165000",
+                    "newsUrl": "https://katu.com/news/local/small-temporary-mini-moon-detected-by-astronomers-invisible-to-naked-eye-jim-todd-omsi-portland-oregon",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU1OV2xOZVVGeFlsVXhiamRyVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNU1OV2xOZVVGeFlsVXhiamRyVFJDZkF4amlCU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "You might be able to see the northern lights from Wisconsin Wednesday night",
+            "snippet": "Sky watchers may be able to see the northern lights in parts of the upper Midwest on Wednesday night, according to a news release from the NOAA Space ...",
+            "publisher": "Milwaukee Journal Sentinel",
+            "timestamp": "1727282237000",
+            "newsUrl": "https://www.jsonline.com/story/news/local/wisconsin/2024/09/25/northern-lights-in-wisconsin-could-be-visible-tonight/75375638007/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWxaVVYxTlhORFJtazRkMlJVVFJEekFoaVVCU2dLTWdNSlFBQQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWxaVVYxTlhORFJtazRkMlJVVFJEekFoaVVCU2dLTWdNSlFBQQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Study shows Mars' early thick atmosphere could be locked up in the planet's clay surface",
+            "snippet": "Mars wasn't always the cold desert we see today. There's increasing evidence that water once flowed on the red planet's surface, billions of years ago.",
+            "publisher": "Phys.org",
+            "timestamp": "1727287201000",
+            "newsUrl": "https://phys.org/news/2024-09-mars-early-thick-atmosphere-planet.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVFUWEpYUWtsek1FOU5RbGxQVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVFUWEpYUWtsek1FOU5RbGxQVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Where did Mars’ atmosphere go? Scientists finally have an answer",
+                    "snippet": "It could be hiding in plain sight, researchers say.",
+                    "publisher": "The Independent",
+                    "timestamp": "1727336803000",
+                    "newsUrl": "https://www.independent.co.uk/space/mars-missing-atmosphere-mit-scientists-b2619241.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHpjMXBQZWs1RmFHNHlXR1pVVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHpjMXBQZWs1RmFHNHlXR1pVVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Where did Mars' atmosphere go? Scientists say it may be 'hiding in plain sight'",
+                    "snippet": "New research suggests the atmosphere of Mars may be hiding in plain sight, having been absorbed by minerals in the Red Planet's clays. If Mars' envelope of ...",
+                    "publisher": "Space.com",
+                    "timestamp": "1727287279000",
+                    "newsUrl": "https://www.space.com/mars-missing-atmosphere-hiding-plain-sight-clay-methane",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVNObWhUU21Gek1XSm1kbE5SVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVNObWhUU21Gek1XSm1kbE5SVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Mars Rocks May Contain Ancient Atmospheric Carbon – And We Could Use It For Fuel",
+                    "snippet": "Billions of years ago, Mars had a thick atmosphere and water, but in both cases, just a tiny amount remains today. Both ended up escaping to space, ...",
+                    "publisher": "IFLScience",
+                    "timestamp": "1727322692000",
+                    "newsUrl": "https://www.iflscience.com/mars-rocks-may-contain-ancient-atmospheric-carbon-and-we-could-use-it-for-fuel-76104",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtWMlJLZVd0MExXVlJhR1l5VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtWMlJLZVd0MExXVlJhR1l5VFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Is atmosphere still present on Mars? Experts say Red Planet is hiding it in plain sight",
+                    "snippet": "A recent study suggests that Mars' atmosphere may have been absorbed by minerals in the planet's clays, potentially explaining the loss of its ability to ...",
+                    "publisher": "Business Today",
+                    "timestamp": "1727332605000",
+                    "newsUrl": "https://www.businesstoday.in/visualstories/news/is-atmosphere-still-present-on-mars-experts-say-red-planet-is-hiding-it-in-plain-sight-174136-26-09-2024",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtkV2R5VWxCV1NGRlRiVFIzVFJDQUJSamdBeWdLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtkV2R5VWxCV1NGRlRiVFIzVFJDQUJSamdBeWdLTWdB"
+                    }
+                },
+                {
+                    "title": "Mars’ missing atmosphere could be hiding in plain sight",
+                    "snippet": "MIT research suggests Mars' missing atmosphere — which dramatically diminished 3.5 billion years ago — could be locked in the planet's clay-covered crust.",
+                    "publisher": "MIT News",
+                    "timestamp": "1727287200000",
+                    "newsUrl": "https://news.mit.edu/2024/mars-missing-atmosphere-could-be-hiding-plain-sight-0925",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXBTRmxIU1hwbFVWRlBkalJNVFJDM0FSaVRBaWdCTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXBTRmxIU1hwbFVWRlBkalJNVFJDM0FSaVRBaWdCTWdB"
+                    }
+                },
+                {
+                    "title": "Mars once lost its atmosphere. Scientists now believe they may have found it",
+                    "snippet": "Mars once was a vibrant planet with a thick atmosphere and water bodies billions of years ago. However, now it is a cold and dry desert and with the thick ...",
+                    "publisher": "WION",
+                    "timestamp": "1727345862000",
+                    "newsUrl": "https://www.wionews.com/science/mars-once-lost-its-atmosphere-scientists-now-believe-they-may-have-found-it-762202",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWpaMVpQY214U2QzQTJlazlrVFJDZkF4ampCU2dLTWdPVkF3dw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWpaMVpQY214U2QzQTJlazlrVFJDZkF4ampCU2dLTWdPVkF3dw"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "DNA from world’s oldest cheese extracted from an unusual source — mummies",
+            "snippet": "It's aged — 3,600 years. Scientists have successfully pulled a DNA strand from what they believe to be the world's oldest cheese, yanking it from Bronze Age ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727302080000",
+            "newsUrl": "https://nypost.com/2024/09/25/lifestyle/dna-from-worlds-oldest-cheese-extracted-from-an-unusual-source-mummies/",
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "This Cheese Stood Alone for 3,600 Years",
+                    "snippet": "The cheese was dug up with mummified human remains in the Xinjiang region of China and offers insights into the origins of the dairy product known as kefir.",
+                    "publisher": "The New York Times",
+                    "timestamp": "1727276517000",
+                    "newsUrl": "https://www.nytimes.com/2024/09/25/science/oldest-cheese-kefir-xinjiang.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXViSFpUVlU5cVpEbFRNVkV0VFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXViSFpUVlU5cVpEbFRNVkV0VFJDUUF4allCQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "DNA from 3,600-year-old cheese sequenced by scientists",
+                    "snippet": "Scientists have sequenced DNA from 3600-year-old cheese, the oldest in the archaeological record. The intact cheese was found with mummified remains in ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727279760000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/science/oldest-cheese-ancient-dna-china-mummies/index.html"
+                },
+                {
+                    "title": "The world’s oldest cheese sheds light on ancient Chinese culture",
+                    "snippet": "What genetic analysis of a 3500-year-old sour goat's cheese from Xinjiang reveals | Science & technology.",
+                    "publisher": "The Economist",
+                    "timestamp": "1727283298000",
+                    "newsUrl": "https://www.economist.com/science-and-technology/2024/09/25/the-worlds-oldest-cheese-sheds-light-on-ancient-chinese-culture",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9jREl4UW13eFNuSjJha0pMVFJDZkF4ampCU2dLTWdZTmNJYW5XZ00=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9jREl4UW13eFNuSjJha0pMVFJDZkF4ampCU2dLTWdZTmNJYW5XZ00"
+                    }
+                },
+                {
+                    "title": "This enigmatic mummy from western China was swathed in cheese",
+                    "snippet": "In the late 1990s, archaeologists working in the arid Tarim Basin, in the middle of China's Xinjiang region, excavated hundreds of boat-shaped coffins ...",
+                    "publisher": "Science",
+                    "timestamp": "1727276400000",
+                    "newsUrl": "https://www.science.org/content/article/enigmatic-mummy-western-china-was-swathed-cheese",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXBkRzlLU0RaVFZ6VTNURUkwVFJEQ0F4aXBCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXBkRzlLU0RaVFZ6VTNURUkwVFJEQ0F4aXBCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Strange Rocks Clinging to Mummies Could Be World's Oldest Cheese",
+                    "snippet": "Many of us will have expired foodstuffs sitting forgotten in the back of our fridges and cupboards, but nothing is going to come close to the nearly ...",
+                    "publisher": "ScienceAlert",
+                    "timestamp": "1727332480000",
+                    "newsUrl": "https://www.sciencealert.com/strange-rocks-clinging-to-mummies-could-be-worlds-oldest-cheese",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZSbFZCV1hFelIweFBjMmRIVFJEZ0Foam1CaWdLTWdZcFpZN05NUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZSbFZCV1hFelIweFBjMmRIVFJEZ0Foam1CaWdLTWdZcFpZN05NUVk"
+                    }
+                },
+                {
+                    "title": "Chinese scientists find world’s oldest cheese buried with mummies in Xinjiang desert",
+                    "snippet": "DNA tests suggest Bronze Age people who lived in far west China 3500 years ago made kefir cheese, challenging beliefs about ancient diets.",
+                    "publisher": "South China Morning Post",
+                    "timestamp": "1727276407000",
+                    "newsUrl": "https://www.scmp.com/news/china/science/article/3279944/chinese-scientists-find-worlds-oldest-cheese-buried-mummies-xinjiang-desert"
+                }
+            ]
+        },
+        {
+            "title": "Comet on 81,000-year trip becomes a new light in the night sky",
+            "snippet": "TOPEKA (KSNT) - Earth has a visitor from afar this year that is making its way across our solar system for a once-in-81000-year flyby, possibly for the ...",
+            "publisher": "KSNT News",
+            "timestamp": "1727298221000",
+            "newsUrl": "https://www.ksnt.com/news/kansas/comet-on-81000-year-trip-becomes-a-new-light-in-the-night-sky/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTFVVFZXWWpkWFlVTXRSbFJIVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTFVVFZXWWpkWFlVTXRSbFJIVFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Comet Tsuchinshan-ATLAS puts on show in space before possible big show on Earth",
+                    "snippet": "Astronomers and sky watchers have their fingers crossed that an approaching comet could put on a nighttime show on Earth next month, but it's already ...",
+                    "publisher": "Fox Weather ",
+                    "timestamp": "1726924661000",
+                    "newsUrl": "https://www.foxweather.com/earth-space/comet-tsuchinshan-atlas-iss-earth-show-october",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUhhRlZJVlZOb2RHUjVhRVJCVFJDSEF4aVBCaWdLTWdNUk1obw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUhhRlZJVlZOb2RHUjVhRVJCVFJDSEF4aVBCaWdLTWdNUk1obw"
+                    }
+                },
+                {
+                    "title": "Astronaut captures stunning timelapse of Comet Tsuchinshan-ATLAS from ISS (video)",
+                    "snippet": "A video filmed by NASA astronaut Matthew Dominick shows a rare glimpse of Comet Tsuchinshan-ATLAS as seen from the International Space Station.",
+                    "publisher": "Space.com",
+                    "timestamp": "1726858746000",
+                    "newsUrl": "https://www.space.com/comet-tsuchinshan-atlas-matthew-dominick-iss-photo",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZWM0pLZVdvMlVHRkdaVkJsVFJDT0FoamdBeWdLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUZWM0pLZVdvMlVHRkdaVkJsVFJDT0FoamdBeWdLTWdB"
+                    }
+                },
+                {
+                    "title": "Confused and curious about the comet everyone's talking about? Our beginner's guide to Comet C/2023 A3",
+                    "snippet": "Unless you've been on a hiking holiday in Outer Mongolia for the past year you've probably heard that there's going to be a \"bright comet\" in the sky next ...",
+                    "publisher": "Sky at Night Magazine",
+                    "timestamp": "1727181442000",
+                    "newsUrl": "https://www.skyatnightmagazine.com/space-science/beginners-guide-comet-c-2023-a3",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURSWFJMUlU5VVowNXhSMUpIVFJDOUFSaUxBaWdCTWdhNW9aRFV1QVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURSWFJMUlU5VVowNXhSMUpIVFJDOUFSaUxBaWdCTWdhNW9aRFV1QVU"
+                    }
+                },
+                {
+                    "title": "Bright comet Tsuchinshan-ATLAS could be visible without a telescope for the 1st time in 80,000 years. Here's how to see it this week.",
+                    "snippet": "During late September and mid-October, the much-anticipated comet C/2023 A3 (Tsuchinshan-ATLAS) could become visible to the naked-eye for skywatchers around ...",
+                    "publisher": "Livescience.com",
+                    "timestamp": "1727128860000",
+                    "newsUrl": "https://www.livescience.com/space/comets/bright-comet-tsuchinshan-atlas-will-be-visible-without-a-telescope-for-the-1st-time-in-80-000-years-here-s-how-to-see-it",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRabFZVY1ZrMWNUZGxhVWt6VFJDMEFSakFBaWdLTWdhbFVwSk1MUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRabFZVY1ZrMWNUZGxhVWt6VFJDMEFSakFBaWdLTWdhbFVwSk1MUVk"
+                    }
+                },
+                {
+                    "title": "Comet headed for Shasta, Siskiyou skies this week",
+                    "snippet": "Here's how to see Comet Tsuchinshan-ATLAS in the sky over Shasta and Siskiyou counties this weekend, according to astronomers.",
+                    "publisher": "Record Searchlight",
+                    "timestamp": "1727310743000",
+                    "newsUrl": "https://www.redding.com/story/news/2024/09/25/comet-tsuchinshan-atlas-visible-over-california-this-week/75365704007/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtiMkU1WjNsR056QldTbkZNVFJEekFoaVVCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtiMkU1WjNsR056QldTbkZNVFJEekFoaVVCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Comet C/2023 A3 (Tsuchinshan-ATLAS) is shaping up to be the best comet this year. Here's how to spot it",
+                    "snippet": "Comet C/2023 A3 (Tsuchinshan-ATLAS) is bright enough to be seen in the early morning sky with just your eyes. But only if you know when and where to look.",
+                    "publisher": "ABC News",
+                    "timestamp": "1727202600000",
+                    "newsUrl": "https://www.abc.net.au/news/science/2024-09-25/comet-tsuchinshan-atlas-a3/104344142",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVhaVU5SZWt4UFdYUTVNMDFoVFJDZkF4amlCU2dLTWdNNWdBNA=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVhaVU5SZWt4UFdYUTVNMDFoVFJDZkF4amlCU2dLTWdNNWdBNA"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Wild Orcas Spotted Hunting Dolphins Off Chile in a Scientific First",
+            "snippet": "In the Humboldt Current, off the coast of Chile, an enigmatic pod of orcas has been seen tearing apart unexpected prey.",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727324158000",
+            "newsUrl": "https://www.sciencealert.com/wild-orcas-spotted-hunting-dolphins-off-chile-in-a-scientific-first",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHhWbUpuU1hObGJsUmFkUzFUVFJDRUFoaUNCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHhWbUpuU1hObGJsUmFkUzFUVFJDRUFoaUNCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The Sun Will Destroy the Earth One Day, Right? Maybe Not.",
+            "snippet": "In six billion years the sun will expand into a red giant. That process should consume Mercury, and maybe Venus. For a long time we have thought it might ...",
+            "publisher": "The New York Times",
+            "timestamp": "1727341435000",
+            "newsUrl": "https://www.nytimes.com/2024/09/26/science/planet-white-dwarf.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVpVVFIwVEdaMVkwMHRWMFpYVFJDY0JSakxBeWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVpVVFIwVEdaMVkwMHRWMFpYVFJDY0JSakxBeWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Webb discovers 'weird' galaxy with gas outshining its stars",
+            "snippet": "The newly-discovered GS-NDG-9422 galaxy appears as a faint blur in this James Webb Space Telescope NIRCam (Near-Infrared Camera) image.",
+            "publisher": "Phys.org",
+            "timestamp": "1727280243000",
+            "newsUrl": "https://phys.org/news/2024-09-webb-weird-galaxy-gas-outshining.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZOemQ1TW5rNFZEZDJiVkpxVFJDcUJCaXFCQ2dLTWdhdFU1aHZJUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZOemQ1TW5rNFZEZDJiVkpxVFJDcUJCaXFCQ2dLTWdhdFU1aHZJUWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Weird striped rock 'unlike any seen on Mars' found by Perseverance rover. Here's why NASA's excited",
+            "snippet": "A striped rock that looks out of place in its surroundings on the slopes of the inner wall of Jezero crater has scientists excited about what it may reveal ...",
+            "publisher": "Space.com",
+            "timestamp": "1727295151000",
+            "newsUrl": "https://www.space.com/mars-perseverance-rover-weird-stripy-rock",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5aV3hVVWswMFJYZDVibVZuVFJDZ0F4amlCU2dLTWdhcFVweXRwUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5aV3hVVWswMFJYZDVibVZuVFJDZ0F4amlCU2dLTWdhcFVweXRwUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Woolly rhino found preserved in Russian permafrost after 32,000 years",
+            "snippet": "Scientists have uncovered a woolly rhino mummy so well preserved in the Russian permafrost for more than 32000 years that its skin and fur are still intact.",
+            "publisher": "CNN",
+            "timestamp": "1727282220000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/science/woolly-rhino-mummy-preserved-permafrost-intl-scli/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXRRbmx6YTJadmJqTnhaMUpCVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXRRbmx6YTJadmJqTnhaMUpCVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "How special is the Milky Way galaxy? Survey team releases new findings",
+            "snippet": "Is our home galaxy, the Milky Way galaxy, a special place? A team of scientists started a journey to answer this question more than a decade ago.",
+            "publisher": "Phys.org",
+            "timestamp": "1727294068000",
+            "newsUrl": "https://phys.org/news/2024-09-special-milky-galaxy-survey-team.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXJVbk5VWjFvd01TMHdYMncwVFJDUEF4aUJCaWdLTWdPUkVoUQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXJVbk5VWjFvd01TMHdYMncwVFJDUEF4aUJCaWdLTWdPUkVoUQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Crew Returns from Simulated Trip to Mars—Take a Peek Inside their Journey",
+            "snippet": "An all-volunteer crew on a simulated trip to Mars \"returned” to Earth on Sept. 23, 2024, after being isolated in a tiny habitat at Johnson Space Center in.",
+            "publisher": "NASA",
+            "timestamp": "1727279175000",
+            "newsUrl": "https://www.nasa.gov/missions/analog-field-testing/hera-human-exploration-research-analog/crew-returns-from-simulated-trip-to-mars-take-a-peek-inside-their-journey/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJkQzFtT1RSb2NHcFlWVXBPVFJEdkF4anJCQ2dLTWdhSlVackdwQWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXJkQzFtT1RSb2NHcFlWVXBPVFJEdkF4anJCQ2dLTWdhSlVackdwQWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Radar images capture snowman-shaped object tumbling past Earth",
+            "snippet": "Radar images have captured snowman-shaped 2024 ON asteroid tumbling through space.",
+            "publisher": "Space.com",
+            "timestamp": "1727308930000",
+            "newsUrl": "https://www.space.com/radar-images-snowman-asteroid-passes-by-earth",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHRhRkpsYVZKV01GaHdkblZqVFJEYUFSaUVBeWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHRhRkpsYVZKV01GaHdkblZqVFJEYUFSaUVBeWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Nuking an asteroid could save Earth from destruction, researchers show in 1st-of-its-kind X-ray experiment",
+            "snippet": "A powerful burst of X-rays from a nuclear explosion could be used to stop Armageddon just in the nick of time, a new experiment suggests.",
+            "publisher": "Livescience.com",
+            "timestamp": "1727299364000",
+            "newsUrl": "https://www.livescience.com/space/asteroids/nuking-an-asteroid-could-save-earth-from-destruction-researchers-show-in-1st-of-its-kind-x-ray-experiment",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdMVGhoVWtKcWMxWnFUa05rVFJDZkF4ampCU2dLTWdhSjBJWk9VUU0=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUdMVGhoVWtKcWMxWnFUa05rVFJDZkF4ampCU2dLTWdhSjBJWk9VUU0"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "\"Fireball\" lights up night sky over Oregon",
+            "snippet": "Scientists explained the source of a bright light in the sky Monday night as a \"fireball,\" or a small piece of rock burning as it enters the atmosphere.",
+            "publisher": "KEZI TV",
+            "timestamp": "1727229652000",
+            "newsUrl": "https://www.kezi.com/news/fireball-lights-up-night-sky-over-oregon/article_8b69cfb8-7adf-11ef-9898-9fd1bbe3ef10.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iKkNnNVZXbFZaZUZkdGQweHpZMUJLVFJCeEdNZ0JLQUV5QmdFVWl1NHBCdw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iKkNnNVZXbFZaZUZkdGQweHpZMUJLVFJCeEdNZ0JLQUV5QmdFVWl1NHBCdw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "This Satellite’s Only Job Is to Obliterate Itself for Science",
+            "snippet": "The DRACO mission will capture every moment of its fiery plunge through Earth's atmosphere, recording its own dramatic demise.",
+            "publisher": "Gizmodo",
+            "timestamp": "1727280600000",
+            "newsUrl": "https://gizmodo.com/this-satellites-only-job-is-to-obliterate-itself-for-science-2000503102",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTFSbEk0UlZGdVprUk9ha0ZSVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTFSbEk0UlZGdVprUk9ha0ZSVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Billionaire Jared Isaacman On His Historic Spacewalk: “It Was Overwhelming”",
+            "snippet": "Payments billionaire Jared Isaacman just became the first private citizen ever to conduct a space walk. He spoke to Forbes about what it was like.",
+            "publisher": "Forbes",
+            "timestamp": "1727207243000",
+            "newsUrl": "https://www.forbes.com/sites/giacomotognini/2024/09/24/billionaire-jared-isaacman-on-his-historic-spacewalk-it-was-overwhelming/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTFiM1EzWXpKTVp6VmtNVWg0VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTFiM1EzWXpKTVp6VmtNVWg0VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Rare Earth Metals Found in Extinct Volcanoes Could Power The Future",
+            "snippet": "Extinct volcanoes are hard to study – we never see them erupt. Using a unique experimental technique, we were able to recreate a certain type of extinct ...",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727245369000",
+            "newsUrl": "https://www.sciencealert.com/rare-earth-metals-found-in-extinct-volcanoes-could-power-the-future",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpTMDVmTmxwNE9XUmlYMjVwVFJEZ0Foam1CaWdLTWdZQkFJaEFvd2M=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpTMDVmTmxwNE9XUmlYMjVwVFJEZ0Foam1CaWdLTWdZQkFJaEFvd2M"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The Unraveling of Space-Time",
+            "snippet": "This special issue of Quanta Magazine explores the ultimate scientific quest: the search for the fundamental nature of reality.",
+            "publisher": "Quanta Magazine",
+            "timestamp": "1727280344000",
+            "newsUrl": "https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUhWR3c0VlZSM04ySnJhekpIVFJEaEFSamhBU2dCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUhWR3c0VlZSM04ySnJhekpIVFJEaEFSamhBU2dCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A Leggy Tyrannosaur Emerges From a Mexican Desert",
+            "snippet": "Scientists say that the fossil of a close relative of Tyrannosaur rex bolsters their case for a distinctive southern population of the fearsome dinosaurs.",
+            "publisher": "The New York Times",
+            "timestamp": "1727280011000",
+            "newsUrl": "https://www.nytimes.com/2024/09/25/science/tyrannosaur-fossil-mexico.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTNjM2c0VmtoVlMwMDVTRFZSVFJDUUF4allCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTNjM2c0VmtoVlMwMDVTRFZSVFJDUUF4allCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "China to launch near-Earth asteroid sample return mission in 2025",
+            "snippet": "HELSINKI — China will launch the Tianwen-2 mission to sample a near-Earth asteroid next year, an official with the country's space agency said Tuesday.",
+            "publisher": "SpaceNews",
+            "timestamp": "1727263258000",
+            "newsUrl": "https://spacenews.com/china-to-launch-near-earth-asteroid-sample-return-mission-in-2025/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpWazFHZEZsT2NWWkthR2xHVFJERkF4aWxCU2dLTWdhVmc1SlFzUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXpWazFHZEZsT2NWWkthR2xHVFJERkF4aWxCU2dLTWdhVmc1SlFzUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "SpaceX stacks Starship megarocket ahead of 5th test flight (photos)",
+            "snippet": "SpaceX has stacked its Starship megarocket ahead of the vehicle's fifth test flight, which isn't expected to launch until late November.",
+            "publisher": "Space.com",
+            "timestamp": "1727200801000",
+            "newsUrl": "https://www.space.com/spacex-starship-stacked-fifth-test-flight-photos",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHdSMHR1VERrM2VVTjVUMnB1VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHdSMHR1VERrM2VVTjVUMnB1VFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists Find Energy Jets Among the Universe’s Largest Structures",
+            "snippet": "The scientists say the energy jets are shooting out of a single black hole in a distant galaxy. They estimate the jets to be 23 million light years across.",
+            "publisher": "VOA Learning English",
+            "timestamp": "1727301300000",
+            "newsUrl": "https://learningenglish.voanews.com/a/scientists-find-energy-jets-among-the-universe-s-largest-structures-/7794926.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVZVMk5HYUVSMFMwNHRSbHBEVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVZVMk5HYUVSMFMwNHRSbHBEVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "UW study shows how pandemic affected teen boys and girls differently",
+            "snippet": "A recent University of Washington study found teen girls were more adversely affected by the lockdown than teen boys, with girls' brains aging more than ...",
+            "publisher": "The Seattle Times",
+            "timestamp": "1727283600000",
+            "newsUrl": "https://www.seattletimes.com/seattle-news/mental-health/uw-study-shows-how-pandemic-affected-teen-boys-and-girls-differently/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWZTRkZQZDNGT2JXODRjbnBIVFJDWUF4anZCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWZTRkZQZDNGT2JXODRjbnBIVFJDWUF4anZCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists Solve Earth-Shaking Mystery",
+            "snippet": "Last September, scientists around the world were puzzled by an unusual rumbling traveling through the Earth. It was a strong signal, but it wasn't an ...",
+            "publisher": "News For Kids",
+            "timestamp": "1727245919000",
+            "newsUrl": "https://newsforkids.net/articles/2024/09/25/scientists-solve-earth-shaking-mystery/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUNjVGxyUTBWSVpFUnNZM05NVFJDM0F4aTZCU2dLTWdPaFVRZw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUNjVGxyUTBWSVpFUnNZM05NVFJDM0F4aTZCU2dLTWdPaFVRZw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists in the Arctic have found a way to grow sea ice",
+            "snippet": "The Antarctic Ice Sheet is retreating at a faster rate than in previous decades, raising concerns about a total collapse.",
+            "publisher": "Euronews",
+            "timestamp": "1727187400000",
+            "newsUrl": "https://www.euronews.com/green/2024/09/24/a-giant-antarctic-glacier-is-melting-but-scientists-have-found-a-way-to-thicken-arctic-sea",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW5WM05PVEhGTVJuSkdWMFF4VFJDZkF4ampCU2dLTWdZQllKYUpMUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW5WM05PVEhGTVJuSkdWMFF4VFJDZkF4ampCU2dLTWdZQllKYUpMUWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A new study unpacks the last 485 million years of Earth's temperature history",
+            "snippet": "Among other things, the study demonstrates how carbon dioxide in the atmosphere influences temperatures.",
+            "publisher": "Salon",
+            "timestamp": "1727201100000",
+            "newsUrl": "https://www.salon.com/2024/09/24/a-new-study-unpacks-the-last-485-million-years-of-earths-temperature-history/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUthRmRsUlZoclpXNDVUbVo1VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUthRmRsUlZoclpXNDVUbVo1VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It",
+            "snippet": "A 1930s-era breakthrough is helping physicists understand how quantum threads could weave together into a holographic space-time fabric.",
+            "publisher": "Quanta Magazine",
+            "timestamp": "1727280344000",
+            "newsUrl": "https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZjR3hXUzA5QmFIZEViRzF4VFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUZjR3hXUzA5QmFIZEViRzF4VFJDb0FSaXNBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The Curiosity Mars Rover's Wheel Looks Absolutely Wrecked",
+            "snippet": "The harsh terrain of the Martian surface has done an absolute number on NASA's Curiosity rover's wheels, as a new picture shows.",
+            "publisher": "Futurism",
+            "timestamp": "1727294852000",
+            "newsUrl": "https://futurism.com/curiosity-rover-wheel-looks-wrecked",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNkWGgyTFhVd01XdE5hMVkyVFJDUkF4ajhCU2dLTWdhUkVwQk1GUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUNkWGgyTFhVd01XdE5hMVkyVFJDUkF4ajhCU2dLTWdhUkVwQk1GUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A Weirdly Large Object In Our Asteroid Belt Could Actually Be Habitable",
+            "snippet": "The dwarf planet's active geology was mixing up organic molecules pretty recently in its past.",
+            "publisher": "Inverse",
+            "timestamp": "1727294593000",
+            "newsUrl": "https://www.inverse.com/science/ceres-dwarf-planet-large-asteroid-belt-habitable-building-blocks-of-life",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVVNekkwZGxaa01URk9UakZhVFJDckJSakJBeWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVVNekkwZGxaa01URk9UakZhVFJDckJSakJBeWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "John Wheeler Saw the Tear in Reality",
+            "snippet": "Until his dying days, the giant of 20th-century physics obsessed over the underpinnings of space and time, and how we can all share the same version of ...",
+            "publisher": "Quanta Magazine",
+            "timestamp": "1727280344000",
+            "newsUrl": "https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUxXbU5GWVV0SlluQmtUWEpPVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUxXbU5GWVV0SlluQmtUWEpPVFJDb0FSaXNBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Earth to be blasted by solar storm that could take out power grids",
+            "snippet": "The sun lobbed a tendril of solar plasma on Sunday, now rocketing toward Earth at over 650,000 miles per hour (Picture: Nasa)When most folks think of Autumn ...",
+            "publisher": "MSN",
+            "timestamp": "1727256706000",
+            "newsUrl": "https://www.msn.com/en-us/weather/topstories/earth-to-be-blasted-by-solar-storm-that-could-take-out-power-grids/ss-AA1raMDO",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRlVkJ1VjNWUE0wSm9kalF4VFJDZkF4alNCQ2dLTWdZaFpJNnRyUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRlVkJ1VjNWUE0wSm9kalF4VFJDZkF4alNCQ2dLTWdZaFpJNnRyUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Amateur Astronomer Catches Fleeting Glimpse of Secret Spy Satellite",
+            "snippet": "The spacecraft is in an unusual orbit and features a different design compared to its counterparts.",
+            "publisher": "Gizmodo",
+            "timestamp": "1727272235000",
+            "newsUrl": "https://gizmodo.com/amateur-astronomer-catches-fleeting-glimpse-of-secret-spy-satellite-2000502890",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTBSSFJtTVVkV2NtNW5NRkpwVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTBSSFJtTVVkV2NtNW5NRkpwVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "How black-hole-powered quasars killed off neighboring galaxies in the early universe",
+            "snippet": "Astronomers have used the wide-field view of the Dark Energy Camera to confirm that supermassive-black-hole-powered quasars in the early universe were ...",
+            "publisher": "Space.com",
+            "timestamp": "1727276401000",
+            "newsUrl": "https://www.space.com/black-hole-quasar-neighbor-galaxies",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWhOMVZOVVhsT1JYaGZVME5TVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWhOMVZOVVhsT1JYaGZVME5TVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A Space Walk Through ISS",
+            "snippet": "The International Space Station (ISS) might not be breaking news, but this February, National Geographic released a documentary that dives into the ...",
+            "publisher": "Hackaday",
+            "timestamp": "1727240400000",
+            "newsUrl": "https://hackaday.com/2024/09/24/a-space-walk-through-iss/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9SR2hXUzB0SmRVeHRUSE5ZVFJDZkF4ampCU2dLTWdhUmtZeE9PUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9SR2hXUzB0SmRVeHRUSE5ZVFJDZkF4ampCU2dLTWdhUmtZeE9PUVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "NASA’s latest discovery about Earth deemed ‘as important as gravity’",
+            "snippet": "Researchers at NASA have made a new discovery about Earth, and it's an invisible force discovered on the planet's poles that opposes gravity itself.",
+            "publisher": "Supercar Blondie",
+            "timestamp": "1727179860000",
+            "newsUrl": "https://supercarblondie.com/nasa-discovery-earth-gravity/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdXbTkzZW5ad2VISkxiVEpxVFJDMkF4aTlCU2dLTWdtUkFZZ01tZVJ6UVFN=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHdXbTkzZW5ad2VISkxiVEpxVFJDMkF4aTlCU2dLTWdtUkFZZ01tZVJ6UVFN"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Unexpected deep-sea discovery shines light on life in the twilight zone",
+            "snippet": "The ocean's twilight zone is deep, dark, and—according to new research—iron deficient. No sunlight reaches this region 200 to 1000 meters below the sea ...",
+            "publisher": "Phys.org",
+            "timestamp": "1727276401000",
+            "newsUrl": "https://phys.org/news/2024-09-unexpected-deep-sea-discovery-life.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHpRV2d5VEZsT1QzWkxMVlY0VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHpRV2d5VEZsT1QzWkxMVlY0VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Is the Moon's surface filled with water all over? Here's the truth",
+            "snippet": "Recent research has unveiled that water on the Moon's surface is far more widespread than previously believed. This discovery challenges the long-held ...",
+            "publisher": "The Times of India",
+            "timestamp": "1727178660000",
+            "newsUrl": "https://timesofindia.indiatimes.com/etimes/trending/is-the-moons-surface-filled-with-water-all-over-heres-the-truth/articleshow/113634396.cms",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhkRFJpU1ZKSWNWUmlVSE53VFJDZkF4ampCU2dLTWdZbFJZek1KUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXhkRFJpU1ZKSWNWUmlVSE53VFJDZkF4ampCU2dLTWdZbFJZek1KUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Students turn to AI to do their assigned readings for them",
+            "snippet": "Students are turning to YouTube, podcasts and ChatGPT-crafted summaries rather than actually reading their assignments for class. Professors are unsure how ...",
+            "publisher": "Inside Higher Ed",
+            "timestamp": "1727247810000",
+            "newsUrl": "https://www.insidehighered.com/news/students/academics/2024/09/25/students-turn-ai-do-their-assigned-readings-them",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVJiRk5vVEdkblpYcHNhMnRRVFJDM0FSaVRBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVJiRk5vVEdkblpYcHNhMnRRVFJDM0FSaVRBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "NASA Almost Gave All Its Crew Funding to Boeing's Disastrous Starliner, Leaving SpaceX Out in the Cold",
+            "snippet": "NASA almost went all in on Boeing for its Commercial Crew program, choosing Starliner over SpaceX's far more successful Crew Dragon.",
+            "publisher": "Futurism",
+            "timestamp": "1727280307000",
+            "newsUrl": "https://futurism.com/nasa-crew-all-funding-boeing-starliner-spacex",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJXa0UyVm1VMVJqRmhPVUpNVFJDUkF4ajhCU2dLTWdhcFZJNnVyUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJXa0UyVm1VMVJqRmhPVUpNVFJDUkF4ajhCU2dLTWdhcFZJNnVyUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "James Webb Space Telescope finds 'puffball' exoplanet is uniquely lopsided",
+            "snippet": "Using the James Webb Space Telescope astronomers have found that a strange inflated exoplanet is even weirder than they realized finding a strange asymmetry ...",
+            "publisher": "Space.com",
+            "timestamp": "1727265631000",
+            "newsUrl": "https://www.space.com/exoplanet-inflated-asymmetry-james-webb-space-telescope",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU5kVW81TnpaSE4wVktOMTlMVFJDMEFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNU5kVW81TnpaSE4wVktOMTlMVFJDMEFSakFBaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The Evolution Garden, a Green Journey Through Geologic History",
+            "snippet": "As visitors walk through the new Evolution Garden at the Natural History Museum in London, they will journey through 540 million years of shifting ...",
+            "publisher": "The New York Times",
+            "timestamp": "1727254995000",
+            "newsUrl": "https://www.nytimes.com/2024/09/25/arts/design/london-natural-history-museum.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZaVFZNYzBGWFZ6TlNNa1F4VFJDUUF4allCQ2dLTWdZQnNZRGd6Z00=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZaVFZNYzBGWFZ6TlNNa1F4VFJDUUF4allCQ2dLTWdZQnNZRGd6Z00"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "50-Year-Old Physics Theory Proven for the First Time With Electromagnetic Waves",
+            "snippet": "University of Southampton researchers have confirmed the Zel'dovich effect, where twisted waves are amplified by a rotating object.",
+            "publisher": "SciTechDaily",
+            "timestamp": "1727304746000",
+            "newsUrl": "https://scitechdaily.com/50-year-old-physics-theory-proven-for-the-first-time-with-electromagnetic-waves/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtiRWh5U1VsTlkzY3ljVTFDVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtiRWh5U1VsTlkzY3ljVTFDVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Earth’s Lost History: Massive 370-Mile Crater Discovery Challenges Existing Geological Theories",
+            "snippet": "Research team is delving into history, exploring events that occurred hundreds of millions of years ago. A potential crater over 370 miles (600 kilometers) ...",
+            "publisher": "SciTechDaily",
+            "timestamp": "1727209602000",
+            "newsUrl": "https://scitechdaily.com/earths-lost-history-massive-370-mile-crater-discovery-challenges-existing-geological-theories/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHlNMjFDZFZSV2REaHNlV000VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHlNMjFDZFZSV2REaHNlV000VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Unbelievable trove of fossils dating back 9million years are found underneath a high school - and they're rewr",
+            "snippet": "Hundreds of fossils have been discovered hidden beneath a Southern California high school. The fossils date back nine million years and could change the ...",
+            "publisher": "Daily Mail",
+            "timestamp": "1727207161000",
+            "newsUrl": "https://www.dailymail.co.uk/sciencetech/article-13886769/ancient-marine-fossils-discovered-California-high-school.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXFNMFJJZGpkc1VXRlNMVnBuVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXFNMFJJZGpkc1VXRlNMVnBuVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "40-Million-Year-Old Baltic Amber Provides First Fossil Record of Predatory Fungus Gnats",
+            "snippet": "Until now, the fungus gnat genus Robsonomyia was represented by two living species: Robsonomyia reducta from North America and Robsonomyia sciaraeformis.",
+            "publisher": "Sci.News",
+            "timestamp": "1727209316000",
+            "newsUrl": "https://www.sci.news/paleontology/robsonomyia-fungus-gnats-baltic-amber-13285.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNSa2hmYzJ3MlJEbEZSRUZKVFJDQ0JSamVBeWdLTWdZQkVJQzROQWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXNSa2hmYzJ3MlJEbEZSRUZKVFJDQ0JSamVBeWdLTWdZQkVJQzROQWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Citizen scientists bring intriguing 'hot Jupiter' exoplanet into sharp focus",
+            "snippet": "Yet another faraway world has come to sharper focus thanks to the collective scientific muscle of citizen scientists.",
+            "publisher": "Space.com",
+            "timestamp": "1727272771000",
+            "newsUrl": "https://www.space.com/wasp-77-ab-exoplanet-citizen-scientists",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVhUbVpuZDJGdmFqUXplbmRUVFJDMEFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVhUbVpuZDJGdmFqUXplbmRUVFJDMEFSakFBaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "NASA is ready to start buying Vulcan rockets from United Launch Alliance",
+            "snippet": "United Launch Alliance is free to compete for NASA contracts with its new Vulcan rocket after a successful test flight earlier this year, ending a period ...",
+            "publisher": "Ars Technica",
+            "timestamp": "1727198070000",
+            "newsUrl": "https://arstechnica.com/space/2024/09/nasa-is-ready-to-start-buying-vulcan-rockets-from-united-launch-alliance/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhObU52UkhWaGJuZEpXbXRwVFJERUF4aW5CU2dLTWdhQkpZWU9PZ1U=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhObU52UkhWaGJuZEpXbXRwVFJERUF4aW5CU2dLTWdhQkpZWU9PZ1U"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A 'primordial' black hole may zoom through our solar system every decade",
+            "snippet": "\"If there are lots of black holes out there, some of them must surely pass through our backyard every now and then.\" When you purchase through links on our ...",
+            "publisher": "Livescience.com",
+            "timestamp": "1727175600000",
+            "newsUrl": "https://www.livescience.com/space/black-holes/a-primordial-black-hole-may-zoom-through-our-solar-system-every-decade",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTJTMDR3ZWs4ek0zazVOM1pTVFJDZkF4ampCU2dLTWdNSkl3QQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTJTMDR3ZWs4ek0zazVOM1pTVFJDZkF4ampCU2dLTWdNSkl3QQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists Found a Slime Mold Algorithm, And Asked It to Build a Universe",
+            "snippet": "Computers truly are wonderful things and powerful but only if they are programmed by a skillful mind. Check this out… there is an algorithm that mimics the ...",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727175631000",
+            "newsUrl": "https://www.sciencealert.com/scientists-found-a-slime-mold-algorithm-and-asked-it-to-build-a-universe",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVpZMUU1TFdGdU9YbGxTVGxKVFJEZ0Foam1CaWdLTWdNQkFEdw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVpZMUU1TFdGdU9YbGxTVGxKVFJEZ0Foam1CaWdLTWdNQkFEdw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "How Ancient Hunters Felled Massive Mammoths and Hungry Predators",
+            "snippet": "Rather than hurtling spears, Ice Age humans might have driven large animals into pikes braced into the ground.",
+            "publisher": "The Wall Street Journal",
+            "timestamp": "1727193600000",
+            "newsUrl": "https://www.wsj.com/science/ancient-hunters-mammoths-pike-weapon-40b635a5",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVPSEJzYTNwSlR6WkJOVEZYVFJDSEF4aVBCaWdLTWdhVkVvb3BFZ3M=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTVPSEJzYTNwSlR6WkJOVEZYVFJDSEF4aVBCaWdLTWdhVkVvb3BFZ3M"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Photographer Captures Starlink Satellite Train Sailing Through the Night Sky",
+            "snippet": "Astrophotographer Josh Dury captured an incredible image of a Starlink satellite train making a bright pass.",
+            "publisher": "PetaPixel",
+            "timestamp": "1727281394000",
+            "newsUrl": "https://petapixel.com/2024/09/25/photographer-captures-starlink-satellite-train-sailing-through-the-night-sky/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVBPV1ZNUWxsMVFUUjFkbGwxVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVBPV1ZNUWxsMVFUUjFkbGwxVFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Quantum Paradoxes Unraveled by New X-Ray Techniques",
+            "snippet": "Physicists are challenging the limits of quantum mechanics by testing theories that might explain why everyday objects don't exhibit quantum behaviors.",
+            "publisher": "SciTechDaily",
+            "timestamp": "1727233732000",
+            "newsUrl": "https://scitechdaily.com/quantum-paradoxes-unraveled-by-new-x-ray-techniques/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZlV1pHYjA5SFVFcElORk5rVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUZlV1pHYjA5SFVFcElORk5rVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Shark That Can Live 400 Years Reveals Its Secret",
+            "snippet": "The Greenland shark is the world's longest-living vertebrate, or animal with a backbone, capable of living a mind-bending 400 years.",
+            "publisher": "Newser",
+            "timestamp": "1727204280000",
+            "newsUrl": "https://www.newser.com/story/356727/shark-that-can-live-400-years-reveals-its-secret.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHRaa1JIWjNSUVgzWkthRkpHVFJDMEF4aU9CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHRaa1JIWjNSUVgzWkthRkpHVFJDMEF4aU9CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Saturn Peeks Out From Behind the Moon in Incredible Image Taken at the Top of a Volcano",
+            "snippet": "Andrew McCarthy recently traveled to the top of the Mauna Kea volcano so he could capture a rare image of Saturn being occulted by the Moon.",
+            "publisher": "PetaPixel",
+            "timestamp": "1727269138000",
+            "newsUrl": "https://petapixel.com/2024/09/25/saturn-peeks-out-from-behind-the-moon-in-incredible-image-taken-at-the-top-of-a-volcano/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVpOREZsY25WclQyeDRSa05RVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVpOREZsY25WclQyeDRSa05RVFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists discovered a unique line of Neanderthals and it's helping solve the mystery of humanity's last great extinction",
+            "snippet": "The genome of a Neanderthal named Thorin suggested he was part of an unknown lineage. He and his community stayed isolated for 50000 years.",
+            "publisher": "Business Insider",
+            "timestamp": "1727304060000",
+            "newsUrl": "https://www.businessinsider.com/last-neanderthal-thorin-unique-dna-help-explain-species-extinction-2024-9",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJNRU4wT1hSMldEY3pjV0pIVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJNRU4wT1hSMldEY3pjV0pIVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Rogue Waves Can Reach Four Times Higher Than We Thought",
+            "snippet": "The open ocean can get fierce and wild. There, whipped into a frenzy, ocean swells and troughs can create walls of water that dwarf our puny seafaring ...",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727305276000",
+            "newsUrl": "https://www.sciencealert.com/rogue-waves-can-reach-four-times-higher-than-we-thought",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVBkVlptVmxWZmIzbDNSR2RYVFJEZ0Foam1CaWdLTWdNQlVBUQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVBkVlptVmxWZmIzbDNSR2RYVFJEZ0Foam1CaWdLTWdNQlVBUQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "1st-ever observation of 'spooky action' between quarks is highest-energy quantum entanglement ever detected",
+            "snippet": "The discovery of two entangled quarks at the large Hadron Collider is the highest-energy observation of entanglement ever made.",
+            "publisher": "Livescience.com",
+            "timestamp": "1727189841000",
+            "newsUrl": "https://www.livescience.com/physics-mathematics/particle-physics/1st-ever-observation-of-spooky-action-between-quarks-is-highest-energy-quantum-entanglement-ever-detected",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUlWbUZRUmxCZlNHaERabTl2VFJDZkF4ampCU2dLTWdrUk1vVHkwT0toWmdJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUlWbUZRUmxCZlNHaERabTl2VFJDZkF4ampCU2dLTWdrUk1vVHkwT0toWmdJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "When Bryan Talbot Pretended To Be A French/Japanese Comics Creator",
+            "snippet": "In 2008, Bryan Talbot, published a graphic novel Metronome, under the pseudonym of French/Japanese female comic creator Véronique Tanaka.",
+            "publisher": "Bleeding Cool News",
+            "timestamp": "1727283428000",
+            "newsUrl": "https://bleedingcool.com/comics/about-comics-reprints-bryan-talbot-veronique-tanaka/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUVka2RsTVhaMGFETk9jVEp1VFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUVka2RsTVhaMGFETk9jVEp1VFJDcUJCaXFCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Deep Ocean Sound Confused Scientists For Years. We Finally Know What Makes It.",
+            "snippet": "A mysterious sound heard booming from deep under the ocean waves has finally been traced to a fascinating source.",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727262085000",
+            "newsUrl": "https://www.sciencealert.com/deep-ocean-sound-confused-scientists-for-years-we-finally-know-what-makes-it",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTZSekZEWTNBNVVXNTRlVkJWVFJDRUFoaUNCU2dLTWdORmRBNA=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTZSekZEWTNBNVVXNTRlVkJWVFJDRUFoaUNCU2dLTWdORmRBNA"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Yes, Oregon has scorpions. Plenty of them (photos & graphics)",
+            "snippet": "When you think about wildlife in Oregon, scorpions probably aren't the first invertebrate to come to mind. They're rarely seen and prefer to stay that way.",
+            "publisher": "OregonLive",
+            "timestamp": "1727269200000",
+            "newsUrl": "https://www.oregonlive.com/environment/2024/09/yes-oregon-has-scorpions-plenty-of-them-photos-graphics.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNU1WV2szUTNwMGJFaHVObmxYVFJEWUF4aUpCU2dLTWdzQkVJSjJXT0xBZGxqd3dB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNU1WV2szUTNwMGJFaHVObmxYVFJEWUF4aUpCU2dLTWdzQkVJSjJXT0xBZGxqd3dB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Can the 'hard steps' in the evolutionary history of human intelligence be recast with geological thresholds?",
+            "snippet": "What took so long for humans to appear on Earth? The Earth is 4.6 billion years old, and life began about 4 billion years ago, yet humans—the only ...",
+            "publisher": "Phys.org",
+            "timestamp": "1727272801000",
+            "newsUrl": "https://phys.org/news/2024-09-hard-evolutionary-history-human-intelligence.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtiemgxZUZOTE4yRlZjRU4xVFJDS0FSanVBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtiemgxZUZOTE4yRlZjRU4xVFJDS0FSanVBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists stunned after James Webb Space Telescope spots 'Super-Earth' with atmosphere covered in diamonds",
+            "snippet": "Scientists have spent decades to discover a new planet with a composition that has everyone's jaw-dropped.",
+            "publisher": "GOOD",
+            "timestamp": "1727287139000",
+            "newsUrl": "https://www.good.is/scientists-stunned-after-james-webb-space-telescope-spots-super-earth-with-atmosphere-covered-in-diamonds",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUpTRmQ0TTFCNVdXOVpXRTUwVFJDUkF4ajhCU2dLTWdtQk1JYk5IS2ZJY0FF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUpTRmQ0TTFCNVdXOVpXRTUwVFJDUkF4ajhCU2dLTWdtQk1JYk5IS2ZJY0FF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "We Finally Know What Creates Static Electricity, After Thousands of Years",
+            "snippet": "In 600 BCE, Greek philosopher Thales of Miletus noticed that when he rubbed fur on amber, the fur attracted dust.",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727218885000",
+            "newsUrl": "https://www.sciencealert.com/we-finally-know-what-creates-static-electricity-after-thousands-of-years",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXBMVWQzV0V0dlJWaFZkazQ0VFJDRUFoaUNCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXBMVWQzV0V0dlJWaFZkazQ0VFJDRUFoaUNCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Bizarre polar vortex over Antarctica delayed ozone hole opening, scientists say",
+            "snippet": "The Antarctic ozone hole usually starts forming in early August, but rare warming events and a strangely elongated polar vortex this year may have delayed ...",
+            "publisher": "Livescience.com",
+            "timestamp": "1727191952000",
+            "newsUrl": "https://www.livescience.com/planet-earth/weather/bizarre-polar-vortex-over-antarctica-delayed-ozone-hole-opening-scientists-say",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHdWMHB1UVhwbFEwcDVhVzU1VFJDMEFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHdWMHB1UVhwbFEwcDVhVzU1VFJDMEFSakFBaWdLTWdB"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

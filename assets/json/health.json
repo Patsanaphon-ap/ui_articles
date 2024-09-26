@@ -1,0 +1,1086 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "'A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US",
+            "snippet": "Aedes mosquitoes capable of carrying a range of harmful viruses are moving to new areas with climate change (Credit: Getty Images).",
+            "publisher": "BBC.com",
+            "timestamp": "1727341658000",
+            "newsUrl": "https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1NVEZCVFdsck1HTXdSVEJIVFJDb0FSaXNBaWdCTWdZcGhaTE50UVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU1NVEZCVFdsck1HTXdSVEJIVFJDb0FSaXNBaWdCTWdZcGhaTE50UVk"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "New York Resident Dies of Eastern Equine Encephalitis Infection",
+                    "snippet": "The first person to be diagnosed with Eastern equine encephalitis in New York in nearly a decade has died, prompting Gov. Kathy Hochul to declare the rare, ...",
+                    "publisher": "The New York Times",
+                    "timestamp": "1727139892000",
+                    "newsUrl": "https://www.nytimes.com/2024/09/23/nyregion/eastern-equine-encephalitis-death.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUJSbUoxTTI1NGJIUmZWV3RIVFJDUUF4allCQ2dLTWdZaFk0Nk1zUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUJSbUoxTTI1NGJIUmZWV3RIVFJDUUF4allCQ2dLTWdZaFk0Nk1zUVk"
+                    }
+                },
+                {
+                    "title": "Here’s what to know after NY’s first mosquito-borne EEE death since 2015",
+                    "snippet": "A New York state resident from Ulster County died after testing positive for eastern equine encephalitis virus on Monday – prompting Dr. James McDonald, ...",
+                    "publisher": "Gothamist",
+                    "timestamp": "1727276460000",
+                    "newsUrl": "https://gothamist.com/news/heres-what-to-know-after-nys-first-mosquito-borne-eee-death-since-2015",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVRMVzV1TlZSdlNsQlZaWEZSVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVRMVzV1TlZSdlNsQlZaWEZSVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Governor Hochul Announces Statewide Action Following Confirmed Case of Eastern Equine Encephalitis",
+                    "snippet": "New York's First Human Case of EEE Since 2015 in Ulster County Has Died. State Issues Declaration of Imminent Threat to Public Health and Urges New Yorkers ...",
+                    "publisher": "ny.gov",
+                    "timestamp": "1727115239000",
+                    "newsUrl": "https://www.governor.ny.gov/news/governor-hochul-announces-statewide-action-following-confirmed-case-eastern-equine"
+                },
+                {
+                    "title": "New York resident dies from mosquito-borne disease as experts warn of widening risk",
+                    "snippet": "New York has reported the state's first death from Eastern equine encephalitis (EEE), a disease that spreads through bites from mosquitoes.",
+                    "publisher": "Fox News",
+                    "timestamp": "1727302320000",
+                    "newsUrl": "https://www.foxnews.com/health/new-york-resident-dies-mosquito-borne-disease-experts-warn-widening-risk",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZaRUZvWWpOWGVXWnBhelpLVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUZaRUZvWWpOWGVXWnBhelpLVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "New York reports death from EEE after 1st case diagnosed in nearly a decade",
+                    "snippet": "The first person in New York state to be diagnosed with eastern equine encephalitis (EEE) in nearly a decade died, Gov. Kathy Hochul's office announced ...",
+                    "publisher": "ABC News",
+                    "timestamp": "1727121825000",
+                    "newsUrl": "https://abcnews.go.com/Health/new-york-reports-death-eee-after-1st-case/story?id=113937136",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhWRWg0ZUVSNk5rOXhZWFp4VFJDZkF4ampCU2dLTWdZcEpKU3VtUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhWRWg0ZUVSNk5rOXhZWFp4VFJDZkF4ampCU2dLTWdZcEpKU3VtUWs"
+                    }
+                },
+                {
+                    "title": "NY governor declares deadly mosquito virus public health threat after confirmed case",
+                    "snippet": "New York Gov. Kathy Hochul (D) declared the spread of a rare mosquito-borne illness to be a threat to public health following the first reported death due ...",
+                    "publisher": "The Hill",
+                    "timestamp": "1727203080000",
+                    "newsUrl": "https://thehill.com/policy/healthcare/4896827-new-york-declares-public-health-threat-eastern-equine-encephalitis/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUllbmhZVVZjeFRtNWhlVFZ1VFJERUF4aW1CU2dLTWdZSlVwWXRKUWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUllbmhZVVZjeFRtNWhlVFZ1VFJERUF4aW1CU2dLTWdZSlVwWXRKUWc"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Obesity rate in U.S. adults no longer growing, new CDC data suggests",
+            "snippet": "Around 40% of adults in the U.S. are obese, new data from the Centers for Disease Control and Prevention suggests — marking the first time in over a decade ...",
+            "publisher": "CBS News",
+            "timestamp": "1727150469000",
+            "newsUrl": "https://www.cbsnews.com/news/obesity-rate-us-adults-cdc-data-map/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWpSa0psWmtwMU1FZDNZWFp1VFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWpSa0psWmtwMU1FZDNZWFp1VFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "‘Alarming’: Severe obesity is climbing in the US. See who is most affected",
+                    "snippet": "Obesity is high and holding steady in the U.S., but the proportion of those with severe obesity — especially women — has climbed since a decade ago, ...",
+                    "publisher": "The Hill",
+                    "timestamp": "1727263140000",
+                    "newsUrl": "https://thehill.com/policy/healthcare/4895852-alarming-severe-obesity-is-climbing-in-the-us-see-who-is-most-affected/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNVelJuTTNGQk1Ga3dSak5vVFJDZkF4ampCU2dLTWdhQk1vaEt1Z1U=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXNVelJuTTNGQk1Ga3dSak5vVFJDZkF4ampCU2dLTWdhQk1vaEt1Z1U"
+                    }
+                },
+                {
+                    "title": "Severe obesity is a health crisis Americans can't ignore",
+                    "snippet": "About 1 in 10 adults in a national survey are severely obese, up significantly in recent years, according to a new report released Tuesday by the Centers ...",
+                    "publisher": "Chicago Sun-Times",
+                    "timestamp": "1727262000000",
+                    "newsUrl": "https://chicago.suntimes.com/editorials/2024/09/25/severe-obesity-americans-women-health-diet-exercise-cdc-survey-fat-shaming-editorial",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpNM1ZpZFRSQ2EwbHFRa3hzVFJERUF4aW1CU2dLTWdZTmM1SkhMZ2M=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpNM1ZpZFRSQ2EwbHFRa3hzVFJERUF4aW1CU2dLTWdZTmM1SkhMZ2M"
+                    }
+                },
+                {
+                    "title": "Obesity rate drops to 40% overall, rising among women, CDC says",
+                    "snippet": "According to new numbers from a 2021 survey conducted through 2023, the obesity rate in the U.S. stands at 40%, a slight decrease from the 42% recorded in ...",
+                    "publisher": "FOX 5 Atlanta",
+                    "timestamp": "1727199931000",
+                    "newsUrl": "https://www.fox5atlanta.com/news/obesity-rate-drops-40-overall-rising-among-women-cdc-says",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRVR2hoVUhNeVNsOWhSMkkzVFJDZkF4ampCU2dLTWdZQkFwTHdoQWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRVR2hoVUhNeVNsOWhSMkkzVFJDZkF4ampCU2dLTWdZQkFwTHdoQWs"
+                    }
+                },
+                {
+                    "title": "Severe obesity increasing in US: Research",
+                    "snippet": "Severe obesity is becoming a bigger problem in the United States, according to new data from the National Health and Nutrition Examination Survey (NHANES).",
+                    "publisher": "The Hill",
+                    "timestamp": "1727190000000",
+                    "newsUrl": "https://thehill.com/policy/healthcare/4896166-severe-obesity-adults-increases/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXBVekZEWVhsZmNGSnNNbW80VFJERUF4aW1CU2dLTWdraEk0YnRKZWhVRkFF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXBVekZEWVhsZmNGSnNNbW80VFJERUF4aW1CU2dLTWdraEk0YnRKZWhVRkFF"
+                    }
+                },
+                {
+                    "title": "Obesity rates in US not growing for first time in a decade, but there might be a worse problem: CDC",
+                    "snippet": "The general rate of obesity among adults in the United States has stagnated, but the rate of severe obesity has increased, according to the Centers for ...",
+                    "publisher": "New York Post ",
+                    "timestamp": "1727210580000",
+                    "newsUrl": "https://nypost.com/2024/09/24/lifestyle/obesity-rates-in-us-not-growing-for-first-time-in-a-decade-but-severe-obesity-on-the-rise-cdc/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZNMlZWTWt4Uk5qSjFiMFZtVFJEREF4aW9CU2dLTWdZQk1Kd0tvZ2c=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZNMlZWTWt4Uk5qSjFiMFZtVFJEREF4aW9CU2dLTWdZQk1Kd0tvZ2c"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Global Surge in Nearsightedness Linked to Covid-19, Study Finds",
+            "snippet": "A new review reveals that one in three kids now has myopia, with various factors contributing to the rise—and covid-19 may be one of them.",
+            "publisher": "Gizmodo",
+            "timestamp": "1727291734000",
+            "newsUrl": "https://gizmodo.com/global-surge-in-nearsightedness-linked-to-covid-19-study-finds-2000503155",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHRjWHBpZVZKWFJVUXhjeloxVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHRjWHBpZVZKWFJVUXhjeloxVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "1 in 3 children worldwide is now nearsighted, study shows",
+                    "snippet": "More than a third of children around the world were nearsighted in 2023, and this proportion will rise to almost 40% in 2050, according to new research.",
+                    "publisher": "CNN",
+                    "timestamp": "1727282040000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/health/global-myopia-research-scli-intl-wellness/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdkVkZVU21rMGVGRjFNbk5JVFJDZkF4amlCU2dLTWdhWkE0S3JuUVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdkVkZVU21rMGVGRjFNbk5JVFJDZkF4amlCU2dLTWdhWkE0S3JuUVE"
+                    }
+                },
+                {
+                    "title": "One in three children short-sighted, study suggests",
+                    "snippet": "Children's eyesight is steadily getting worse with one in three now short-sighted or unable to see things in the distance clearly, a global analysis ...",
+                    "publisher": "BBC.com",
+                    "timestamp": "1727260902000",
+                    "newsUrl": "https://www.bbc.com/news/articles/c0m099zm4wyo",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUNiVEpEWjBkUGMyUkdhVk5IVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUNiVEpEWjBkUGMyUkdhVk5IVFJDb0FSaXNBaWdCTWdB"
+                    }
+                },
+                {
+                    "title": "Myopia will affect 740m children and teenagers by 2050, research suggests",
+                    "snippet": "Myopia, or shortsightedness, already affects more than one in three children and teenagers but experts say this number will rise sharply over the next few ...",
+                    "publisher": "The Guardian",
+                    "timestamp": "1727217000000",
+                    "newsUrl": "https://www.theguardian.com/society/2024/sep/24/myopia-will-affect-740m-children-and-teenagers-by-2050-research-suggests",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVVXRzVTT0RZMWJ6RktURzVqVFJDUkF4ajhCU2dLTWdrVllJU1dYS0tDNmdF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVVXRzVTT0RZMWJ6RktURzVqVFJDUkF4ajhCU2dLTWdrVllJU1dYS0tDNmdF"
+                    }
+                },
+                {
+                    "title": "About one-third of youth are nearsighted — rising figure, new study says",
+                    "snippet": "Approximately one-third of children and teens worldwide are nearsighted — a figure that's more than three times higher than it was in 1990, according to a ...",
+                    "publisher": "Axios",
+                    "timestamp": "1727302448000",
+                    "newsUrl": "https://www.axios.com/2024/09/25/myopia-nearsightedness-children-teens-study",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDVPRmxCYzJsSmJEWnZkeTB6VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDVPRmxCYzJsSmJEWnZkeTB6VFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "More than 740 million young people could be short-sighted by 2050, study finds",
+                    "snippet": "A new study provided up-to-date estimates of the number of children and adolescents globally who are short-sighted and showed that the disorder has ...",
+                    "publisher": "Euronews",
+                    "timestamp": "1727217034000",
+                    "newsUrl": "https://www.euronews.com/health/2024/09/25/more-than-740-million-young-people-could-be-short-sighted-by-2050-study-finds",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVZMGN5YW5WNlNHY3RhbFpaVFJDZkF4ampCU2dLTWdZdE00aFJwUVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUVZMGN5YW5WNlNHY3RhbFpaVFJDZkF4ampCU2dLTWdZdE00aFJwUVE"
+                    }
+                },
+                {
+                    "title": "Global prevalence of short-sightedness in children and teens set to top 740 million cases by 2050, says study",
+                    "snippet": "Around one in three children and teens around the world is short (near)-sighted, with the global prevalence of myopia set to top 740 million cases by 2050 ...",
+                    "publisher": "Medical Xpress",
+                    "timestamp": "1727217001000",
+                    "newsUrl": "https://medicalxpress.com/news/2024-09-global-prevalence-short-sightedness-children.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpOMnBmTldkQmNHUk9WVFZ2VFJEVEF4aVJCU2dLTWdZcGRZaXRNUVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXpOMnBmTldkQmNHUk9WVFZ2VFJEVEF4aVJCU2dLTWdZcGRZaXRNUVU"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "It’s time to roll up sleeves for new COVID, flu shots",
+            "snippet": "Fall means it's time for just about everybody to get up to date on their flu and COVID-19 vaccines. A lot of older adults also need protection against ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1727292240000",
+            "newsUrl": "https://apnews.com/article/covid19-flu-rsv-vaccines-shots-ad33f4fe23f4c293ab87415b6449d9ad",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJPVmcxTjNSTmRtRTFZbDluVFJDUUF4alhCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTJPVmcxTjNSTmRtRTFZbDluVFJDUUF4alhCQ2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Here's what to know about the new vaccines for this respiratory virus season",
+                    "snippet": "We have the power to shape how this season is going to go,” CDC director Mandy Cohen stressed on Wednesday.",
+                    "publisher": "Pittsburgh Post-Gazette",
+                    "timestamp": "1727310997000",
+                    "newsUrl": "https://www.post-gazette.com/news/health/2024/09/25/new-vaccines-covid-rsv-flu/stories/202409250084",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVJOVlJ3YmtrNFpXVkVUbU5LVFJDOEFSaU5BaWdCTWdrTlVaYW1KcWcxU0FJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVJOVlJ3YmtrNFpXVkVUbU5LVFJDOEFSaU5BaWdCTWdrTlVaYW1KcWcxU0FJ"
+                    }
+                },
+                {
+                    "title": "When should you get the flu shot? A doctor weighs in on best timing, options.",
+                    "snippet": "What to know about the \"optimal time\" to get vaccinated against the flu — and how the FluMist nasal spray stacks up to the traditional shot.",
+                    "publisher": "CBS News",
+                    "timestamp": "1727115300000",
+                    "newsUrl": "https://www.cbsnews.com/news/when-to-get-flu-shot-2024/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5TVWhuUVdKR2J6UktlVUZrVFJDUkF4ajhCU2dLTWdZQlFZN0ROZ1U=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5TVWhuUVdKR2J6UktlVUZrVFJDUkF4ajhCU2dLTWdZQlFZN0ROZ1U"
+                    }
+                },
+                {
+                    "title": "When should you get your fall shots for RSV, flu and COVID-19? The time is now, doctors say",
+                    "snippet": "Health care providers say Iowans should get their COVID-19, influenza and RSV vaccines in September or October.",
+                    "publisher": "Des Moines Register",
+                    "timestamp": "1727087125000",
+                    "newsUrl": "https://www.desmoinesregister.com/story/news/health/2024/09/23/covid-flu-rsv-shots-fall-2024-iowa-respiratory-virus-what-to-know-vaccines/75278744007/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVVlVTgwUTFrd1lVeEZVbGhrVFJEekFoaVVCU2dLTWdZWkk1UXBuUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVVlVTgwUTFrd1lVeEZVbGhrVFJEekFoaVVCU2dLTWdZWkk1UXBuUWs"
+                    }
+                },
+                {
+                    "title": "Health officials recommend Stanislaus County residents get respiratory virus vaccinations",
+                    "snippet": "California health officials urge Stanislaus County residents to get vaccinated against respiratory viruses, including flu, COVID-19 and RSV.",
+                    "publisher": "Modesto Bee",
+                    "timestamp": "1726859528000",
+                    "newsUrl": "https://www.modbee.com/living/health-fitness/article292764999.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpTRVJzU1VwaVh6bFZVRE0zVFJERUF4aW1CU2dLTWdZWlE1b1NuUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpTRVJzU1VwaVh6bFZVRE0zVFJERUF4aW1CU2dLTWdZWlE1b1NuUWs"
+                    }
+                },
+                {
+                    "title": "It's time to roll up sleeves for new COVID, flu shots",
+                    "snippet": "Fall means it's time for just about everybody to get up to date on their flu and COVID-19 vaccines. A lot of older adults also need protection against ...",
+                    "publisher": "Watauga Democrat",
+                    "timestamp": "1727292276000",
+                    "newsUrl": "https://www.wataugademocrat.com/ap/lifestyles/its-time-to-roll-up-sleeves-for-new-covid-flu-shots/article_e8ffeb1c-63a5-583b-b3eb-d50ed40aa572.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUlVREUzUkd0QmMydGpjVE5HVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUlVREUzUkd0QmMydGpjVE5HVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Get COVID-19, flu shots now, officials urge — coronavirus ‘not going away,’ flu ‘already looking serious’",
+                    "snippet": "Cook County officials and health leaders rolled up their sleeves for two shots Friday and called on residents to do the same as flu season looms and ...",
+                    "publisher": "Chicago Sun-Times",
+                    "timestamp": "1726855980000",
+                    "newsUrl": "https://chicago.suntimes.com/health/2024/09/20/chicago-covid-vaccine-cook-county-surge",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1ka0pKVDNscWNHeG5aVXBLVFJERUF4aW1CU2dLTWdZQkU1NHlsUW8=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1ka0pKVDNscWNHeG5aVXBLVFJERUF4aW1CU2dLTWdZQkU1NHlsUW8"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Ozempic May Decrease Opioid Overdose Risk, Study Suggests: What To Know",
+            "snippet": "Ozempic may lower the risk of opioid overdose in patients with Type 2 diabetes, a new study suggests, the latest research to find a positive connection ...",
+            "publisher": "Forbes",
+            "timestamp": "1727287204000",
+            "newsUrl": "https://www.forbes.com/sites/ariannajohnson/2024/09/25/ozempic-may-decrease-opioid-overdose-risk-study-suggests-what-to-know/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVdhMWRxYlc5UVIwNUlaRVJpVFJDUUF4akdCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVdhMWRxYlc5UVIwNUlaRVJpVFJDUUF4akdCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Ozempic linked to drop in opioid overdose risk: study",
+                    "snippet": "The active ingredient in the popular diabetes and obesity drugs Ozempic and Wegovy could be linked to a drop in opioid overdoses, a study published in JAMA ...",
+                    "publisher": "Axios",
+                    "timestamp": "1727343735000",
+                    "newsUrl": "https://www.axios.com/2024/09/26/ozempic-reduce-risk-opioid-overdose",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdSVEppYkRKR1FXNTVaVEIyVFJDZkF4ampCU2dLTWdtSllZcXR2U1NxREFJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHdSVEppYkRKR1FXNTVaVEIyVFJDZkF4ampCU2dLTWdtSllZcXR2U1NxREFJ"
+                    }
+                },
+                {
+                    "title": "Novo Nordisk's diabetes drug Ozempic may lower the risk of opioid overdoses, study says",
+                    "snippet": "The results suggest Ozempic could potentially become a new alternative treatment for opioid use disorder, which could help address the ongoing opioid ...",
+                    "publisher": "CNBC",
+                    "timestamp": "1727276401000",
+                    "newsUrl": "https://www.cnbc.com/2024/09/25/novo-nordisks-ozempic-may-lower-risk-of-opioid-overdoses-study.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBjWE5XWVRoMFZ5MDFXRWRCVFJDZkF4ampCU2dLTWdZWmRKYktyUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBjWE5XWVRoMFZ5MDFXRWRCVFJDZkF4ampCU2dLTWdZWmRKYktyUWM"
+                    }
+                },
+                {
+                    "title": "Popular diabetes and weight-loss drug associated with lower opioid overdose risk",
+                    "snippet": "Since being deemed a public health emergency in 2017, opioids are responsible for 72% of drug overdose deaths in the United States, according to the ...",
+                    "publisher": "Medical Xpress",
+                    "timestamp": "1727276401000",
+                    "newsUrl": "https://medicalxpress.com/news/2024-09-popular-diabetes-weight-loss-drug.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXZVWFJvWjNobFRUaDVOR3hMVFJERUF4aW1CU2dLTWdrQklJUkhyU1dLRlFF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXZVWFJvWjNobFRUaDVOR3hMVFJERUF4aW1CU2dLTWdrQklJUkhyU1dLRlFF"
+                    }
+                },
+                {
+                    "title": "Ozempic linked to lower opioid overdose rate in those with diabetes, study shows",
+                    "snippet": "The authors said the findings, while preliminary, suggest that Ozempic-type drugs \"may have value in helping to prevent opioid overdoses.”",
+                    "publisher": "STAT",
+                    "timestamp": "1727276519000",
+                    "newsUrl": "https://www.statnews.com/2024/09/25/ozempic-rybelsus-overdose-prevention-diabetes/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlZVkpMU1hkTVNIQjFkVU54VFJDcUJCaXFCQ2dLTWdZTk00eHVTUVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWlZVkpMU1hkTVNIQjFkVU54VFJDcUJCaXFCQ2dLTWdZTk00eHVTUVU"
+                    }
+                },
+                {
+                    "title": "Semaglutide may reduce opioid overdoses, a new study suggests",
+                    "snippet": "A study of people with type 2 diabetes and opioid use disorder suggests that the key ingredient in Ozempic and Wegovy shows promise against addiction.",
+                    "publisher": "Science News Magazine",
+                    "timestamp": "1727276400000",
+                    "newsUrl": "https://www.sciencenews.org/article/semaglutide-ozempic-opioid-overdose",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVdjM1ZKVWtweVRrTXdXazlDVFJDZkF4amlCU2dLTWd1SklvVG0wT0paaFlva2t3=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVdjM1ZKVWtweVRrTXdXazlDVFJDZkF4amlCU2dLTWd1SklvVG0wT0paaFlva2t3"
+                    }
+                },
+                {
+                    "title": "Ozempic may help manage opioid addiction: study",
+                    "snippet": "People with a history of opioid abuse who took Novo Nordisk A/S's Ozempic were less likely to overdose, according to a study that adds to a growing body of ...",
+                    "publisher": "Fortune",
+                    "timestamp": "1727282040000",
+                    "newsUrl": "https://fortune.com/2024/09/25/ozempic-wegovy-novo-nordisk-opioid-addiction-study/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJhbUpTUTBZMFZWZG9ibGROVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJhbUpTUTBZMFZWZG9ibGROVFJERUF4aW1CU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekend warriors or everyday exercisers? Here’s how often you need to work out to lower disease risks",
+            "snippet": "So much for a lazy Sunday. “Weekend warriors” — people who cram exercise into Saturdays and Sundays — can lower their risk of developing 264 diseases just ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727338500000",
+            "newsUrl": "https://nypost.com/2024/09/26/lifestyle/similar-health-benefits-for-weekend-warriors-everyday-exercisers-study/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTNXSHAwWTNBdGRFcFJWMWh3VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTNXSHAwWTNBdGRFcFJWMWh3VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Preclinical studies suggest a drug-free nasal spray could ward off respiratory infections",
+            "snippet": "A new study details how a nasal spray formulated by investigators from Brigham and Women's Hospital may work to protect against viral and bacterial ...",
+            "publisher": "Medical Xpress",
+            "timestamp": "1727247602000",
+            "newsUrl": "https://medicalxpress.com/news/2024-09-preclinical-drug-free-nasal-spray.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtSbGxPTFhNMU0yOVphMWhWVFJDU0JSalNBeWdLTWdZQmdJVE4wQVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWtSbGxPTFhNMU0yOVphMWhWVFJDU0JSalNBeWdLTWdZQmdJVE4wQVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "At-home flu vaccine approved by FDA — what to know",
+            "snippet": "People could previously get the nasal spray flu vaccine, called FluMist, from a health care provider, but now they can administer it themselves.",
+            "publisher": "Livescience.com",
+            "timestamp": "1727210433000",
+            "newsUrl": "https://www.livescience.com/health/flu/at-home-flu-vaccine-approved-by-fda-what-to-know",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVlWV3BsT1doNU9WSTNTRnB6VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVlWV3BsT1doNU9WSTNTRnB6VFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Silent Spread: Alarm Raised Over Failing Bird Flu Control Strategies",
+            "snippet": "Researchers at The Pirbright Institute have discovered that current global strategies to control bird flu are failing, with evidence of sustained ...",
+            "publisher": "SciTechDaily",
+            "timestamp": "1727318276000",
+            "newsUrl": "https://scitechdaily.com/silent-spread-alarm-raised-over-failing-bird-flu-control-strategies/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVhiMWRUZG1WWFJtdEhUemd6VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVhiMWRUZG1WWFJtdEhUemd6VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Using AI to repurpose existing drugs for treatment of rare diseases",
+            "snippet": "Identifies possible therapies for thousands of diseases, including ones with no current treatments.",
+            "publisher": "Harvard Gazette",
+            "timestamp": "1727254939000",
+            "newsUrl": "https://news.harvard.edu/gazette/story/2024/09/using-ai-to-repurpose-existing-drugs-for-treatment-of-rare-diseases/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpWMjlHYW10aVdVVmZTbmQ2VFJDZkF4ampCU2dLTWdZZGs0eExPUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUpWMjlHYW10aVdVVmZTbmQ2VFJDZkF4ampCU2dLTWdZZGs0eExPUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "More than half of Americans with STDs were infected by cheating partners, survey finds",
+            "snippet": "A survey exposed how and where STIs are spreading in the U.S. A spokesperson for the research team and a sexual health expert react to the findings and ...",
+            "publisher": "Fox News",
+            "timestamp": "1727340000000",
+            "newsUrl": "https://www.foxnews.com/health/more-half-americans-stds-infected-cheating-partners-survey-finds",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVZWa2gxWVdkM1JucEplQzF6VFJDZkF4ampCU2dLTWdhbEJZak5pUXM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVZWa2gxWVdkM1JucEplQzF6VFJDZkF4ampCU2dLTWdhbEJZak5pUXM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Millions of Americans May Have an Overlooked Iron Deficiency",
+            "snippet": "In a new study this week, researchers have found evidence that iron deficiency is \"a widespread, underrecognized public health problem.\"",
+            "publisher": "Gizmodo",
+            "timestamp": "1727278856000",
+            "newsUrl": "https://gizmodo.com/millions-of-americans-may-have-an-overlooked-iron-deficiency-2000503087",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXFXblZRU2pOeFdGTlVUWGRIVFJERUF4aW1CU2dLTWdhWlVwUk5LUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXFXblZRU2pOeFdGTlVUWGRIVFJERUF4aW1CU2dLTWdhWlVwUk5LUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "EADV24: Novo’s semaglutide shows potential in chronic skin condition in obese patients",
+            "snippet": "A small study conducted by researchers at St. Vincent's University Hospital in Dublin suggests that Novo Nordisk's GLP-1 semaglutide could treat a common ...",
+            "publisher": "Endpoints News",
+            "timestamp": "1727278380000",
+            "newsUrl": "https://endpts.com/eadv24-novos-semaglutide-shows-potential-in-chronic-skin-condition-in-obese-patients/",
+            "hasSubnews": false
+        },
+        {
+            "title": "LGBTQ+ adults may have greater risk of poor brain health, likely due to ‘minority stress’",
+            "snippet": "Those in the LGBTQ+ community may have a higher risk of adverse brain health outcomes compared with straight cisgender people — those who identify as the ...",
+            "publisher": "CNN",
+            "timestamp": "1727294400000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/health/lgbtq-dementia-depression-stroke-risk-wellness/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZRMVpHTTJka2IwbEVja1J4VFJDb0FSaXJBaWdCTWdhOUVwUXpGUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZRMVpHTTJka2IwbEVja1J4VFJDb0FSaXJBaWdCTWdhOUVwUXpGUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Woman with Stage 4 colon cancer receives a double-lung transplant at Northwestern, becomes 'part of medical history'",
+            "snippet": "After facing colorectal cancer for nearly eight years, Mandy Wilk got a double-lung transplant in June at Northwestern. She has no signs of cancer in her ...",
+            "publisher": "Chicago Sun-Times",
+            "timestamp": "1727302080000",
+            "newsUrl": "https://chicago.suntimes.com/health/2024/09/25/patient-with-stage-4-colon-cancer-receives-a-double-lung-transplant-at-northwestern-becomes-part-of-medical-history",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVVMVXQ1WjJSVVJrUmpaMnhpVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVVMVXQ1WjJSVVJrUmpaMnhpVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Weight-loss drugs are supposed to be forever. Until they run out.",
+            "snippet": "Maez Waibel lost more than 30 pounds in nine months on the new weight-loss drugs, sparking a substantial improvement in health. But instead of feeling happy ...",
+            "publisher": "The Washington Post",
+            "timestamp": "1727213422000",
+            "newsUrl": "https://www.washingtonpost.com/health/2024/09/24/weight-loss-drugs-wegovy-ozempic-short-supply/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBWMDU2VVdoSmJtUlBSMmcxVFJERUF4aW1CU2dLTWdZQkVJaE9wUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBWMDU2VVdoSmJtUlBSMmcxVFJERUF4aW1CU2dLTWdZQkVJaE9wUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists discover troubling brain changes in COVID-19 patients who lost sense of smell",
+            "snippet": "COVID-19 patients who experienced loss of smell showed long-term brain changes, including structural thinning, decreased white matter integrity, ...",
+            "publisher": "PsyPost",
+            "timestamp": "1727265914000",
+            "newsUrl": "https://www.psypost.org/scientists-discover-troubling-brain-changes-in-covid-19-patients-who-lost-sense-of-smell/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUVNVzkxZFRORmNtbGtVRmxIVFJEM0FoanVCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUVNVzkxZFRORmNtbGtVRmxIVFJEM0FoanVCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Warning over common over-the-counter cough medicine that may raise chance of getting PREGNANT",
+            "snippet": "Mucinex contains the active ingredient guaifenesin, which is thought to thin out cervical mucous and help women get pregnant, though there is no clinical ...",
+            "publisher": "Daily Mail",
+            "timestamp": "1727287912000",
+            "newsUrl": "https://www.dailymail.co.uk/health/article-13890773/Women-taking-cold-flu-drug-Mucinex-pregnant.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVlMVmw1UjB4UGFUaFZaM1ZHVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVlMVmw1UjB4UGFUaFZaM1ZHVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Alzheimer’s Drug Faces Scrutiny Over Safety, Efficacy Concerns",
+            "snippet": "The FDA-approved Alzheimer's drug donanemab is under scrutiny due to concerns about its effectiveness and safety, according to an investigation.",
+            "publisher": "Neuroscience News",
+            "timestamp": "1727297670000",
+            "newsUrl": "https://neurosciencenews.com/donanemab-efficacy-concern-27688/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJOMWw1TWxCd1kwUmZha1o1VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJOMWw1TWxCd1kwUmZha1o1VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "New mouse model captures disease progression, from gut to brain",
+            "snippet": "A new mouse model replicates the symptoms of Parkinson's disease and its progression in patients, beginning with diminished smell and other disease nonmotor ...",
+            "publisher": "Parkinson's News Today",
+            "timestamp": "1727268975000",
+            "newsUrl": "https://parkinsonsnewstoday.com/news/mouse-model-captures-parkinsons-progression-gut-brain/",
+            "hasSubnews": false
+        },
+        {
+            "title": "In chronic pain, this teenager \"could barely do anything.\" Insurer wouldn't cover surgery.",
+            "snippet": "After a family arranged for sports hernia surgery for their injured son, the insurance company declined to cover the cost. Here's what happened next.",
+            "publisher": "CBS News",
+            "timestamp": "1727305099000",
+            "newsUrl": "https://www.cbsnews.com/news/health-care-costs-insurance-surgery-medical-bills/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVBjbkZpYWxKblJYWklWVVZTVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVBjbkZpYWxKblJYWklWVVZTVFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The vegetable that can protect you from cancer",
+            "snippet": "Eat your greens. It's something we've all heard since childhood, but there's good reason why we should listen.",
+            "publisher": "BBC.com",
+            "timestamp": "1727323337000",
+            "newsUrl": "https://www.bbc.com/reel/video/p0jr86fv/the-vegetable-that-can-protect-you-from-cancer",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU5ZekJJVVd4RmNXNUZYelkyVFJDZkF4ampCU2dLTWdrSlVaRHNyS2N0cVFJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNU5ZekJJVVd4RmNXNUZYelkyVFJDZkF4ampCU2dLTWdrSlVaRHNyS2N0cVFJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Higher doses of buprenorphine may improve treatment outcomes for people with opioid use disorder",
+            "snippet": "NIH-funded analysis suggests higher doses of buprenorphine were associated with lower rates of future behavioral health-related emergency department and ...",
+            "publisher": "National Institutes of Health (NIH) (.gov)",
+            "timestamp": "1727209062000",
+            "newsUrl": "https://www.nih.gov/news-events/news-releases/higher-doses-buprenorphine-may-improve-treatment-outcomes-people-opioid-use-disorder",
+            "hasSubnews": false
+        },
+        {
+            "title": "I’m a doctor — these are the 6 common symptoms of colon cancer in young people",
+            "snippet": "Over the past three decades, rates of colon cancer among young people have been steadily rising even as diagnoses among older people are declining.",
+            "publisher": "New York Post ",
+            "timestamp": "1727273580000",
+            "newsUrl": "https://nypost.com/2024/09/25/lifestyle/these-6-symptoms-can-indicate-colon-cancer-in-young-people/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXhjbVpXV2trd1RXeHljR3hhVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXhjbVpXV2trd1RXeHljR3hhVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "India confirms first case of deadlier mpox strain",
+            "snippet": "India has confirmed its first case of a deadlier strain of mpox, which has raised alarm among health officials around the world over the rapid pace of its ...",
+            "publisher": "CNN",
+            "timestamp": "1727267940000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/asia/india-mpox-first-case-1b-hnk-intl/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZUbDlVYzIxbGNITlRSRFExVFJERUF4aW1CU2dLTWdZQnNvd1R1UVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZUbDlVYzIxbGNITlRSRFExVFJERUF4aW1CU2dLTWdZQnNvd1R1UVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "ECTRIMS 2024: McDonald criteria changes could speed diagnoses",
+            "snippet": "A 2024 version of the McDonald criteria for MS is expected to include new biomarkers to help doctors make accurate diagnoses earlier.",
+            "publisher": "Multiple Sclerosis News Today",
+            "timestamp": "1727269146000",
+            "newsUrl": "https://multiplesclerosisnewstoday.com/news-posts/2024/09/25/ectrims-2024-mcdonald-criteria-changes-speed-diagnoses/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVljR2RYYUZjMGRuRkplVkIyVFJESEFoaW9CeWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVljR2RYYUZjMGRuRkplVkIyVFJESEFoaW9CeWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Early-onset cancer cases on the rise, and alcohol may be key culprit",
+            "snippet": "The new American Association for Cancer Research report predicts more than 2 million new cancer cases diagnosed in 2024, and emphasizes the dangerous role ...",
+            "publisher": "Medical News Today",
+            "timestamp": "1727190761000",
+            "newsUrl": "https://www.medicalnewstoday.com/articles/alcohol-plays-key-role-in-cancer-risk-new-expert-report-warns",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVVVbXRKWVZVNVdXWjFWakY2VFJDb0FSaXNBaWdCTWdzRkVKUm5FbWJKdzlwaVl3=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVVVbXRKWVZVNVdXWjFWakY2VFJDb0FSaXNBaWdCTWdzRkVKUm5FbWJKdzlwaVl3"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Can MRIs ensure prostate cancer screening does more good than harm?",
+            "snippet": "A study finds that the harms of overdiagnosing prostate cancer is lessened when MRI is used as well as PSA tests.",
+            "publisher": "STAT",
+            "timestamp": "1727298283000",
+            "newsUrl": "https://www.statnews.com/2024/09/25/can-mris-ensure-prostate-cancer-screening-does-more-good-than-harm/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXdRMk5wZW5kak5WaEZSR05yVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXdRMk5wZW5kak5WaEZSR05yVFJDcUJCaXFCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Whooping Cough On The Rise In CT: What To Know About Pertussis",
+            "snippet": "Whooping Cough On The Rise In CT: What To Know About Pertussis - Across Connecticut, CT - There have been more than three-dozen cases of whooping cough ...",
+            "publisher": "Patch",
+            "timestamp": "1727195088000",
+            "newsUrl": "https://patch.com/connecticut/across-ct/whooping-cough-rise-ct-what-know-pertussis",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTBNRGd6VEY5cmNWZEtaMmN3VFJEZ0F4al9CQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTBNRGd6VEY5cmNWZEtaMmN3VFJEZ0F4al9CQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "How AI could monitor brain health and find dementia sooner",
+            "snippet": "Using advanced artificial intelligence algorithms, scientists are hoping to identify brain wave patterns associated with the risk of dementia.",
+            "publisher": "The Washington Post",
+            "timestamp": "1727199001000",
+            "newsUrl": "https://www.washingtonpost.com/wellness/2024/09/24/alzheimers-detection-ai-technology-advances/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhVRE00ZFdkWlEwTTJhRmszVFJERUF4aW1CU2dLTWdZTkVKQXNtUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXhVRE00ZFdkWlEwTTJhRmszVFJERUF4aW1CU2dLTWdZTkVKQXNtUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Measles case confirmed at Minneapolis elementary school",
+            "snippet": "The department would not say which school but said families were notified if their kids may have been exposed.",
+            "publisher": "CBS Minnesota",
+            "timestamp": "1727307462000",
+            "newsUrl": "https://www.cbsnews.com/minnesota/news/measles-confirmed-minneapolis-elementary-school/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVFORUZhU0ZJM2VVTklRWGhJVFJDUkF4ajhCU2dLTWdNOUFBZw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVFORUZhU0ZJM2VVTklRWGhJVFJDUkF4ajhCU2dLTWdNOUFBZw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Women dying ‘unnecessarily’ of heart disease, say experts",
+            "snippet": "Leading health figures in UK blame misconception that the number one killer of women is a 'man's disease'",
+            "publisher": "The Guardian",
+            "timestamp": "1727217000000",
+            "newsUrl": "https://www.theguardian.com/society/2024/sep/24/women-dying-unnecessarily-of-heart-disease-say-experts",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUlibGxDU2xKMVVWOVRNelEzVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUlibGxDU2xKMVVWOVRNelEzVFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Early MS Symptoms Linked to Long-Term Disability Outcomes",
+            "snippet": "Certain initial symptoms of multiple sclerosis (MS), like blurry vision and sphincter dysfunction, may predict long-term disability outcomes.",
+            "publisher": "Neuroscience News",
+            "timestamp": "1727187506000",
+            "newsUrl": "https://neurosciencenews.com/early-ms-neurology-outcomes-27669/",
+            "hasSubnews": false
+        },
+        {
+            "title": "Air Pollution Linked to White Matter Changes in Children",
+            "snippet": "A recent study links exposure to air pollutants during pregnancy and childhood with lasting changes in the brain's white matter microstructure, ...",
+            "publisher": "Neuroscience News",
+            "timestamp": "1727288165000",
+            "newsUrl": "https://neurosciencenews.com/air-pollution-white-matter-neurodevelopment-27682/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUhSVlF5YjNkMFZIbFZjM1JmVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUhSVlF5YjNkMFZIbFZjM1JmVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "150-seconds walking workout: A rapid way to burn calories",
+            "snippet": "Dr. Janani Subburaj has shared a 150-second walking workout on Instagram that includes exercises like march past, jumping jacks, high knees, butt kick.",
+            "publisher": "The Times of India",
+            "timestamp": "1727339400000",
+            "newsUrl": "https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/150-seconds-walking-workout-a-rapid-way-to-burn-calories/articleshow/113695023.cms",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHhjakpvZGpaRVdIRllWbDl2VFJDZkF4ampCU2dLTWdheEZKQ1BzUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHhjakpvZGpaRVdIRllWbDl2VFJDZkF4ampCU2dLTWdheEZKQ1BzUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Israeli weight loss pill makes history with FDA approval",
+            "snippet": "The Israeli Epitomee pharmaceutical company receives FDA approval for new weight loss pill which expands in the stomach and does not contain an active agent ...",
+            "publisher": "Ynetnews",
+            "timestamp": "1727330195000",
+            "newsUrl": "https://www.ynetnews.com/health_science/article/r1srcwgra",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhhM0ZJTTNWc01FNDFibmxsVFJESkFSajdBU2dCTWdZcGNKYk5yUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXhhM0ZJTTNWc01FNDFibmxsVFJESkFSajdBU2dCTWdZcGNKYk5yUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "‘No turning back’: Unprecedented dengue outbreak in Los Angeles signals infection tipping point",
+            "snippet": "Dengue cases have been identified in Los Angeles in the sprawling city's first outbreak of the disease with no ties to international travel.",
+            "publisher": "The Telegraph",
+            "timestamp": "1727186220000",
+            "newsUrl": "https://www.telegraph.co.uk/global-health/science-and-disease/los-angeles-dengue-outbreak-signals-infection-tipping-point/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXdlV1ppUlZseGNYUlBUa1JtVFJDcUF4aW9CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXdlV1ppUlZseGNYUlBUa1JtVFJDcUF4aW9CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "In breakthrough, Israeli researchers detect Parkinson’s markers 15 years before symptoms",
+            "snippet": "For the first time, researchers at Tel Aviv University have developed a method to detect protein aggregation in cells that are the hallmark of Parkinson's ...",
+            "publisher": "The Times of Israel",
+            "timestamp": "1727191080000",
+            "newsUrl": "https://www.timesofisrael.com/in-breakthrough-israeli-researchers-detect-parkinsons-markers-15-years-before-symptoms/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWhZa3RaUW1GYVUxRnNiMVYyVFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWhZa3RaUW1GYVUxRnNiMVYyVFJERUF4aW5CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "5 foods that can help to reduce cholesterol",
+            "snippet": "High cholesterol levels raise the risk of heart disease, stroke, and other health issues. Medication can be effective. Incorporating specific items into ...",
+            "publisher": "Mint",
+            "timestamp": "1727241305000",
+            "newsUrl": "https://www.livemint.com/web-stories/5-foods-that-can-help-to-reduce-cholesterol-11727253116693.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXFNR1p2ZVVkT1JVTktZMDVZVFJEakJSaWZBeWdLTWdNQkVCSQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXFNR1p2ZVVkT1JVTktZMDVZVFJEakJSaWZBeWdLTWdNQkVCSQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dr. Oz discusses breakthroughs in AD research",
+            "snippet": "There's a lot going on in Alzheimer's and dementia research these days. ...",
+            "publisher": "NJ.com",
+            "timestamp": "1727271780000",
+            "newsUrl": "https://www.nj.com/advice/2024/09/dr-oz-discusses-breakthroughs-in-ad-research.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUZlblkxVkZSamNVWk1la2swVFJEbUF4ajNCQ2dLTWdtWk1wNFVvYW1TcGdJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUZlblkxVkZSamNVWk1la2swVFJEbUF4ajNCQ2dLTWdtWk1wNFVvYW1TcGdJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Study finds drinking plenty of coffee is good for you",
+            "snippet": "In the time-honored tradition of things being both bad for you and good for you, depending on variables, we learn today that coffee is good for you.",
+            "publisher": "Boing Boing",
+            "timestamp": "1727267915000",
+            "newsUrl": "https://boingboing.net/2024/09/25/study-finds-drinking-plenty-of-coffee-is-good-for-you.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNURiVUkzTldKTFZVUmFTRkJuVFJDMkF4aTlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNURiVUkzTldKTFZVUmFTRkJuVFJDMkF4aTlCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "I Tracked My Blood Sugar for a Month. It Was an Emotional Roller Coaster",
+            "snippet": "Biosensors that measure glucose are now available without a prescription. Wearing one burst my wellness bubble in ways I wasn't prepared for.",
+            "publisher": "CNET",
+            "timestamp": "1727267400000",
+            "newsUrl": "https://www.cnet.com/health/medical/i-tracked-my-blood-sugar-for-a-month-it-was-an-emotional-roller-coaster/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9PSFpSUVV0ekxXTm5XVjg0VFJDZkF4ampCU2dLTWdZQklJempHZ2s=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9PSFpSUVV0ekxXTm5XVjg0VFJDZkF4ampCU2dLTWdZQklJempHZ2s"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Patients at Washington dental clinic told to get tested for HIV, hepatitis",
+            "snippet": "People who received care from Sandy Fletcher Montano between November 2021 and June 2022, were told to get tested for hepatitis B, hepatitis C and HIV.",
+            "publisher": "KIRO Seattle",
+            "timestamp": "1727236620000",
+            "newsUrl": "https://www.kiro7.com/news/local/patients-washington-dental-clinic-told-get-tested-hiv-hepatitis/QXPJIY5I2BDAJJL77QOVTD2AOU/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJTMFZZZG5FMlFuSllNRlkwVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJTMFZZZG5FMlFuSllNRlkwVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Antiaging enthusiasts are taking a pill to extend their lives. Will it work?",
+            "snippet": "Rapamycin is typically prescribed to organ transplant patients to suppress their immune systems, but some think the drug can do much more.",
+            "publisher": "The Seattle Times",
+            "timestamp": "1727218919000",
+            "newsUrl": "https://www.seattletimes.com/nation-world/antiaging-enthusiasts-are-taking-a-pill-to-extend-their-lives-will-it-work/",
+            "hasSubnews": false
+        },
+        {
+            "title": "Women whose periods stop early at higher risk of autoimmune conditions, study shows",
+            "snippet": "Women with premature ovarian insufficiency condition are more likely to develop conditions such as diabetes and lupus.",
+            "publisher": "The Guardian",
+            "timestamp": "1727333220000",
+            "newsUrl": "https://www.theguardian.com/society/2024/sep/26/women-periods-stop-early-autoimmune-diseases-premature-ovarian-insufficiency",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDROV1p1WVdSWlN6ZDRNSE0yVFJDUkF4ajhCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDROV1p1WVdSWlN6ZDRNSE0yVFJDUkF4ajhCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Do you have to soak beans overnight? Here's what science says",
+            "snippet": "Sure there are some benefits to soaking your dry beans—but it's also a real hassle. We asked experts to weigh in on how much it really matters.",
+            "publisher": "National Geographic",
+            "timestamp": "1727290974000",
+            "newsUrl": "https://www.nationalgeographic.com/science/article/should-you-soak-beans",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXhMVE5yUWxoNFRWOUZaazgwVFJEckJCanZBeWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXhMVE5yUWxoNFRWOUZaazgwVFJEckJCanZBeWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "St. Lucia’s first Olympic medalist returns home to cheers and calypso",
+            "snippet": "As the first St. Lucian to win an Olympic medal, sprinter Julien Alfred already has poetry, paintings and even a calypso song dedicated to her.",
+            "publisher": "The Associated Press",
+            "timestamp": "1727217240000",
+            "newsUrl": "https://apnews.com/article/julien-alfred-st-lucia-olympic-medal-gold-569f641854b86415102c5d49d89c9550",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVhlVk56WjBoVFVVaHZSMk4wVFJEVkFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVhlVk56WjBoVFVVaHZSMk4wVFJEVkFSakFBaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "23 Doctors Who Should Have Their Licenses Revoked Because My GOD, They're So Unprofessional",
+            "snippet": "\"I got my period at eight years old. My doctor said to my mom, 'In some places, she's now old enough to marry.'\"",
+            "publisher": "BuzzFeed",
+            "timestamp": "1727280962000",
+            "newsUrl": "https://www.buzzfeed.com/kaylayandoli/unprofessional-things-doctors-said-to-patients",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUNkVVZQYlZkbWFtMDFZakZFVFJEckF4andCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUNkVVZQYlZkbWFtMDFZakZFVFJEckF4andCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "These 15 Factors Are Linked to Early Dementia Risk, a Major Study Found",
+            "snippet": "While dementia is much more common in older adults, hundreds of thousands of people are diagnosed with young-onset dementia (YOD) each year – and an ...",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727307532000",
+            "newsUrl": "https://www.sciencealert.com/these-15-factors-are-linked-to-early-dementia-risk-a-major-study-found",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRZMlpxVVZOcU5YQnVMV1JCVFJDRUFoaUNCU2dLTWdhdFVvcE9yUVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRZMlpxVVZOcU5YQnVMV1JCVFJDRUFoaUNCU2dLTWdhdFVvcE9yUVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Common Antidepressants May Have Another Surprising Effect on Your Brain",
+            "snippet": "Cognitive tests before and after use of a medication prescribed for mood disorders may improve our thinking abilities.",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727309268000",
+            "newsUrl": "https://www.sciencealert.com/common-antidepressants-may-have-another-surprising-effect-on-your-brain",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTBjMk5UV0hJMFNEQXpka2sxVFJDRUFoaUNCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTBjMk5UV0hJMFNEQXpka2sxVFJDRUFoaUNCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Colorado Tops U.S. in Cocaine Use…Again",
+            "snippet": "Colorado cocaine use topped the country for the second time in three years, beating out California, New York and Ohio, according to federal data.",
+            "publisher": "Westword",
+            "timestamp": "1727241278000",
+            "newsUrl": "https://www.westword.com/news/colorado-tops-us-cocaine-use-again-22039525",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWhWSEJKWkRCQ0xXWXdWV1prVFJERUF4aW1CU2dLTWdNQlVBZw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWhWSEJKWkRCQ0xXWXdWV1prVFJERUF4aW1CU2dLTWdNQlVBZw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "NICU doctors sound alarm on rise in syphilis cases",
+            "snippet": "It's something that ...",
+            "publisher": "KOLN",
+            "timestamp": "1727229180000",
+            "newsUrl": "https://www.1011now.com/2024/09/25/nicu-doctors-sound-alarm-rise-syphilis-cases/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVpZM1JWV2pGdlFXbERZbTFwVFJDcEFSaXNBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVpZM1JWV2pGdlFXbERZbTFwVFJDcEFSaXNBaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Guernsey boosts hornet nest destruction capability with new lance",
+            "snippet": "The Guernsey Asian Hornet Team has increased its nest destruction capability after acquiring a new lance, says the States of Guernsey.",
+            "publisher": "BBC.com",
+            "timestamp": "1727270992000",
+            "newsUrl": "https://www.bbc.com/news/articles/czxd1egq1zno",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNU5UM2hZVDNwVVJuQlFSREkwVFJDZkF4ampCU2dLTWdPQm5BVQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNU5UM2hZVDNwVVJuQlFSREkwVFJDZkF4ampCU2dLTWdPQm5BVQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Harvard medical student ate over 700 eggs in a month — and his cholesterol levels actually dropped",
+            "snippet": "Harvard medical student, Dr. Nick Norwitz ate 720 eggs in a month to study the effects the \"fowl\" diet had on his cholesterol and saw that his levels ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727253055000",
+            "newsUrl": "https://nypost.com/2024/09/25/lifestyle/harvard-medical-student-nick-norwitz-ate-720-eggs-in-a-month-and-cholesterol-levels-dropped/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDJiV2RZTlRWSVNXNU9hbmh1VFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDJiV2RZTlRWSVNXNU9hbmh1VFJERUF4aW5CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Want To Prevent Long Covid? Should You Take Metformin Or Paxlovid?",
+            "snippet": "Paxlovid comes with a host of contraindications and costs $1561 for a 5- day course. Metformin costs $1/day and reduces viral load. Which should you take?",
+            "publisher": "Forbes",
+            "timestamp": "1727287585000",
+            "newsUrl": "https://www.forbes.com/sites/judystone/2024/09/25/want-to-prevent-long-covid-should-you-take-metformin-or-paxlovid/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDNObVEzY3pSa1duSkNSeTFZVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDNObVEzY3pSa1duSkNSeTFZVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "White House 'supplements czar' reveals the three dietary products you should take to stay healthy",
+            "snippet": "Dr Stefan Pasiakos, director of the Office of Dietary Supplements at the National Institutes of Health under President Joe Biden, has revealed his top ...",
+            "publisher": "Daily Mail",
+            "timestamp": "1727264590000",
+            "newsUrl": "https://www.dailymail.co.uk/health/article-13886943/joe-biden-supplements-stay-healthy.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRWSEJtYmxsdlFVNVJZMUZ2VFJDZkF4ampCU2dLTWdhdEpJaXVwUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRWSEJtYmxsdlFVNVJZMUZ2VFJDZkF4ampCU2dLTWdhdEpJaXVwUVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists Discovered a Heightened Toxicity Risk For Children With Autism, ADHD",
+            "snippet": "The number of people being diagnosed with autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) has risen sharply in recent ...",
+            "publisher": "ScienceAlert",
+            "timestamp": "1727224677000",
+            "newsUrl": "https://www.sciencealert.com/scientists-discovered-a-heightened-toxicity-risk-for-children-with-autism-adhd",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlOa1p2VFhCc1JsWmZhalJNVFJEZ0Foam1CaWdLTWdZaEk0cHRzUVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVlOa1p2VFhCc1JsWmZhalJNVFJEZ0Foam1CaWdLTWdZaEk0cHRzUVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Extracellular Vesicles Play Key Role in Brain Development",
+            "snippet": "A new study reveals that extracellular vesicles (EVs), tiny bubbles released by cells, play a crucial role in brain development by facilitating specialized ...",
+            "publisher": "Neuroscience News",
+            "timestamp": "1727284406000",
+            "newsUrl": "https://neurosciencenews.com/extracellular-vesicles-brain-development-27681/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXhjME50VlVneVRrVnZOV2xyVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXhjME50VlVneVRrVnZOV2xyVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Psychedelic Drug Reduces Anxiety by Targeting Fast-spiking Interneurons",
+            "snippet": "The psychedelic DOI, a compound similar to LSD, reduced anxiety in mice by activating specific brain cells called fast-spiking interneurons.",
+            "publisher": "Neuroscience News",
+            "timestamp": "1727209311000",
+            "newsUrl": "https://neurosciencenews.com/anxiety-doi-interneurons-27674/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURTM2gwV0daV0xTMTJRbkptVFJERUF4aW1CU2dLTWdhZFVvcHRvUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURTM2gwV0daV0xTMTJRbkptVFJERUF4aW1CU2dLTWdhZFVvcHRvUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dietician reveals the five most common habits to AVOID when trying to lose weight",
+            "snippet": "Courtney Kassis, from Pennsylvania, is a registered dietician who frequently shares her health tips to her TikTok channel where she boasts over 424000 ...",
+            "publisher": "Daily Mail",
+            "timestamp": "1727281673000",
+            "newsUrl": "https://www.dailymail.co.uk/femail/article-13890413/dietician-five-common-never-lose-weight-tiktok.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTVSbmx5TTA4M2VXUnVZalpDVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTVSbmx5TTA4M2VXUnVZalpDVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Parkinson’s disease: New study shifts focus from brain to early gastrointestinal symptoms",
+            "snippet": "A new study suggests that Parkinson's disease may originate in the gut rather than the brain. Research linking gastrointestinal issues like ulcers and ...",
+            "publisher": "The Indian Express",
+            "timestamp": "1727186449000",
+            "newsUrl": "https://indianexpress.com/article/lifestyle/health/parkinsons-gut-first-theory-brain-gastrointestinal-issues-health-9585530/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUpSSGxUYzJSaVVtZDNNMjFWVFJDZkF4ampCU2dLTWdNaEFSUQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUpSSGxUYzJSaVVtZDNNMjFWVFJDZkF4ampCU2dLTWdNaEFSUQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "I Was Today Years Old When I Learned These 18 Dark, Disturbing Facts On The Internet",
+            "snippet": "Recently, Redditor u/ShinyShayn2008 asked the good folks of Reddit, \"What is the most horrifying piece of information you have to share?",
+            "publisher": "BuzzFeed",
+            "timestamp": "1727201762000",
+            "newsUrl": "https://www.buzzfeed.com/angelicaamartinez/dark-disturbing-facts-reddit",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDNRa2QzV1U0MFIzcDFXazVyVFJDUUF4ai1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDNRa2QzV1U0MFIzcDFXazVyVFJDUUF4ai1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Keep forgetting your shingles shot? These sufferers wish they hadn’t.",
+            "snippet": "When Nancy Greeley was in her 50s, her sister, an infectious-disease specialist at the University of Rochester, told her to get the shingles vaccine.",
+            "publisher": "Yahoo! Voices",
+            "timestamp": "1727189703000",
+            "newsUrl": "https://www.yahoo.com/news/keep-forgetting-shingles-shot-sufferers-145503832.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHlOMVIwYkVsaFJtMUpXWEJKVFJDckF4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHlOMVIwYkVsaFJtMUpXWEJKVFJDckF4aUFCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Brazos County’s Second human patient with West Nile Virus confirmed",
+            "snippet": "Both patients reside ...",
+            "publisher": "KBTX",
+            "timestamp": "1727295780000",
+            "newsUrl": "https://www.kbtx.com/2024/09/25/second-human-patient-with-west-nile-virus-confirmed-brazos-county/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNhV000VUhka1prcFdiMXBJVFJDZkF4ampCU2dLTWdZUkI2SnBBZzA=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUNhV000VUhka1prcFdiMXBJVFJDZkF4ampCU2dLTWdZUkI2SnBBZzA"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A Man in My Support Group Offered Me Something My Husband Never Could. It’s Making Me Think Twice.",
+            "snippet": "How to Do It is Slate's sex advice column. Have a question? Send it to Jessica and Rich here. It's anonymous! Dear How to Do It,. I'm a 58-year-old gay man, ...",
+            "publisher": "Slate",
+            "timestamp": "1727205840000",
+            "newsUrl": "https://slate.com/advice/2024/09/support-group-man-offer-husband-sex-advice.html",
+            "hasSubnews": false
+        }
+    ]
+}

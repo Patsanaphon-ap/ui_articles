@@ -1,0 +1,577 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah",
+            "snippet": "NEW YORK (AP) — The U.S., France and other allies jointly called Wednesday for an immediate 21-day cease-fire to allow for negotiations in the escalating ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1727343420000",
+            "newsUrl": "https://apnews.com/article/biden-israel-hezbollah-war-ff2ec626f5d8883014f577b9a0cfaf1e",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXJORk0wV2tSU1NEUkVhaTF1VFJDUEF4alhCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXJORk0wV2tSU1NEUkVhaTF1VFJDUEF4alhCQ2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Report: Push for immediate Israel-Hezbollah ceasefire collapsed, leading to current temporary proposal",
+                    "snippet": "Before the current proposal for a temporary Israel-Hezbollah truce to facilitate negotiations for a full ceasefire, disagreements between the sides sunk ...",
+                    "publisher": "The Times of Israel",
+                    "timestamp": "1727348351000",
+                    "newsUrl": "https://www.timesofisrael.com/liveblog_entry/report-push-for-immediate-israel-hezbollah-ceasefire-collapsed-leading-to-current-temporary-proposal/"
+                },
+                {
+                    "title": "Israel's Netanyahu says troops will keep fighting Hezbollah \"with full force\" as U.S., France propose cease-fire",
+                    "snippet": "President Biden and his French counterpart say an Israel-Hezbollah cease-fire is needed now to avoid a potentially \"much broader conflict.\"",
+                    "publisher": "CBS News",
+                    "timestamp": "1727348501000",
+                    "newsUrl": "https://www.cbsnews.com/news/israel-netanyahu-hezbollah-us-france-cease-fire-proposal/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDRaRUpmUjI1RVZuaG9TVFZFVFJDUkF4ajhCU2dLTWdZQm9JWXhOUVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDRaRUpmUjI1RVZuaG9TVFZFVFJDUkF4ajhCU2dLTWdZQm9JWXhOUVU"
+                    }
+                },
+                {
+                    "title": "Live updates: Israel distances itself from U.S.-French proposal to halt Hezbollah conflict",
+                    "snippet": "Biden administration officials said they hoped talks over a longer-term agreement in Lebanon could renew cease-fire and hostage release negotiations in ...",
+                    "publisher": "The Washington Post",
+                    "timestamp": "1727348342000",
+                    "newsUrl": "https://www.washingtonpost.com/world/2024/09/26/israel-lebanon-hezbollah-hamas-war-news-gaza/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW1XakpIVDJaRlFsQktSVE5PVFJERUF4aW1CU2dLTWdZQkFKQW1vZ1k=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW1XakpIVDJaRlFsQktSVE5PVFJERUF4aW1CU2dLTWdZQkFKQW1vZ1k"
+                    }
+                },
+                {
+                    "title": "US, France and allies call for 21-day ceasefire across Israel-Lebanon border",
+                    "snippet": "The United States, France and some of their allies called for an immediate 21-day ceasefire across the Israel-Lebanon border while also expressing support ...",
+                    "publisher": "FRANCE 24 English",
+                    "timestamp": "1727349825000",
+                    "newsUrl": "https://www.france24.com/en/video/20240926-us-france-and-allies-call-for-21-day-ceasefire-across-israel-lebanon-border",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNHlUVFJ0ZVhGaWRYaFBTMlJEVFJDZkF4ampCU2dLTWdNQjhBQQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNHlUVFJ0ZVhGaWRYaFBTMlJEVFJDZkF4ampCU2dLTWdNQjhBQQ"
+                    }
+                },
+                {
+                    "title": "Live Updates: U.S. Pushes Cease-Fire in Lebanon as Netanyahu Says Israel Will Fight On",
+                    "snippet": "The Israeli leader was heading to New York for talks. He did not comment on the proposal to pause fighting with Hezbollah, but instructed Israeli forces to ...",
+                    "publisher": "The New York Times",
+                    "timestamp": "1727349285000",
+                    "newsUrl": "https://www.nytimes.com/live/2024/09/26/world/israel-lebanon-hezbollah-hamas",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUllVTR0YVVGYVpGUlpZM0pqVFJDcUJCaXFCQ2dLTWdrQkFJYWtQR010S1FJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUllVTR0YVVGYVpGUlpZM0pqVFJDcUJCaXFCQ2dLTWdrQkFJYWtQR010S1FJ"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "He’s the world’s longest-serving death row inmate. A court just declared him innocent",
+            "snippet": "A pair of blood-spattered trousers in a miso tank and an allegedly forced confession helped send Iwao Hakamata to death row more than five decades ago.",
+            "publisher": "CNN",
+            "timestamp": "1727341740000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/asia/worlds-longest-death-row-prisoner-japan-intl-hnk/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWxUbFZYZG1GTll6TjVVVlJWVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWxUbFZYZG1GTll6TjVVVlJWVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Iwao Hakamada: World's longest-serving death row inmate acquitted in Japan",
+                    "snippet": "An 88-year-old man who is the world's longest-serving death row inmate has been acquitted by a Japanese court, after it found that evidence used against him ...",
+                    "publisher": "BBC.com",
+                    "timestamp": "1727341385000",
+                    "newsUrl": "https://www.bbc.com/news/articles/c5y9x6zrkrro",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVFiaTFSZWpkbVFXTlJVbkJrVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVFiaTFSZWpkbVFXTlJVbkJrVFJDb0FSaXNBaWdCTWdB"
+                    }
+                },
+                {
+                    "title": "World's longest-serving death row inmate — an 88-year-old former boxer — is acquitted of 1966 murders in Japan",
+                    "snippet": "A Japanese court ruled Thursday that an 88-year-old former boxer was not guilty in a retrial for a 1966 quadruple murder, reversing an earlier decision that ...",
+                    "publisher": "CBS News",
+                    "timestamp": "1727348343000",
+                    "newsUrl": "https://www.cbsnews.com/news/iwao-hakamada-longest-serving-death-row-inmate-acquitted-murder-retrial-japan/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXhObUZMV1c5V1NYRlNRVTF1VFJDUkF4ajhCU2dLTWdrWk1aUkptaWttendF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXhObUZMV1c5V1NYRlNRVTF1VFJDUkF4ajhCU2dLTWdrWk1aUkptaWttendF"
+                    }
+                },
+                {
+                    "title": "Japanese man acquitted of 1966 murders after 45 years on death row",
+                    "snippet": "TOKYO, Sept 26 (Reuters) - A Japanese man said to have spent the world's longest time on death row was acquitted of murder on Thursday, his legal team said, ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1727345581000",
+                    "newsUrl": "https://www.reuters.com/world/asia-pacific/japanese-man-acquitted-1966-murders-after-45-years-death-row-2024-09-26/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVZSMWxuWVdoWk5uZDVTMnRHVFJEZUF4aUNCU2dLTWdrQmNJN1VLT2RoemdF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVZSMWxuWVdoWk5uZDVTMnRHVFJEZUF4aUNCU2dLTWdrQmNJN1VLT2RoemdF"
+                    }
+                },
+                {
+                    "title": "Man wins landmark acquittal in 1966 quadruple murder retrial in Japan",
+                    "snippet": "A Japanese court acquits an 88-year-old former professional boxer in a high-profile retrial decades after he was sentenced to death over a 1966 quadruple ...",
+                    "publisher": "Kyodo News Plus",
+                    "timestamp": "1727343115000",
+                    "newsUrl": "https://english.kyodonews.net/news/2024/09/79ace687954e-japan-court-to-rule-on-man-in-retrial-over-1966-quadruple-murder.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpTMHQ1WldGMGVVODBXbFJNVFJDb0FSaXNBaWdCTWdZbFpvenNNUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpTMHQ1WldGMGVVODBXbFJNVFJDb0FSaXNBaWdCTWdZbFpvenNNUVk"
+                    }
+                },
+                {
+                    "title": "Japan court acquits a former boxer, the longest-serving death row inmate, in a 1966 murder retrial",
+                    "snippet": "TOKYO (AP) — A Japanese court ruled Thursday that an 88-year-old former boxer was not guilty in a retrial for a 1966 quadruple murder, reversing an earlier ...",
+                    "publisher": "The Associated Press",
+                    "timestamp": "1727339280000",
+                    "newsUrl": "https://apnews.com/article/japan-retrial-boxer-hakamada-death-penalty-a99eb431ab14fbb8edeb5113e7043977",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVZVMjh4TkdSV1pWTjNhamR1VFJDUEF4alhCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVZVMjh4TkdSV1pWTjNhamR1VFJDUEF4alhCQ2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Lebanon strikes preparing for ground offensive - Israel army chief",
+            "snippet": "Israel's military chief has told troops that extensive air strikes in Lebanon targeting the armed group Hezbollah could pave the way for them to “enter ...",
+            "publisher": "BBC.com",
+            "timestamp": "1727330841000",
+            "newsUrl": "https://www.bbc.com/news/articles/c8xe8nkj9wyo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXFNbFl5UVV0d1RFZHRWa2xUVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXFNbFl5UVV0d1RFZHRWa2xUVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Israeli military prepares for possible ground incursion in Lebanon",
+                    "snippet": "Israel is preparing for a possible ground incursion in Lebanon as Israel and Hezbollah trade waves of strikes. Follow for live news updates.",
+                    "publisher": "CNN",
+                    "timestamp": "1727348760000",
+                    "newsUrl": "https://www.cnn.com/world/live-news/israel-lebanon-war-hezbollah-09-26-24-intl-hnk/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUVlVzFVUkc5V04wZFNVVUpUVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUVlVzFVUkc5V04wZFNVVUpUVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Lebanese officials say an Israeli strike killed 23 Syrian workers and family members in Lebanon",
+                    "snippet": "An Israeli airstrike in Lebanon hit a building housing Syrian workers and their families, killing 23 people, Lebanese officials say.",
+                    "publisher": "The Times of Israel",
+                    "timestamp": "1727346840000",
+                    "newsUrl": "https://www.timesofisrael.com/liveblog_entry/lebanese-officials-say-an-israeli-strike-killed-23-syrian-workers-and-family-members-in-lebanon/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXlja1kzY0Raa1RGVkpXV295VFJERUF4aW1CU2dLTWdNQmhBUQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXlja1kzY0Raa1RGVkpXV295VFJERUF4aW1CU2dLTWdNQmhBUQ"
+                    }
+                },
+                {
+                    "title": "Israel tells its troops to prepare for a possible ground operation in Lebanon",
+                    "snippet": "TEL AVIV, Israel (AP) — Israel is preparing for a possible ground operation in Lebanon, its army chief said Wednesday as Hezbollah fired dozens of rockets ...",
+                    "publisher": "The Associated Press",
+                    "timestamp": "1727316600000",
+                    "newsUrl": "https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVlRVVp3TURSTU4wZFFkWFV3VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVlRVVp3TURSTU4wZFFkWFV3VFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "What could pull the Israel-Hizbullah conflict back from all-out war?",
+                    "snippet": "Also on the daily podcast: the first in our American swing-state series and looking back on a year of Economist Podcasts+ | Podcasts.",
+                    "publisher": "The Economist",
+                    "timestamp": "1727348276000",
+                    "newsUrl": "https://www.economist.com/podcasts/2024/09/26/what-could-pull-the-israel-hizbullah-conflict-back-from-all-out-war",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNDFjVkpTZDA5emJHeHBYMHhpVFJDZkF4ampCU2dLTWdNUmNSQQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNDFjVkpTZDA5emJHeHBYMHhpVFJDZkF4ampCU2dLTWdNUmNSQQ"
+                    }
+                },
+                {
+                    "title": "Israel-Hamas war latest: Israeli airstrike kills 23 Syrian refugees in Lebanon",
+                    "snippet": "Lebanon's state-run news agency says 23 Syrian refugees have been killed in Lebanon by an Israeli airstrike.",
+                    "publisher": "ABC News",
+                    "timestamp": "1727346709000",
+                    "newsUrl": "https://abcnews.go.com/International/wireStory/israel-hamas-war-latest-israeli-airstrike-kills-23-114176194",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtOMlJvUmw5WVN6TkhXUzFFVFJDZkF4ampCU2dLTWdZSmtZQXMxUUU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWtOMlJvUmw5WVN6TkhXUzFFVFJDZkF4ampCU2dLTWdZSmtZQXMxUUU"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Putin outlines new rules for Russian use of vast nuclear arsenal",
+            "snippet": "Comments appear to significantly lower the threshold for Russia to use its vast nuclear arsenal.",
+            "publisher": "Al Jazeera English",
+            "timestamp": "1727319038000",
+            "newsUrl": "https://www.aljazeera.com/news/2024/9/26/putin-outlines-new-rules-for-russian-use-of-vast-nuclear-arsenal",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUpWSEJEVjBsM1pHbHhUbXN6VFJEZ0F4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUpWSEJEVjBsM1pHbHhUbXN6VFJEZ0F4aUFCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Kremlin says changes to Russia's nuclear policy are a signal to the West",
+                    "snippet": "MOSCOW, Sept 26 (Reuters) - The Kremlin said on Thursday that changes to Russia's nuclear weapons doctrine outlined by President Vladimir Putin should be ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1727345693000",
+                    "newsUrl": "https://www.reuters.com/world/europe/kremlin-says-changes-russias-nuclear-policy-are-signal-west-2024-09-26/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFiVmxGWVd3dFdVaGtRV2hTVFJEU0F4aVNCU2dLTWdZQlVJekd3QVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWFiVmxGWVd3dFdVaGtRV2hTVFJEU0F4aVNCU2dLTWdZQlVJekd3QVE"
+                    }
+                },
+                {
+                    "title": "Kremlin says changes in Russia's nuclear doctrine are intended to send a warning to the West",
+                    "snippet": "The Kremlin says that changes in Russia's nuclear doctrine are intended to discourage Ukraine's Western allies from supporting attacks on Russia.",
+                    "publisher": "ABC News",
+                    "timestamp": "1727350312000",
+                    "newsUrl": "https://abcnews.go.com/International/wireStory/kremlin-russias-nuclear-doctrine-intended-send-warning-west-114177793",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFhSE5UWWpCUGQwMUlNRWQxVFJDZkF4ampCU2dLTWdZQmtJd2p4d1U=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWFhSE5UWWpCUGQwMUlNRWQxVFJDZkF4ampCU2dLTWdZQmtJd2p4d1U"
+                    }
+                },
+                {
+                    "title": "Putin is intensifying nuclear threats as the West wavers over allowing Ukraine to use long-range weapons",
+                    "snippet": "President Vladimir Putin said he was considering change Russia's nuclear doctrine so it could go after supporting countries if it was attacked.",
+                    "publisher": "Business Insider",
+                    "timestamp": "1727350020000",
+                    "newsUrl": "https://www.businessinsider.com/putin-russia-intensifies-nuclear-threats-west-hesitates-over-ukraine-weapons-2024-9",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVJOak56Ym5SRFVrTlZWak0xVFJEUEF4aVdCU2dLTWdZcE5aTE5uUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVJOak56Ym5SRFVrTlZWak0xVFJEUEF4aVdCU2dLTWdZcE5aTE5uUWs"
+                    }
+                },
+                {
+                    "title": "Putin issues nuclear warning to the West over strikes on Russia from Ukraine",
+                    "snippet": "President Vladimir Putin warned the West on Wednesday that Russia could use nuclear weapons if it was struck with conventional missiles, and that Moscow ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727292420000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/europe/putin-nuclear-warns-west-missile-strikes-ukraine-intl-latam/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWxSbDlPV2tKaU1rdGFNa3hWVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWxSbDlPV2tKaU1rdGFNa3hWVFJDZkF4amlCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Putin lowers threshold for nuclear response as Biden administration pledges new funding to Ukraine",
+                    "snippet": "President Putin said any nation's conventional attack on Russia supported by a nuclear power will be considered a joint attack in a newly revised nuclear ...",
+                    "publisher": "Fox News",
+                    "timestamp": "1727312280000",
+                    "newsUrl": "https://www.foxnews.com/world/putin-lowers-threshold-nuclear-response-biden-admin-pledges-new-funding-ukraine",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTNXbU5rU25kc01YZHpiMWRFVFJDZkF4ampCU2dLTWdheE5KaVFIUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTNXbU5rU25kc01YZHpiMWRFVFJDZkF4ampCU2dLTWdheE5KaVFIUWs"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Residents of north say cease-fire is gift to Hezbollah",
+            "snippet": "Local leaders up north say they won't accept insufficient agreements with Hezbollah before returning home, demanding decisive action from Netanyahu's ...",
+            "publisher": "Ynetnews",
+            "timestamp": "1727339322000",
+            "newsUrl": "https://www.ynetnews.com/article/sjvhyfzrr",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU1Za3ROZEhKSmFIRk9Welk0VFJDM0FSaVRBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNU1Za3ROZEhKSmFIRk9Welk0VFJDM0FSaVRBaWdCTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "They settled the northern border. Now these elderly Israelis worry they won’t return",
+                    "snippet": "For many seniors who have spent the past year displaced in a Haifa hotel, the 'abandonment' of the North is profoundly unsettling their core beliefs about ...",
+                    "publisher": "The Times of Israel",
+                    "timestamp": "1726894980000",
+                    "newsUrl": "https://www.timesofisrael.com/they-settled-the-northern-border-now-these-elderly-israelis-worry-they-wont-return/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtjakpOUjB3emNIY3laVVpMVFJERUF4aW1CU2dLTWdhWlE1WnBvUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWtjakpOUjB3emNIY3laVVpMVFJERUF4aW1CU2dLTWdhWlE1WnBvUWs"
+                    }
+                },
+                {
+                    "title": "Residents of north refuse to return home without full security | Israel National News",
+                    "snippet": "Residents of the north sent a letter to Prime Minister Benjamin Netanyahu, specifying their concerns that following the extensive fighting in Lebanon they ...",
+                    "publisher": "Arutz Sheva",
+                    "timestamp": "1727251920000",
+                    "newsUrl": "https://www.israelnationalnews.com/news/396717",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWhVekpOZERONmMzSTBORE10VFJDZkF4ampCU2dLTWdNQklBRQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWhVekpOZERONmMzSTBORE10VFJDZkF4ampCU2dLTWdNQklBRQ"
+                    }
+                },
+                {
+                    "title": "\"Continue to victory! Don't stop fighting!\" • Dukorsky in an excited call to Netanyahu ► Watch",
+                    "snippet": "The mayor of Kiryat Bialik calls on the Prime Minister, Benjamin Netanyahu, not to agree to a ceasefire until Hezbollah's capabilities are eliminated and ...",
+                    "publisher": "חי פה - חדשות חיפה",
+                    "timestamp": "1727338286000",
+                    "newsUrl": "https://haipo.co.il/en/item/537428",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWFTR1JoTFhONmN6aFBTVVJuVFJDdUF4aTRCU2dLTWdZcE5wYnRtUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWFTR1JoTFhONmN6aFBTVVJuVFJDdUF4aTRCU2dLTWdZcE5wYnRtUWs"
+                    }
+                },
+                {
+                    "title": "11 Months Later, Shlucha in Israel’s North Still Isn’t Home",
+                    "snippet": "Watch: Shlucha Brocha Leah Sasonkin of Chabad of Metula describes how evacuees have been supporting each other, finding faith, comfort, and a \"silver ...",
+                    "publisher": "COLlive",
+                    "timestamp": "1726774051000",
+                    "newsUrl": "https://collive.com/11-months-later-shlucha-in-israels-north-still-isnt-home/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDRTRlkzTlVJME1GWjNka1J5VFJEMUFSaUtCU2dLTWdtSlFwYkZwaWhGQ1FJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDRTRlkzTlVJME1GWjNka1J5VFJEMUFSaUtCU2dLTWdtSlFwYkZwaWhGQ1FJ"
+                    }
+                },
+                {
+                    "title": "We in the north finally feel our lives matter",
+                    "snippet": "Opinion: After months of Hezbollah bombardments, I was able to smile thanks to the deafening noise of the Air Force flying deep into Lebanon, signaling the ...",
+                    "publisher": "Ynetnews",
+                    "timestamp": "1727250623000",
+                    "newsUrl": "https://www.ynetnews.com/article/rjrczix0r",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUlRazlDUmkxU1kwaE1SbXMyVFJDM0FSaVRBaWdCTWdNQklBRQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUlRazlDUmkxU1kwaE1SbXMyVFJDM0FSaVRBaWdCTWdNQklBRQ"
+                    }
+                },
+                {
+                    "title": "Residents of north to Netanyahu during military operation: 'We refuse to go home'",
+                    "snippet": "Many residents of the north, part of the \"Fighting for the North\" organization, sent a letter to Prime Minister Netanyahu on Wednesday, detailing their ...",
+                    "publisher": "Arutz Sheva",
+                    "timestamp": "1727247595000",
+                    "newsUrl": "https://www.israelnationalnews.com/flashes/640585"
+                }
+            ]
+        },
+        {
+            "title": "US Hails China’s Advanced Notice of ICBM Test as ‘Good Thing’",
+            "snippet": "The Pentagon praised China for its transparency before the test launch of an intercontinental ballistic missile into the Pacific Ocean, in a sign that ...",
+            "publisher": "Bloomberg",
+            "timestamp": "1727336522000",
+            "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-26/us-hails-china-s-advanced-notice-of-icbm-test-as-good-thing",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNW5hMHg1ZEU5emVrODFSMmhXVFJERUF4aW1CU2dLTWc0Qk1JaUVKT1VVOXBqZXVRYk9IZw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iNkNnNW5hMHg1ZEU5emVrODFSMmhXVFJERUF4aW1CU2dLTWc0Qk1JaUVKT1VVOXBqZXVRYk9IZw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Panda pair arrive to VIP welcome in Hong Kong, as Beijing marks 75 years of communist China",
+            "snippet": "Hong Kong rolled out the red carpet Thursday to receive two giant pandas gifted by the Chinese government to mark 75 years of Communist Party rule, ...",
+            "publisher": "CNN",
+            "timestamp": "1727337900000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/china/china-hongkong-panda-anniversary-intl-hnk/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXJjSGhPTlRsSlUyZFlMVTVHVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXJjSGhPTlRsSlUyZFlMVTVHVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Japan joins patrols through Taiwan Strait - reports",
+            "snippet": "A Japanese warship sailed through the Taiwan Strait between Taiwan and China for the first time, according to reports in Japanese media.",
+            "publisher": "BBC.com",
+            "timestamp": "1727320628000",
+            "newsUrl": "https://www.bbc.com/news/articles/cm28yd04xxno",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVBWM00xVVdNMlVtODNUbk5EVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVBWM00xVVdNMlVtODNUbk5EVFJDb0FSaXNBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Zelensky warns U.N. that Russia is preparing to attack nuclear plants",
+            "snippet": "The Ukrainian president addressed world leaders ahead of a pivotal White House meeting, where is he expected to outline a “victory plan” for President Joe ...",
+            "publisher": "The Washington Post",
+            "timestamp": "1727324017000",
+            "newsUrl": "https://www.washingtonpost.com/national-security/2024/09/25/zelensky-un-russia-victory-plan/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUhRWGgwYm1GNk16RkdRVTFPVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUhRWGgwYm1GNk16RkdRVTFPVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The deadly pager operation in Lebanon is no laughing matter, or is it?",
+            "snippet": "Within minutes of the news that several members of Hezbollah were killed and hundreds wounded by pagers that had been doctored to explode en masse, ...",
+            "publisher": "The Jerusalem Post",
+            "timestamp": "1727287440000",
+            "newsUrl": "https://www.jpost.com/j-spot/article-821770",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUZWVWhsYVZWalh6aDBNVGRMVFJDX0F4aXRCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUZWVWhsYVZWalh6aDBNVGRMVFJDX0F4aXRCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Tropical Storm John Strengthens as It Heads Toward Mexico Again",
+            "snippet": "Tropical Storm John was strengthening over the Pacific Ocean on Thursday and was forecast to become a hurricane and make landfall in Mexico, where it killed ...",
+            "publisher": "The New York Times",
+            "timestamp": "1727333305000",
+            "newsUrl": "https://www.nytimes.com/2024/09/25/weather/tropical-storm-john-mexico.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXdNVTl4VVhabU9WUk5Vek5MVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXdNVTl4VVhabU9WUk5Vek5MVFJDcUJCaXFCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Macron: We cannot have a war in Lebanon",
+            "snippet": "Israel and Hezbollah must halt their fire so that a third Lebanon war can be prevented, French President Emmanuel Macron told the UN General Assembly during ...",
+            "publisher": "The Jerusalem Post",
+            "timestamp": "1727295858000",
+            "newsUrl": "https://www.jpost.com/israel-hamas-war/article-821793",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVBWa05LUmpCRU5UVjVUVmR1VFJDX0F4aXRCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVBWa05LUmpCRU5UVjVUVmR1VFJDX0F4aXRCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Taliban to be taken to international court over gender discrimination",
+            "snippet": "The Taliban are to be taken to the international court of justice for gender discrimination by Canada, Australia, Germany and the Netherlands in a ...",
+            "publisher": "The Guardian",
+            "timestamp": "1727284980000",
+            "newsUrl": "https://www.theguardian.com/world/2024/sep/25/taliban-to-be-taken-to-international-court-over-gender-discrimination",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXVhamw1ZEY5emMxZEdiRTlmVFJDUkF4ajhCU2dLTWdrSmNvajBOS2F4S1FJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXVhamw1ZEY5emMxZEdiRTlmVFJDUkF4ajhCU2dLTWdrSmNvajBOS2F4S1FJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Khamenei: Killing of Hezbollah commanders will not bring group to its knees",
+            "snippet": "Iran's supreme leader Ayatollah Ali Khamenei said Wednesday that Israel's killing of top Hezbollah commanders couldn't vanquish the Iran-backed Lebanese ...",
+            "publisher": "The Times of Israel",
+            "timestamp": "1727265360000",
+            "newsUrl": "https://www.timesofisrael.com/khamenei-killing-of-hezbollah-commanders-will-not-bring-group-to-its-knees/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9VRTVQVUdWeFpXbzFPR1Y2VFJEREF4aW5CU2dLTWdhcFZJcXRJUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9VRTVQVUdWeFpXbzFPR1Y2VFJEREF4aW5CU2dLTWdhcFZJcXRJUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Two drones breach Eilat airspace",
+            "snippet": "Two UAVs were detected in the airspace above Eilat on Wednesday night, the IDF reported.One drone was intercep.",
+            "publisher": "The Jerusalem Post",
+            "timestamp": "1727287560000",
+            "newsUrl": "https://www.jpost.com/breaking-news/article-821762",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBVbWhaVTJobFdHRk5iVlJFVFJDWEF4aXlCU2dLTWdhRkE0WkdVZ00=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBVbWhaVTJobFdHRk5iVlJFVFJDWEF4aXlCU2dLTWdhRkE0WkdVZ00"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Austrian election offers far right a springboard back to power",
+            "snippet": "VIENNA — It's Europe's most important election this year, yet amid 2024's flurry of other “most important elections” — such as the nail-biting race in ...",
+            "publisher": "POLITICO Europe",
+            "timestamp": "1727276880000",
+            "newsUrl": "https://www.politico.eu/article/austria-election-far-right-springboard-power-herbert-kickl/",
+            "hasSubnews": false
+        },
+        {
+            "title": "Israel is repeating its Gaza assault in Lebanon. Why?",
+            "snippet": "There's an eerie similarity in how Israel is approaching both its assaults. The question is, will that work?",
+            "publisher": "Al Jazeera English",
+            "timestamp": "1727278425000",
+            "newsUrl": "https://www.aljazeera.com/news/2024/9/25/israel-is-repeating-its-gaza-assault-in-lebanon-why",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdhUzFZU3pSclVHUkxWelZ5VFJEZ0F4aUFCU2dLTWdZQmNaREh0QVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdhUzFZU3pSclVHUkxWelZ5VFJEZ0F4aUFCU2dLTWdZQmNaREh0QVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "American woman dies in first reported use of controversial 'suicide capsule'",
+            "snippet": "The “Sarco” suicide capsule, according to its manufacturer, allows a person inside to push a button that injects nitrogen gas into a sealed chamber.",
+            "publisher": "KING5.com",
+            "timestamp": "1727279880000",
+            "newsUrl": "https://www.king5.com/article/news/nation-world/suicide-capsule-swiss-police-detain-several-people/507-9e7d0a61-4844-459f-b72e-a7df7376650b",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXpOME4yYWtZd1dUaDRlWHBQVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXpOME4yYWtZd1dUaDRlWHBQVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "YSRC Calls for Statewide Temple Poojas on Sep 28..",
+            "snippet": "The YSRC has called on devotees across Andhra Pradesh to participate in temple poojas on Saturday, September 28, to restore the sanctity of Tirumala, ...",
+            "publisher": "Greatandhra",
+            "timestamp": "1727275770000",
+            "newsUrl": "https://www.greatandhra.com/politics/andhra-news/ysrc-calls-for-statewide-temple-poojas-on-sep-28-140798",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXZURUZKWTJKTmFsaG9jRVV0VFJEMkFSaVFBeWdLTWdhaEZJanRuUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXZURUZKWTJKTmFsaG9jRVV0VFJEMkFSaVFBeWdLTWdhaEZJanRuUVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "The storm of Vuhledar: Russian forces threaten from three sides",
+            "snippet": "Russian forces have reached the outskirts of the town in the southeastern part of the Donetsk region, threatening the town with encirclement.",
+            "publisher": "Euronews",
+            "timestamp": "1727272777000",
+            "newsUrl": "https://www.euronews.com/my-europe/2024/09/25/the-storm-of-vuhledar-russian-forces-threaten-from-three-sides",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXRkall0TTBZeWExOVNMVVp0VFJDZkF4ampCU2dLTWdrWmNZUUxwbVV0Y0FF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXRkall0TTBZeWExOVNMVVp0VFJDZkF4ampCU2dLTWdrWmNZUUxwbVV0Y0FF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Spain to boycott Mexico president’s inauguration after she snubbed King Felipe VI",
+            "snippet": "Mexico asked for an apology from King Felipe VI over the Spanish conquest and says it didn't receive a response.",
+            "publisher": "POLITICO Europe",
+            "timestamp": "1727291580000",
+            "newsUrl": "https://www.politico.eu/article/spain-boycott-mexico-president-inauguration-claudia-sheinbaum-king-felipe-vi/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUlUMFpUVDJoV1RsRTVZMXBSVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUlUMFpUVDJoV1RsRTVZMXBSVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "‘Education of hatred’: Killing of Japanese boy sparks soul searching in China over rising nationalism",
+            "snippet": "The killing of a Japanese schoolboy in China has sparked an outpouring of anger and soul searching over the rise of extreme nationalism in the country, ...",
+            "publisher": "CNN",
+            "timestamp": "1727319600000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/china/china-nationalism-japanese-boy-killing-intl-hnk/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJNbWxQU0VNeVpVWlFhMHBGVFJDZkF4amlCU2dLTWdZWkFaRE1FUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJNbWxQU0VNeVpVWlFhMHBGVFJDZkF4amlCU2dLTWdZWkFaRE1FUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Netanyahu will address the UN as Israel, bogged down by one war, barrels toward another",
+            "snippet": "Israeli Prime Minister Benjamin Netanyahu travels to the United Nations this week with no end in sight to the war in Gaza, a conflict with Hezbollah ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1727254260000",
+            "newsUrl": "https://apnews.com/article/netanyahu-speech-gaza-hezbollah-un-e761de05e4c4a7f54bfd27e8795bceb7",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZUbWRKVldaUFp6aFlZMkpZVFJDUEF4alhCQ2dLTWdhZFpvd0xMZ2M=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZUbWRKVldaUFp6aFlZMkpZVFJDUEF4alhCQ2dLTWdhZFpvd0xMZ2M"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Exclusive: On the ground in Russian territory held by Ukrainian forces",
+            "snippet": "Ukraine is still holding swathes of territory in the Kursk region of Russia, seven weeks after a lightning offensive designed to draw Russian troops away ...",
+            "publisher": "FRANCE 24 English",
+            "timestamp": "1727266190000",
+            "newsUrl": "https://www.france24.com/en/europe/20240925-exclusive-on-the-ground-in-russian-territory-held-by-ukrainian-forces",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTJNMloxVXkxUWVXOWZRVkZRVFJDZkF4ampCU2dLTWdZMWRKSndMUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTJNMloxVXkxUWVXOWZRVkZRVFJDZkF4ampCU2dLTWdZMWRKSndMUWM"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

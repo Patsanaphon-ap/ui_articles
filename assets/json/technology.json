@@ -1,0 +1,525 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "Meta unveils AR glasses prototype, Zuckerberg's 'time machine' to future",
+            "snippet": "Facebook owner Meta Platforms showed off its first working prototype of augmented-reality glasses, called Orion, during its annual Connect conference on ...",
+            "publisher": "Reuters",
+            "timestamp": "1727306740000",
+            "newsUrl": "https://www.reuters.com/technology/meta-readies-ar-glasses-reveal-connect-event-2024-09-25/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUpZWGd3TkRsQ1ZFUXhSMHhVVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUpZWGd3TkRsQ1ZFUXhSMHhVVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Meta Missed Out on Smartphones. Can Smart Glasses Make Up for It?",
+                    "snippet": "Meta has dominated online social connections for the past 20 years, but it missed out on making the smartphones that primarily delivered those connections.",
+                    "publisher": "WIRED",
+                    "timestamp": "1727297046000",
+                    "newsUrl": "https://www.wired.com/story/meta-orion-glasses-augmented-reality-mark-zuckerberg/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJkR3BVUjNWcFVqRXpXSFpLVFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJkR3BVUjNWcFVqRXpXSFpLVFJERUF4aW5CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Introducing Orion, Our First True Augmented Reality Glasses",
+                    "snippet": "Today we unveiled Orion, which we believe is the most advanced pair of AR glasses ever made.",
+                    "publisher": "about.fb.com",
+                    "timestamp": "1727286610000",
+                    "newsUrl": "https://about.fb.com/news/2024/09/introducing-orion-our-first-true-augmented-reality-glasses/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNW1ibUpLVHpSV01XSllNV1ZTVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNW1ibUpLVHpSV01XSllNV1ZTVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Meta unveils cheaper VR headset, AI updates and shows off prototype for holographic AR glasses",
+                    "snippet": "MENLO PARK, California (AP) — Meta unveiled updates to the company's virtual reality headset and Ray Ban smart glasses on Wednesday as it tries to ...",
+                    "publisher": "The Associated Press",
+                    "timestamp": "1727308980000",
+                    "newsUrl": "https://apnews.com/article/meta-connect-zuckerberg-quest-ai-orion-dc8228049dea6a00b0f818ddb35f0c31",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDVaMGx5VlhGVk5rNU9kRTV6VFJDUEF4alhCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDVaMGx5VlhGVk5rNU9kRTV6VFJDUEF4alhCQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Why Mark Zuckerberg thinks AR glasses will replace your phone",
+                    "snippet": "We have a very special episode of Decoder today. It's become a tradition every fall to have Verge deputy editor Alex Heath interview Mark Zuckerberg on the ...",
+                    "publisher": "The Verge",
+                    "timestamp": "1727286655000",
+                    "newsUrl": "https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlNeTAxZVZoVVNUaFNWbWxoVFJDb0FSaXNBaWdCTWdhQllaalZKQWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVlNeTAxZVZoVVNUaFNWbWxoVFJDb0FSaXNBaWdCTWdhQllaalZKQWc"
+                    }
+                },
+                {
+                    "title": "Meta debuts $299 Quest 3S mixed-reality headset",
+                    "snippet": "Meta rolled out a new, less expensive version of its pricey Meta Quest 3 mixed-reality headset at the company's annual Meta Connect event.",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1727285100000",
+                    "newsUrl": "https://finance.yahoo.com/news/meta-debuts-299-quest-3s-mixed-reality-headset-172459924.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHdTR3RtTFVseU1HeFVSRkpTVFJEM0F4amlCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHdTR3RtTFVseU1HeFVSRkpTVFJEM0F4amlCQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Quest Headset Price Slashed by Facebook Parent Meta Platforms",
+                    "snippet": "The new Quest 3S headset starts at $300, as Facebook-parent Meta seeks to further undercut Apple's new Vision Pro.",
+                    "publisher": "Barron's",
+                    "timestamp": "1727292000000",
+                    "newsUrl": "https://www.barrons.com/articles/meta-platforms-stock-quest-price-9f62af81",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUVhbFZ3U3pSQmIwMXBUMVZHVFJDSEF4aVBCaWdLTWdhcEZZck5IUWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUVhbFZ3U3pSQmIwMXBUMVZHVFJDSEF4aVBCaWdLTWdhcEZZck5IUWc"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "iPhone 16 Pro vs 13 Pro: Full comparison",
+            "snippet": "This in-depth comparison covers iPhone 16 Pro vs 13 Pro when it comes to specs, performance, features, and more.",
+            "publisher": "9to5Mac",
+            "timestamp": "1727282100000",
+            "newsUrl": "https://9to5mac.com/iphone-16-pro-vs-13-pro/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVBkaTFpVDNCaGNsSldhSHBPVFJDSEF4aVBCaWdLTWdrTlFvd1VxU1dhNlFF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVBkaTFpVDNCaGNsSldhSHBPVFJDSEF4aVBCaWdLTWdrTlFvd1VxU1dhNlFF"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "The End of the iPhone Upgrade?",
+                    "snippet": "Kyle Chyaka writes about no longer feeling the need to upgrade iPhones, a testament not so much to the device's failure as to its resounding success.",
+                    "publisher": "The New Yorker",
+                    "timestamp": "1727258400000",
+                    "newsUrl": "https://www.newyorker.com/culture/infinite-scroll/the-end-of-the-iphone-upgrade",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXRTMmxZTVV4R1QzWklaMFJUVFJDaUF4amRCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXRTMmxZTVV4R1QzWklaMFJUVFJDaUF4amRCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "iPhone 16 issues — all the biggest problems so far",
+                    "snippet": "The iPhone 16 is getting lots of praise, but a handful of users are dealing with some notable problems.",
+                    "publisher": "Tom's Guide",
+                    "timestamp": "1727201785000",
+                    "newsUrl": "https://www.tomsguide.com/phones/iphones/iphone-16-issues-all-the-biggest-problems-so-far",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU5Za0ZZUVdSS2VWWmtiV2RIVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNU5Za0ZZUVdSS2VWWmtiV2RIVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Apple’s iPhone 16 Is Cuter and More Practical Than the iPhone 16 Pro",
+                    "snippet": "The one overwhelming piece of feedback I've seen about the new iPhone 16 is that it looks pretty. The new teal, ultramarine, and pink colors are more vivid ...",
+                    "publisher": "WIRED",
+                    "timestamp": "1727112420000",
+                    "newsUrl": "https://www.wired.com/review/apple-iphone-16-and-iphone-16-plus/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBUWGt3YzFSbE1YSkJURTk1VFJEZ0F4aUFCU2dLTWdZQk1JaHJ1UVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBUWGt3YzFSbE1YSkJURTk1VFJEZ0F4aUFCU2dLTWdZQk1JaHJ1UVE"
+                    }
+                },
+                {
+                    "title": "Apple’s New iPhone 16 Pro Delivers Delight And Disappointment",
+                    "snippet": "Update September 23 with details on Apple's marketing of the iPhone 16 Pro, and the design changes to make the iPhone a more repairable smartphone.",
+                    "publisher": "Forbes",
+                    "timestamp": "1727130900000",
+                    "newsUrl": "https://www.forbes.com/sites/ewanspence/2024/09/23/apple-iphone-16-pro-review-good-bad-specs-camera-control-apple-intelligence-new-iphone/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWpNV2g1WldKR01VdDBVMkpuVFJERUF4aW1CU2dLTWdZQk1KakNIUW8=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWpNV2g1WldKR01VdDBVMkpuVFJERUF4aW1CU2dLTWdZQk1KakNIUW8"
+                    }
+                },
+                {
+                    "title": "iPhone 16 Pro vs 14 Pro",
+                    "snippet": "This detailed comparison covers iPhone 16 Pro vs 14 Pro for specs, performance, features, price, colors, and more.",
+                    "publisher": "9to5Mac",
+                    "timestamp": "1727107800000",
+                    "newsUrl": "https://9to5mac.com/iphone-16-pro-vs-14-pro-comparison/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVJNamhTZG1kMFpubFlRMUpmVFJDSEF4aVBCaWdLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVJNamhTZG1kMFpubFlRMUpmVFJDSEF4aVBCaWdLTWdB"
+                    }
+                },
+                {
+                    "title": "Apple iPhone 16 and iPhone 16 Pro review: Camera control and larger screens, Apple Intelligence not ready yet",
+                    "snippet": "Apple's iPhone 16 and iPhone 16 Pro offer solid improvements to their cameras and performance, but you're going to have to wait to get Apple Intelligence.",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1726841888000",
+                    "newsUrl": "https://finance.yahoo.com/news/apple-iphone-16-and-iphone-16-pro-review-camera-control-and-larger-screens-apple-intelligence-not-ready-yet-141808714.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVNla0pZVkU5YVdFdFdUR1ZsVFJEZ0F4aUFCU2dLTWdrVlE0eHFzcWRjQ3dJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVNla0pZVkU5YVdFdFdUR1ZsVFJEZ0F4aUFCU2dLTWdrVlE0eHFzcWRjQ3dJ"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Here’s What The iPhone 16 Pro Camera Button Is Good For (And It’s Not Taking Pictures)",
+            "snippet": "With the new iPhone 16 Pro and Pro Max, Apple has gone all in on side buttons. There are two on the right side: a power button and the new camera control ...",
+            "publisher": "Forbes",
+            "timestamp": "1727214359000",
+            "newsUrl": "https://www.forbes.com/sites/johnkoetsier/2024/09/24/heres-what-the-iphone-16-pro-camera-button-is-good-for-and-its-not-taking-pictures/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTRlakZUU0cxMVRIUnpUa3BoVFJERUF4aW1CU2dLTWdNVllRSQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTRlakZUU0cxMVRIUnpUa3BoVFJERUF4aW1CU2dLTWdNVllRSQ"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "iOS 18.1 public beta 2 now available, here’s what’s new",
+                    "snippet": "Apple has released iOS 18.1 public beta 2, bringing the latest new features—like Apple Intelligence—to iPhone users running the public beta.",
+                    "publisher": "9to5Mac",
+                    "timestamp": "1727197380000",
+                    "newsUrl": "https://9to5mac.com/2024/09/24/ios-181-public-beta-2-now-available-heres-whats-new/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNWV2RHV0U5UFJYUnVaa1UxVFJDSEF4aVBCaWdLTWdZQk1KQVVJUW8=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXNWV2RHV0U5UFJYUnVaa1UxVFJDSEF4aVBCaWdLTWdZQk1KQVVJUW8"
+                    }
+                },
+                {
+                    "title": "iPhone 16 Camera Control hidden feature might make it just right for vertical fans",
+                    "snippet": "First of all, please stop calling the new iPhone 16 Camera Control a button....Just kidding. You can call it a button, but it is more than that.",
+                    "publisher": "TechRadar",
+                    "timestamp": "1727203718000",
+                    "newsUrl": "https://www.techradar.com/phones/iphone/iphone-16-camera-control-hidden-feature-might-make-it-just-right-for-vertical-fans",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWpNV05NZFdGelRtUkJRMjAwVFJDMEFSakFBaWdLTWdtWkU0eExEZVNwVUFF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWpNV05NZFdGelRtUkJRMjAwVFJDMEFSakFBaWdLTWdtWkU0eExEZVNwVUFF"
+                    }
+                },
+                {
+                    "title": "iPhone 16 test: Is the new camera button really worth the upgrade?",
+                    "snippet": "Two things to know right from the beginning: The new iPhone 16 Pro and the iPhone 16 Pro Max are the best smartphones Apple has ever built.",
+                    "publisher": "Yahoo! Voices",
+                    "timestamp": "1727262153000",
+                    "newsUrl": "https://www.yahoo.com/tech/iphone-16-test-camera-button-110233201.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHhha3MyVEZWNVJHeHdOak5CVFJDcUF4al9CQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHhha3MyVEZWNVJHeHdOak5CVFJDcUF4al9CQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "iPhone 16 Camera Control: Everything You Need to Know",
+                    "snippet": "Apple's latest iPhone 16 models include a new Camera Control button (located on the lower right-hand side when holding the phone in portrait...",
+                    "publisher": "MacRumors",
+                    "timestamp": "1727201103000",
+                    "newsUrl": "https://www.macrumors.com/how-to/iphone-16-using-new-camera-control-button/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBXakZITmtOQk1ucG5NR2RVVFJEaEFSaVFBeWdLTWdZVk1JNnJ2UVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBXakZITmtOQk1ucG5NR2RVVFJEaEFSaVFBeWdLTWdZVk1JNnJ2UVU"
+                    }
+                },
+                {
+                    "title": "Phone photography is so good now that the physical camera button needs to make a comeback",
+                    "snippet": "With smartphone cameras boasting more impressive hardware than ever before, Android phones need a physical camera button to support them.",
+                    "publisher": "Android Authority",
+                    "timestamp": "1727028304000",
+                    "newsUrl": "https://www.androidauthority.com/physical-phone-camera-button-3482293/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtWV2hDUkVscmNFODJZVWg1VFJDZkF4ampCU2dLTWdZSlU1Qk1wUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWtWV2hDUkVscmNFODJZVWg1VFJDZkF4ampCU2dLTWdZSlU1Qk1wUWM"
+                    }
+                },
+                {
+                    "title": "Fix the iPhone 16’s finicky Camera Control button with these hidden settings",
+                    "snippet": "The new Camera Control button can take a little getting used to, but these Accessibility settings make it a lot better.",
+                    "publisher": "Macworld",
+                    "timestamp": "1727262900000",
+                    "newsUrl": "https://www.macworld.com/article/2468071/fix-the-iphone-16s-finicky-camera-control-button-with-these-hidden-settings.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUNjRmhQYzJkM2MwSm1NMEU1VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUNjRmhQYzJkM2MwSm1NMEU1VFJERUF4aW1CU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "There is no ‘Google TV Streamer Pro’ – Google’s set-top box almost had another name",
+            "snippet": "Google is not making a more premium version of the Google TV Streamer, with the “Google TV Stream Pro” moniker flying around just a name...",
+            "publisher": "9to5Google",
+            "timestamp": "1727295720000",
+            "newsUrl": "https://9to5google.com/2024/09/25/google-tv-stream-pro-name/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJVSGxaT1MxNk1YYzVZMHRMVFJDSEF4aVBCaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTJVSGxaT1MxNk1YYzVZMHRMVFJDSEF4aVBCaWdLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "5 Google TV Streamer features to try",
+                    "snippet": "The new Google TV Streamer is available on shelves tomorrow. Here are five features to try.",
+                    "publisher": "The Keyword",
+                    "timestamp": "1727100465000",
+                    "newsUrl": "https://blog.google/products/google-nest/google-tv-streamer-top-features/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDJiR0ZwUzJKV1ZHWjBVME10VFJDZ0F4amlCU2dLTWdhSklwQXlQUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDJiR0ZwUzJKV1ZHWjBVME10VFJDZ0F4amlCU2dLTWdhSklwQXlQUVk"
+                    }
+                },
+                {
+                    "title": "The New Google TV Streamer Is Faster and Better Looking Than Ever",
+                    "snippet": "The long-lived Chromecast has evolved into this plug-and-play streamer with Dolby Vision support and smart home controls.",
+                    "publisher": "WIRED",
+                    "timestamp": "1727350200000",
+                    "newsUrl": "https://www.wired.com/review/google-tv-streamer-4k/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxNRTkxWWpndFZtSlhSakl5VFJEZ0F4aUFCU2dLTWdZQk1vcU13UVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWxNRTkxWWpndFZtSlhSakl5VFJEZ0F4aUFCU2dLTWdZQk1vcU13UVE"
+                    }
+                },
+                {
+                    "title": "I tested the Google TV Streamer (4K) for a week — can it replace the Chromecast?",
+                    "snippet": "We tested the $100 Google TV Streamer (4K) — which replaces the Chromecast with Google TV — for a week, and we have a lot of thoughts about this successor.",
+                    "publisher": "CNN Underscored",
+                    "timestamp": "1727272260000",
+                    "newsUrl": "https://www.cnn.com/cnn-underscored/reviews/google-tv-streamer-4k",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNU9UemxrV0ZOSVExRlNNRWxpVFJDZkF4amlCU2dLTWdPWllRdw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNU9UemxrV0ZOSVExRlNNRWxpVFJDZkF4amlCU2dLTWdPWllRdw"
+                    }
+                },
+                {
+                    "title": "Google is bringing its smart home panel to all Google TV devices",
+                    "snippet": "In the coming weeks, all Google TV devices will get a new smart home control panel, more free TV, a Sports Page, and Gemini-powered AI features.",
+                    "publisher": "The Verge",
+                    "timestamp": "1727109566000",
+                    "newsUrl": "https://www.theverge.com/2024/9/23/24252165/google-smart-home-panel-comes-to-all-google-tvs",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxSRUoxVFV4c1NsSXpSSEJQVFJDUUF4ai1CU2dLTWdaSklJaVlwQU0=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWxSRUoxVFV4c1NsSXpSSEJQVFJDUUF4ai1CU2dLTWdaSklJaVlwQU0"
+                    }
+                },
+                {
+                    "title": "Google TV Streamer review: A streaming device for the AI era",
+                    "snippet": "The Google TV Streamer is a completely redesigned streaming device, but the changes are more than aesthetic, as it boasts a new interface to control smart ...",
+                    "publisher": "Tom's Guide",
+                    "timestamp": "1727100000000",
+                    "newsUrl": "https://www.tomsguide.com/entertainment/streaming-devices/google-tv-streamer-review",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFRakZRUW5wWGJVOUdNVjgwVFJET0FSamdBeWdLTWdZaFJJck1xUVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVFRakZRUW5wWGJVOUdNVjgwVFJET0FSamdBeWdLTWdZaFJJck1xUVU"
+                    }
+                },
+                {
+                    "title": "Google acknowledges TV Streamer’s big omission, offers a deal on an HDMI cable",
+                    "snippet": "The Google TV Streamer is a very good upgrade by Google in the content streaming category, but the omission of an HDMI cable in the box was a miss.",
+                    "publisher": "Chrome Unboxed",
+                    "timestamp": "1727287070000",
+                    "newsUrl": "https://chromeunboxed.com/google-acknowledges-tv-streamers-big-omission-offers-a-deal-on-an-hdmi-cable/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUhVUzFZYnpkT05HZFRkVGxmVFJDZUF4amtCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUhVUzFZYnpkT05HZFRkVGxmVFJDZUF4amtCU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Meta Adds Celebrity Voices to AI Chat, Including John Cena, Awkwafina and Keegan-Michael Key",
+            "snippet": "Meta adds celebrity voices to its AI chatbot, including John Cena and Awkwafina, for Instagram and Facebook.",
+            "publisher": "Hollywood Reporter",
+            "timestamp": "1727287042000",
+            "newsUrl": "https://www.hollywoodreporter.com/business/business-news/meta-celebrity-voices-ai-chatbot-john-cena-awkwafina-keegan-michael-key-1236011796/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHRabkpZWDFSTFVVeEtiM2hFVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHRabkpZWDFSTFVVeEtiM2hFVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Meta’s AI Products Just Got Smarter and More Useful",
+                    "snippet": "You can now talk to and share photos with Meta AI, unlocking new ways to communicate with your assistant and get answers faster.",
+                    "publisher": "about.fb.com",
+                    "timestamp": "1727285308000",
+                    "newsUrl": "https://about.fb.com/news/2024/09/metas-ai-product-news-connect/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBkbXBZTjJVMlVIbGpjRGRWVFJDZkF4ampCU2dLTWdhcGxaTE50UVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBkbXBZTjJVMlVIbGpjRGRWVFJDZkF4ampCU2dLTWdhcGxaTE50UVk"
+                    }
+                },
+                {
+                    "title": "Column | My chat with soulless AI Judi Dench, coming soon to your Facebook",
+                    "snippet": "The Meta AI chatbot will soon come in the voice of Dench, Awkwafina, John Cena, Keegan-Michael Key and Kristen Bell. But why are we endowing AI with the ...",
+                    "publisher": "The Washington Post",
+                    "timestamp": "1727310628000",
+                    "newsUrl": "https://www.washingtonpost.com/technology/2024/09/25/meta-ai-celebrity-voices-judi-dench/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVFWWEJ2ZVVJMFVtMVNibFJwVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVFWWEJ2ZVVJMFVtMVNibFJwVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Meta is bringing the voices of Judi Dench, John Cena and Keegan-Michael Key to its AI chatbot",
+                    "snippet": "Facebook and Instagram users will now be able to talk to voices that sound a lot like John Cena and Judi Dench. They won't be the real actors, though, ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727292360000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/tech/meta-ai-celebrities-chatbots/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVNRMWhuUWpjMFJ6aHROM0JUVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVNRMWhuUWpjMFJ6aHROM0JUVFJDZkF4amlCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Meta’s going to put AI-generated images in your Facebook and Instagram feeds",
+                    "snippet": "If you think avoiding AI-generated images is difficult as it is, Facebook and Instagram are now going to put them directly into your feeds.",
+                    "publisher": "The Verge",
+                    "timestamp": "1727285319000",
+                    "newsUrl": "https://www.theverge.com/2024/9/25/24253329/meta-ai-generated-images-facebook-instagram-feeds",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXpWVVJqTlhaRmRtcEZZMUo2VFJEZ0F4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXpWVVJqTlhaRmRtcEZZMUo2VFJEZ0F4aUFCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Zuckerberg chats with AI clone as human creator looks on in year’s weirdest demo",
+                    "snippet": "AI has already given us some weird demos. And friends, it's only going to get weirder from here. As the tech world runs screaming head first into the ...",
+                    "publisher": "TechCrunch",
+                    "timestamp": "1727295243000",
+                    "newsUrl": "https://techcrunch.com/2024/09/25/zuckerberg-chats-with-ai-clone-as-human-creator-looks-on-in-years-weirdest-demo/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJVMVpqUTFveFEyWTNZME15VFJERkF4aWxCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTJVMVpqUTFveFEyWTNZME15VFJERkF4aWxCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Meta bets big on celebrity AI voices and augmented reality glasses",
+                    "snippet": "Meta launched AI chatbots voiced by Hollywood celebrities including Judi Dench and John Cena on Wednesday, betting its billions of users are eager to ...",
+                    "publisher": "Yahoo Finance UK",
+                    "timestamp": "1727294448000",
+                    "newsUrl": "https://uk.finance.yahoo.com/news/meta-unveils-star-studded-ai-181038573.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVZNV1pNVm1KaFMxTkJkRzVuVFJDcUF4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVZNV1pNVm1KaFMxTkJkRzVuVFJDcUF4aUFCU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "The Most Capable Open Source AI Model Yet Could Supercharge AI Agents",
+            "snippet": "The most capable open source AI model with visual abilities yet could see more developers, researchers, and startups develop AI agents that can carry out ...",
+            "publisher": "WIRED",
+            "timestamp": "1727269200000",
+            "newsUrl": "https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXlSblY0UVVaTFNGb3hPSEJuVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXlSblY0UVVaTFNGb3hPSEJuVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Apple's iPhone 16 lead times track below past three cycles: MS",
+            "snippet": "Apple's (AAPL) iPhone 16 lead times are lower than in the past three iPhone cycles, according to Morgan Stanley. Yahoo Finance Tech Editor Dan Howley joins ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1727294558000",
+            "newsUrl": "https://finance.yahoo.com/video/apples-iphone-16-lead-times-200238416.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVpjbnBVYjJ4bGFYbzJORzlGVFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVpjbnBVYjJ4bGFYbzJORzlGVFJDZkF4amlCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Talking to ChatGPT for the first time is a surreal experience",
+            "snippet": "In May, when OpenAI first demonstrated ChatGPT-4o's coming audio conversation capabilities, I wrote that it felt like we were \"on the verge of something...",
+            "publisher": "Ars Technica",
+            "timestamp": "1727298270000",
+            "newsUrl": "https://arstechnica.com/ai/2024/09/talking-to-chatgpt-for-the-first-time-is-a-surreal-experience/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXhjR2xGTjNwcldsUjJhRmxzVFJDdEF4akxCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXhjR2xGTjNwcldsUjJhRmxzVFJDdEF4akxCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Assassin's Creed Shadows' Delay Puts It in Competition With Ghost of Yotei, but Ubisoft CEO Says There's Room for Both",
+            "snippet": "Following Assassin's Creed Shadows' delay into 2025, Ubisoft CEO Yves Guillemot said there's plenty of room for two open world action-adventure games set in ...",
+            "publisher": "IGN",
+            "timestamp": "1727286389000",
+            "newsUrl": "https://www.ign.com/articles/assassins-creed-shadows-delay-ghost-of-yotei-ubisoft",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJaakpyTWxnMmFFbDZjRVoyVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTJaakpyTWxnMmFFbDZjRVoyVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Sony Tries To Explain Why The PS5 Pro Is So Expensive And Doesn't Come With A Disc Drive",
+            "snippet": "Everyone expected the long-rumored PlayStation 5 Pro to be expensive, but its $700 price tag still came as a bit of a shock. Could a mid-generation refresh ...",
+            "publisher": "Kotaku",
+            "timestamp": "1727284500000",
+            "newsUrl": "https://kotaku.com/ps5-pro-price-disc-drive-sony-why-1851657354",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXZOMDVRU2tZd0xVb3lVMWg2VFJEckFoaUZCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXZOMDVRU2tZd0xVb3lVMWg2VFJEckFoaUZCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Miyamoto: Nintendo Won't Be Opening Museums In Other Locations",
+            "snippet": "The Nintendo Museum looks amazing but it's located in Japan and not everybody will be able to make the trip. So, is there a chance of Nintendo opening more ...",
+            "publisher": "Nintendo Life",
+            "timestamp": "1727315700000",
+            "newsUrl": "https://www.nintendolife.com/news/2024/09/miyamoto-nintendo-wont-be-opening-museums-in-other-locations",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHpOVVJ3VW1JeVNsQXhaVEZEVFJDMkF4aTlCU2dLTWdtVllaWm9xcWcxS3dJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHpOVVJ3VW1JeVNsQXhaVEZEVFJDMkF4aTlCU2dLTWdtVllaWm9xcWcxS3dJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Photos search in iOS 18.1 actually works thanks to Apple Intelligence",
+            "snippet": "Apple's Photos app is getting several upgrades in iOS 18.1 thanks to Apple Intelligence. The one likely to be used most: AI-infused search.",
+            "publisher": "9to5Mac",
+            "timestamp": "1727276580000",
+            "newsUrl": "https://9to5mac.com/2024/09/25/photos-search-in-ios-181-actually-works-thanks-to-apple-intelligence/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5iMU5rVFVSNWRGaHNlazFTVFJDSEF4aVBCaWdLTWdZbFZZck5OUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5iMU5rVFVSNWRGaHNlazFTVFJDSEF4aVBCaWdLTWdZbFZZck5OUVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Apple October event: What to expect",
+            "snippet": "Apple just held its special event to unveil the iPhone 16 and iPhone 16 Pro a few weeks ago, but there's still more to come this fall.",
+            "publisher": "9to5Mac",
+            "timestamp": "1727286900000",
+            "newsUrl": "https://9to5mac.com/2024/09/25/apple-october-event-what-to-expect-2/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWlhREl6WjFKeFl6SnBTVmxKVFJDZUF4amtCU2dLTWdZaEpaVE1uUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWlhREl6WjFKeFl6SnBTVmxKVFJDZUF4amtCU2dLTWdZaEpaVE1uUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PlayStation 30th Anniversary DualSense controller pre-orders are live right now",
+            "snippet": "If you're in the market for a PlayStation 30th Anniversary controller pre-order, I'd actually recommend skipping Sony altogether.",
+            "publisher": "Gamesradar",
+            "timestamp": "1727344871000",
+            "newsUrl": "https://www.gamesradar.com/hardware/gaming-controllers/playstation-30th-anniversary-dualsense-controller-pre-orders-look-like-theyre-live/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9WMWxEWlY5aGQybHVRa3N6VFJDZkF4ampCU2dLTWdhSmNaREV1Z1U=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9WMWxEWlY5aGQybHVRa3N6VFJDZkF4ampCU2dLTWdhSmNaREV1Z1U"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PS5's Ghost of Yotei Triggers Social Media, Ex-Sony Exec Says 'If You Don't Like It, Don't Buy It'",
+            "snippet": "Sucker Punch's decision to tell a new story with a new character in Ghost of Yotei has triggered the silliest corners of social media, and revered ex-Sony ...",
+            "publisher": "Push Square",
+            "timestamp": "1727286977000",
+            "newsUrl": "https://www.pushsquare.com/news/2024/09/ps5s-ghost-of-yotei-triggers-social-media-ex-sony-exec-says-if-you-dont-like-it-dont-buy-it",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNW9XbHBKWVRGbVpIcENTbGhOVFJDZkF4ampCU2dLTWdhbFJZN3RLUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNW9XbHBKWVRGbVpIcENTbGhOVFJDZkF4ampCU2dLTWdhbFJZN3RLUWM"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

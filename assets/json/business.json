@@ -1,0 +1,1010 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "Exclusive: OpenAI to remove non-profit control and give Sam Altman equity",
+            "snippet": "SAN FRANCISCO, Sept 25 (Reuters) - ChatGPT-maker OpenAI is working on a plan to restructure its core business into a for-profit benefit corporation that ...",
+            "publisher": "Reuters",
+            "timestamp": "1727331540000",
+            "newsUrl": "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZVMVl4ZVdaNlZFaEliVVpTVFJER0F4aWpCU2dLTWdZbGRaRE5MUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZVMVl4ZVdaNlZFaEliVVpTVFJER0F4aWpCU2dLTWdZbGRaRE5MUWM"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "What does the OpenAI exodus say about Sam Altman?",
+                    "snippet": "A few weeks ago people within OpenAI were keen to assure your correspondent that the maker of ChatGPT had matured, following the coup almost a year ago ...",
+                    "publisher": "The Economist",
+                    "timestamp": "1727345333000",
+                    "newsUrl": "https://www.economist.com/business/2024/09/26/what-does-the-openai-exodus-say-about-sam-altman",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNURXbTVoZDJwVlJXZHlPV3cwVFJDZkF4ampCU2dLTWdrRklwcjFFQ3ZCcFFJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNURXbTVoZDJwVlJXZHlPV3cwVFJDZkF4ampCU2dLTWdrRklwcjFFQ3ZCcFFJ"
+                    }
+                },
+                {
+                    "title": "Watch OpenAI Weighs Sam Altman Stake In For-Profit Shift | Bloomberg The Pulse 09/26/24",
+                    "snippet": "ources tell Bloomberg that OpenAI is discussing giving CEO Sam Altman a 7% equity stake in the company and restructuring to become a for-profit business.",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1727349445000",
+                    "newsUrl": "https://www.bloomberg.com/news/videos/2024-09-26/openai-weighs-sam-altman-stake-in-for-profit-shift-bloomberg-the-pulse-09-26-24"
+                },
+                {
+                    "title": "OpenAI Executives Exit as C.E.O. Works to Make the Company For-Profit",
+                    "snippet": "Mira Murati, the chief technology officer at OpenAI, the influential artificial intelligence start-up, said on Wednesday that she would leave the company ...",
+                    "publisher": "The New York Times",
+                    "timestamp": "1727316195000",
+                    "newsUrl": "https://www.nytimes.com/2024/09/25/technology/mira-murati-openai.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9iRlJSVXpnME5FaGFiekIyVFJEQ0F4allCQ2dLTWdZZEo1d3JtZ28=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9iRlJSVXpnME5FaGFiekIyVFJEQ0F4allCQ2dLTWdZZEo1d3JtZ28"
+                    }
+                },
+                {
+                    "title": "Mira Murati, OpenAI’s technology chief, becomes the latest exec to leave the company",
+                    "snippet": "OpenAI Chief Technology Officer Mira Murati — who has been instrumental in the development of ChatGPT and the artificial intelligence image generator Dall-E ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727297280000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/tech/openai-technology-chief-mira-murati-leaving/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDFjWGd6YXpCYVRHSTVZVFZ2VFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDFjWGd6YXpCYVRHSTVZVFZ2VFJDZkF4amlCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Elon Musk Appears to Diss Sam Altman Over OpenAI's High-Profile Exits",
+                    "snippet": "Elon Musk seems to be throwing shade at Sam Altman. The billionaire compared the OpenAI chief to a character from the hit TV show \"Game of Thrones.\"",
+                    "publisher": "Business Insider",
+                    "timestamp": "1727341500000",
+                    "newsUrl": "https://www.businessinsider.com/elon-musk-diss-sam-altman-over-openais-high-profile-exits-2024-9",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU9VWE51UmtaRFV6aEVlWHB6VFJEdkF4anJCQ2dLTWdrTlFaYkdKaWc5aGdJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNU9VWE51UmtaRFV6aEVlWHB6VFJEdkF4anJCQ2dLTWdrTlFaYkdKaWc5aGdJ"
+                    }
+                },
+                {
+                    "title": "OpenAI considering restructuring to for-profit, CTO Mira Murati and two top research execs depart",
+                    "snippet": "OpenAI's board is considering plans to restructure the firm to a for-profit business. CTO Mira Murati and two top research execs said they are leaving.",
+                    "publisher": "CNBC",
+                    "timestamp": "1727293117000",
+                    "newsUrl": "https://www.cnbc.com/2024/09/25/openai-cto-mira-murati-announces-shes-leaving-the-company.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHlVRGt3Y201VFFVNDFlblZVVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHlVRGt3Y201VFFVNDFlblZVVFJDZkF4ampCU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "China Stocks Jump as Politburo Vows Fiscal Support to Hit Goals",
+            "snippet": "The long-awaited recovery in Chinese equities may finally be here.",
+            "publisher": "Bloomberg",
+            "timestamp": "1727340595000",
+            "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-26/china-stocks-jump-as-politburo-vows-fiscal-support-to-hit-goals",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUhSa2xoVm5aVmF6WnNaMk5sVFJERUF4aW1CU2dLTWdZaDBJZ3lUUVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUhSa2xoVm5aVmF6WnNaMk5sVFJERUF4aW1CU2dLTWdZaDBJZ3lUUVE"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "China's Xi and top leaders call for halting real estate decline, responding to public concerns",
+                    "snippet": "While the meeting readout did not provide many details, it is significant for a country where policy directives are determined at the very top.",
+                    "publisher": "CNBC",
+                    "timestamp": "1727342579000",
+                    "newsUrl": "https://www.cnbc.com/2024/09/26/chinas-top-leaders-call-for-halting-real-estate-decline.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWlaVGxTT1haQmIwTm9ha2hMVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWlaVGxTT1haQmIwTm9ha2hMVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "China vows 'necessary spending' to hit economic growth target",
+                    "snippet": "Chinese leaders pledged on Thursday to deploy \"necessary fiscal spending\" to meet this year's economic growth target of roughly 5%, acknowledging new ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1727338981000",
+                    "newsUrl": "https://www.reuters.com/world/china/china-vows-necessary-spending-hit-economic-growth-target-2024-09-26/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDJPRFF0T0c5U2JsbEJUWGRYVFJERUF4aW1CU2dLTWdrSmdJcUhPcVkxclFF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDJPRFF0T0c5U2JsbEJUWGRYVFJERUF4aW1CU2dLTWdrSmdJcUhPcVkxclFF"
+                    }
+                },
+                {
+                    "title": "China’s Politburo Supercharges Stimulus With Housing, Rates Vows",
+                    "snippet": "China's top leaders ramped up urgent efforts to revive growth with pledges to support fiscal spending and stabilize the beleaguered property sector, ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1727339450000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-26/china-holds-surprise-politburo-meeting-on-economy-amid-slowdown",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXFhakEzU1hSb1UwaFJTbmhVVFJDb0FSaXNBaWdCTWdNQnNBdw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXFhakEzU1hSb1UwaFJTbmhVVFJDb0FSaXNBaWdCTWdNQnNBdw"
+                    }
+                },
+                {
+                    "title": "China goes full bore to revive economy as Politburo sends strong signals",
+                    "snippet": "China has vowed to save the private economy, stabilise its property sector from further slumping and ensure necessary fiscal expenditures, according to the ...",
+                    "publisher": "South China Morning Post",
+                    "timestamp": "1727333002000",
+                    "newsUrl": "https://www.scmp.com/economy/article/3280018/china-vows-save-private-economy-stabilise-real-estate-market-politburo-meeting",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDJWSGsxU1ZJMGIwTmZXa1YzVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDJWSGsxU1ZJMGIwTmZXa1YzVFJERUF4aW1CU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "China admits economy facing new 'problems', vows to fix property sector",
+                    "snippet": "Chinese President Xi Jinping and other top leaders admitted Thursday that the world's number two economy was facing new \"problems\" and vowed to resolve a ...",
+                    "publisher": "News-shield",
+                    "timestamp": "1727340777000",
+                    "newsUrl": "https://www.news-shield.com/news/national/article_35c29d8b-3bdb-57ac-892e-91d0bd234b22.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUhZWG80WmxSYVEyaHVUbFUwVFJDS0FoaVFBeWdLTWdNUkFBWQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUhZWG80WmxSYVEyaHVUbFUwVFJDS0FoaVFBeWdLTWdNUkFBWQ"
+                    }
+                },
+                {
+                    "title": "China's Politburo reaffirms will lower RRR and implement forceful interest rate cuts",
+                    "snippet": "Remarks by the Chinese Politburo, following the conclusion of their meeting held today.",
+                    "publisher": "ForexLive",
+                    "timestamp": "1727327580000",
+                    "newsUrl": "https://www.forexlive.com/news/chinas-politburo-reaffirms-will-lower-rrr-and-implement-forceful-interest-rate-cuts-20240926/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTRaRzlCTjJwWVRFWnlTRzVVVFJDZkF4ampCU2dLTWdZWkZZenJsUW8=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTRaRzlCTjJwWVRFWnlTRzVVVFJDZkF4ampCU2dLTWdZWkZZenJsUW8"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Hong Kong stocks lead global surge on reports of more China stimulus measures",
+            "snippet": "Hong Kong's equity market hit a one-year high and led a surge in global stocks as the China-stimulus-induced risk-asset rally received further propulsion.",
+            "publisher": "MarketWatch",
+            "timestamp": "1727336400000",
+            "newsUrl": "https://www.marketwatch.com/story/hong-kong-stocks-lead-global-surge-on-reports-of-more-china-stimulus-measures-98112197",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWZVMXB6TlhKb00zbGZlbXBUVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWZVMXB6TlhKb00zbGZlbXBUVFJDcUJCaXFCQ2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Wall Street Set for Boost on Rate-Cut Bets, China: Markets Wrap",
+                    "snippet": "(Bloomberg) -- Global stocks rallied after China pledged fiscal stimulus and traders raised their bets on interest-rate cuts by major central banks.",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1727346194000",
+                    "newsUrl": "https://finance.yahoo.com/news/asian-stocks-rise-dollar-strengthens-224113695.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNYMlZmT0dGc05VOVRWWEJYVFJEb0FoaUFCU2dLTWdhcE5vQU1IZ2s=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUNYMlZmT0dGc05VOVRWWEJYVFJEb0FoaUFCU2dLTWdhcE5vQU1IZ2s"
+                    }
+                },
+                {
+                    "title": "Alibaba and Baidu Stocks Surge. Stimulus Sets China up for Best Week in a Decade.",
+                    "snippet": "Aibaba, Baidu, and JD.com stocks all rose after Beijing pledged to raise fiscal spending and shore up China's embattled property sector.",
+                    "publisher": "Barron's",
+                    "timestamp": "1727348100000",
+                    "newsUrl": "https://www.barrons.com/articles/alibaba-stock-baidu-jd-china-stimulus-c83e6d81",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpiM3BXTVVGM1RsZGZlR1J4VFJDcUJCaXFCQ2dLTWdZQnNKRG9RQVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpiM3BXTVVGM1RsZGZlR1J4VFJDcUJCaXFCQ2dLTWdZQnNKRG9RQVk"
+                    }
+                },
+                {
+                    "title": "Tech Stocks Lift Asian Equities to Two-Year High: Markets Wrap",
+                    "snippet": "European stocks and US equity futures rallied, tracking gains in Asia after China pledged fiscal stimulus and technology shares climbed.",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1727304073000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-25/stock-market-today-dow-s-p-live-updates",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpNVXRFTVhCTlpVZGpYMWhXVFJERUF4aW1CU2dLTWdZQlFJaDBHQWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpNVXRFTVhCTlpVZGpYMWhXVFJERUF4aW1CU2dLTWdZQlFJaDBHQWs"
+                    }
+                },
+                {
+                    "title": "China’s Bold Stimulus Measures Won’t Save Its Flagging Economy",
+                    "snippet": "After months of business leaders and economists urging action, the People's Bank of China (PBoC)—the central bank of the world's second biggest ...",
+                    "publisher": "TIME",
+                    "timestamp": "1727330400000",
+                    "newsUrl": "https://time.com/7024607/china-economy-pboc-stimulus-interest-rate-cut-analysis/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDNibWR4YkcxU1N6ZzNhRk5JVFJDM0FSaVRBaWdCTWdrQllJWklMV1RCRkFF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDNibWR4YkcxU1N6ZzNhRk5JVFJDM0FSaVRBaWdCTWdrQllJWklMV1RCRkFF"
+                    }
+                },
+                {
+                    "title": "Stock market today: Markets rally again as China ramps up support for its economy",
+                    "snippet": "World shares surged Thursday following reports that China plans to spend billions of dollars to help rebuild the capital of state-run banks and provide ...",
+                    "publisher": "The Hill",
+                    "timestamp": "1727344680000",
+                    "newsUrl": "https://thehill.com/homenews/ap/ap-business/ap-stock-market-today-markets-rally-again-as-china-ramps-up-support-for-its-economy/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXBPVFJGVDI1WGFsUlVkVEptVFJERUF4aW1CU2dLTWdZWkVZNnBtUWs=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXBPVFJGVDI1WGFsUlVkVEptVFJERUF4aW1CU2dLTWdZWkVZNnBtUWs"
+                    }
+                },
+                {
+                    "title": "Stock Market Today: Stocks surge on China aid boost, Micron outlook",
+                    "snippet": "Stocks are back on record watch Thursday with big tech names leading the charge.",
+                    "publisher": "TheStreet",
+                    "timestamp": "1727344642000",
+                    "newsUrl": "https://www.thestreet.com/investing/stocks/stock-market-today-stocks-surge-on-china-aid-boost-micron-outlook",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlRWG93ZUdGT2QzY3daVXBmVFJDZkF4ampCU2dLTWdZaGM1Q3VMUWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUlRWG93ZUdGT2QzY3daVXBmVFJDZkF4ampCU2dLTWdZaGM1Q3VMUWM"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Southwest Airlines to cut service and staffing in Atlanta to slash costs",
+            "snippet": "The changes come a day before Southwest's investor day, when executives will map out the company's plan to cut costs and grow revenue.",
+            "publisher": "CNBC",
+            "timestamp": "1727268550000",
+            "newsUrl": "https://www.cnbc.com/2024/09/25/southwest-airlines-cut-service-staffing-atlanta.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVlXSG95TWpSYVRHWk1TbEZZVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVlXSG95TWpSYVRHWk1TbEZZVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Top budget airline is cutting flights, reducing staff at major airport",
+                    "snippet": "ATLANTA, Georgia — Southwest Airlines plans to cut flights next year to Hartsfield-Jackson Atlanta International Airport, one of the busiest in the world, ...",
+                    "publisher": "cleveland.com",
+                    "timestamp": "1727340120000",
+                    "newsUrl": "https://www.cleveland.com/nation/2024/09/top-budget-airline-is-cutting-flights-reducing-staff-at-major-airport.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdiVEpWVjNWdFRtNW1Sek5UVFJERUF4aW1CU2dLTWdhUk1vaHVIUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVdiVEpWVjNWdFRtNW1Sek5UVFJERUF4aW1CU2dLTWdhUk1vaHVIUVk"
+                    }
+                },
+                {
+                    "title": "How much will Southwest Airlines change to boost profits? Some details are emerging",
+                    "snippet": "Southwest Airlines leaders say they will provide more details about their plan to change the airline and increase profits.",
+                    "publisher": "The Associated Press",
+                    "timestamp": "1727323260000",
+                    "newsUrl": "https://apnews.com/article/southwest-changes-seating-boarding-hedge-fund-ba6a97380df6201e9a35335d3202fc8a",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDFiVVpuVFd4eFpuQk9kRFZHVFJDUEF4alhCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDFiVVpuVFd4eFpuQk9kRFZHVFJDUEF4alhCQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "SOUTHWEST AIRLINES UNVEILS ITS \"SOUTHWEST. EVEN BETTER.\" TRANSFORMATIONAL PLAN AT INVESTOR DAY",
+                    "snippet": "Southwest Airlines Co. (NYSE: LUV) (\"Southwest®\" or the \"Company\") today will host an Investor Day briefing in Dallas where Southwest Leaders will outline ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1727348640000",
+                    "newsUrl": "https://finance.yahoo.com/news/southwest-airlines-unveils-southwest-even-110400486.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNXhTbkJ6Um5WTE5EbHJlbEpsVFJDTEFoaVFBeWdLTWdzQklJVElSS05UOEZtd05R=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNXhTbkJ6Um5WTE5EbHJlbEpsVFJDTEFoaVFBeWdLTWdzQklJVElSS05UOEZtd05R"
+                    }
+                },
+                {
+                    "title": "Southwest plans to cut flights in Atlanta while adding them elsewhere. Its unions are unhappy",
+                    "snippet": "Amplifying Atlanta.",
+                    "publisher": "WABE 90.1 FM",
+                    "timestamp": "1727296650000",
+                    "newsUrl": "https://www.wabe.org/this-is-gaslighting-at-its-finest-southwests-plans-to-cut-flights-in-atlanta-draws-union-outrage/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVpOSFZIZERCaWEwNTZSMVkyVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVpOSFZIZERCaWEwNTZSMVkyVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "Southwest Airlines Slashes Atlanta Flights to Stem Losses",
+                    "snippet": "Southwest Airlines Co. is ending nearly a third of its flights through Atlanta in an effort to eliminate unprofitable routes, the latest move by the carrier ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1727271259000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-25/southwest-airlines-slashes-atlanta-flights-to-stem-losses",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXdlbU55WjFWdmRFVk5OMWhXVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXdlbU55WjFWdmRFVk5OMWhXVFJERUF4aW1CU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "China weighs $142 billion capital injection into top banks",
+            "snippet": "(Bloomberg) -- China is considering injecting up to 1 trillion yuan ($142 billion) of capital into its biggest state banks to increase their capacity to ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1727331309000",
+            "newsUrl": "https://finance.yahoo.com/news/china-weighs-injecting-142-billion-015612259.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTVjVkpmWkdGcGFEWkJWREJrVFJERUF4aW1CU2dLTWdtQmtJcUZOcVk5a1FF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTVjVkpmWkdGcGFEWkJWREJrVFJERUF4aW1CU2dLTWdtQmtJcUZOcVk5a1FF"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "China Weighs Injecting $142 Billion of Capital Into Top Banks",
+                    "snippet": "China is considering injecting up to 1 trillion yuan ($142 billion) of capital into its biggest state banks to increase their capacity to support the ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1727331300000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-26/china-weighs-injecting-142-billion-of-capital-into-top-banks",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXpZVUU0ZW01eGNHdFdSbTVzVFJERUF4aW1CU2dLTWdtQmtJcUZObVk5a1FF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXpZVUU0ZW01eGNHdFdSbTVzVFJERUF4aW1CU2dLTWdtQmtJcUZObVk5a1FF"
+                    }
+                },
+                {
+                    "title": "China redoubles first-aid for its economy with support for banks and workers",
+                    "snippet": "China is redoubling its first-aid for its economy, targeting banks, workers and poor families as the ruling Communist Party prepares to mark the 75th ...",
+                    "publisher": "The Hill",
+                    "timestamp": "1727349060000",
+                    "newsUrl": "https://thehill.com/homenews/ap/ap-business/ap-china-redoubles-first-aid-for-its-economy-with-support-for-banks-and-workers/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTBRVloxTjFvd01VTjRTazU2VFJERUF4aW1CU2dLTWdNQmNBWQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTBRVloxTjFvd01VTjRTazU2VFJERUF4aW1CU2dLTWdNQmNBWQ"
+                    }
+                },
+                {
+                    "title": "Exclusive: China to issue $284 billion of sovereign debt this year to help revive economy",
+                    "snippet": "China plans to issue special sovereign bonds worth about 2 trillion yuan ($284.43 billion) this year as part of a fresh fiscal stimulus, said two sources ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1727349451000",
+                    "newsUrl": "https://www.reuters.com/markets/asia/china-issue-284-bln-sovereign-debt-this-year-help-revive-economy-sources-say-2024-09-26/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHdlbXhMVG5KWE1qRTRTRFpsVFJERUF4aW1CU2dLTWdrQk1acTFIR2x6aUFJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHdlbXhMVG5KWE1qRTRTRFpsVFJERUF4aW1CU2dLTWdrQk1acTFIR2x6aUFJ"
+                    }
+                },
+                {
+                    "title": "Analysis-Chinese banks in need of capital injection to give thrust to economic stimulus steps",
+                    "snippet": "By Xie Yu and Sumeet Chatterjee. HONG KONG (Reuters) - As China steps up efforts to stabilise its economy with fresh stimulus, the country's top banks would ...",
+                    "publisher": "StreetInsider.com",
+                    "timestamp": "1727343029000",
+                    "newsUrl": "https://www.streetinsider.com/Reuters/Analysis-Chinese+banks+in+need+of+capital+injection+to+give+thrust+to+economic+stimulus+steps/23764169.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlObU5ZVURnMlQxVnBUMVpPVFJDSkFSaklBU2dCTWdhWjRvYXF5UUk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUlObU5ZVURnMlQxVnBUMVpPVFJDSkFSaklBU2dCTWdhWjRvYXF5UUk"
+                    }
+                },
+                {
+                    "title": "More on China considering a 1 trillion yuan injections of capital into banks",
+                    "snippet": "Earlier headline on this is here: Reports that China is considering injecting US$142bn of capital into top banks. A huge injection would be the first since ...",
+                    "publisher": "ForexLive",
+                    "timestamp": "1727320380000",
+                    "newsUrl": "https://www.forexlive.com/news/more-on-china-considering-a-1-trillion-yuan-injections-of-capital-into-banks-20240926/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVhNVFZUYlV0eFNuUlRUVmhpVFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVhNVFZUYlV0eFNuUlRUVmhpVFJDcUJCaXFCQ2dLTWdB"
+                    }
+                },
+                {
+                    "title": "China weighs injecting $142 billion of capital into top banks, Bloomberg News reports",
+                    "snippet": "China is considering injecting up to 1 trillion yuan ($142.39 billion) of capital into its biggest state banks to increase their capacity to support the ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1727319780000",
+                    "newsUrl": "https://finance.yahoo.com/news/china-weighs-injecting-142-billion-030348330.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVNWalUzTmtOQkxVTlBZMWhpVFJDckF4aUFCU2dLTWdhQkU0aU90UVE=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVNWalUzTmtOQkxVTlBZMWhpVFJDckF4aUFCU2dLTWdhQkU0aU90UVE"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Meta updates Ray-Ban smart glasses with real-time AI video, reminders, and QR code scanning",
+            "snippet": "The Ray-Ban Meta smart glasses got an update with new familiar smartphone features and AI capabilities coming later in 2024.",
+            "publisher": "TechCrunch",
+            "timestamp": "1727285940000",
+            "newsUrl": "https://techcrunch.com/2024/09/25/meta-updates-ray-ban-smart-glasses-with-real-time-ai-video-reminders-and-qr-code-scanning/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRPVmRCWlVsRlUwVmhhVXRHVFJEUkF4aVVCU2dLTWdheGNZanlzQVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXRPVmRCWlVsRlUwVmhhVXRHVFJEUkF4aVVCU2dLTWdheGNZanlzQVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "S&P 500, Dow close lower as investors await insights on Fed rates, data",
+            "snippet": "Sept 25 (Reuters) - The Dow Jones Industrial Average and S&P 500 closed lower on Wednesday, pulling back from recent record highs driven by China's sweeping ...",
+            "publisher": "Reuters",
+            "timestamp": "1727303148000",
+            "newsUrl": "https://www.reuters.com/markets/us/futures-slip-investors-await-economic-data-fed-rate-clues-2024-09-25/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTVZME5CUWpZMVR6VXlNRUkxVFJERUF4aW1CU2dLTWdtQlVwWlFNYWZBaHdJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTVZME5CUWpZMVR6VXlNRUkxVFJERUF4aW1CU2dLTWdtQlVwWlFNYWZBaHdJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'",
+            "snippet": "Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by \"robust AI ...",
+            "publisher": "Investopedia",
+            "timestamp": "1727301002000",
+            "newsUrl": "https://www.investopedia.com/micron-stock-pops-on-strong-outlook-driven-by-robust-ai-demand-8718491",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTJkRlJNTFZwMFpqWlRZMGRXVFJEZkF4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTJkRlJNTFZwMFpqWlRZMGRXVFJEZkF4aUFCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Arbitration board gives green light to US Steel-Nippon Steel merger over union's objections",
+            "snippet": "Nippon Steel's bid to buy U.S. Steel was given the green light by an arbitration board tasked with reviewing the United Steelworkers union's complaints with ...",
+            "publisher": "Fox Business",
+            "timestamp": "1727297460000",
+            "newsUrl": "https://www.foxbusiness.com/economy/arbitration-board-gives-green-light-us-steel-nippon-steel-merger-over-unions-objections",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUxZMkZMWm5OYVJqQkhkVEJzVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUxZMkZMWm5OYVJqQkhkVEJzVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Elon Musk’s mom Maye says she also looked at Italian PM Giorgia Meloni with ‘admiration’ amid affair speculation",
+            "snippet": "Billionaire Elon Musk's mother broke her silence on the rumors spiraling online that her son may secretly be in a romantic relationship with Italian Prime ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727348520000",
+            "newsUrl": "https://nypost.com/2024/09/26/us-news/elon-musks-mom-maye-says-she-looked-at-italian-pm-giorgia-meloni-with-admiration-amid-affair-speculation/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNWtTM1p3UVRGQ1JrMTNVRjgzVFJERUF4aW5CU2dLTWdrQk1ZaXBHS3FwTXdF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNWtTM1p3UVRGQ1JrMTNVRjgzVFJERUF4aW5CU2dLTWdrQk1ZaXBHS3FwTXdF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Start Investing At 60 And Retire On Dividends Forever",
+            "snippet": "Starting late in investing doesn't mean you can't retire on dividends. Read more to see our recommendations.",
+            "publisher": "Seeking Alpha",
+            "timestamp": "1727274685000",
+            "newsUrl": "https://seekingalpha.com/article/4723226-start-investing-at-60-and-retire-on-dividends-forever",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTBkVGM1ZDBzMFRrbDFXRWQ0VFJDOEF4aXpCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTBkVGM1ZDBzMFRrbDFXRWQ0VFJDOEF4aXpCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "‘Don’t Overlook This Growing Risk,’ Says Top Investor About Nvidia Stock",
+            "snippet": "Nvidia (NASDAQ:NVDA) has carved out a dominant niche in the AI revolution, commanding nearly 90% of the data center market. Its exclusive CUDA software ...",
+            "publisher": "TipRanks",
+            "timestamp": "1727311906000",
+            "newsUrl": "https://www.tipranks.com/news/dont-overlook-this-growing-risk-says-top-investor-about-nvidia-stock",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRabmhYTkc5SldYSTJjbXB5VFJDV0F4anVCU2dLTWdZcGM0cE9MUVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXRabmhYTkc5SldYSTJjbXB5VFJDV0F4anVCU2dLTWdZcGM0cE9MUVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dow falls from high, Micron earnings: Market Domination Overtime",
+            "snippet": "On today's episode of Market Domination Overtime, Hosts Julie Hyman and Josh Lipton analyze the market close and report on Micron's (MU) latest earnings.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1727304306000",
+            "newsUrl": "https://finance.yahoo.com/video/dow-falls-high-micron-earnings-224506433.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU1hWEZmYURWVFVHWktjRFIxVFJDZkF4ampCU2dLTWdZbG9aQXR1UVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU1hWEZmYURWVFVHWktjRFIxVFJDZkF4ampCU2dLTWdZbG9aQXR1UVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Boeing staff report pressure to lower standards",
+            "snippet": "US lawmakers say regulators need to be tougher on Boeing to force change at the troubled company.",
+            "publisher": "BBC.com",
+            "timestamp": "1727295791000",
+            "newsUrl": "https://www.bbc.com/news/articles/ce9jvj83zkvo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXlUbEpITURoaWNGZDZTakl6VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXlUbEpITURoaWNGZDZTakl6VFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Nancy Pelosi's husband sold more than $500K in Visa stock ahead of DOJ action",
+            "snippet": "Paul Pelosi, the husband of former House speaker and current Rep. Nancy Pelosi, D-Calif., sold 2000 shares of Visa a few months before the company was sued ...",
+            "publisher": "Fox Business",
+            "timestamp": "1727292960000",
+            "newsUrl": "https://www.foxbusiness.com/politics/nancy-pelosis-husband-sold-more-than-500k-visa-stock-ahead-doj-action",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTNXVVI2ZEZsNldtOXpaMlJLVFJDZkF4ampCU2dLTWdrZFU1QVV3V1dhYUFJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTNXVVI2ZEZsNldtOXpaMlJLVFJDZkF4ampCU2dLTWdrZFU1QVV3V1dhYUFJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Elon Musk and Bernie Sanders agree on one thing: Ozempic",
+            "snippet": "The senator and the Tesla CEO agree on the need to make diabetes and weight loss drugs like Ozempic more affordable for Americans.",
+            "publisher": "Quartz",
+            "timestamp": "1727284020000",
+            "newsUrl": "https://qz.com/elon-musk-bernie-sanders-ozempic-1851657342",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtUR2w0ZFZsR1YxQnJkM0pIVFJDdUF4aUZCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtUR2w0ZFZsR1YxQnJkM0pIVFJDdUF4aUZCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Why now may be a good time to take ‘opportunistic’ profits in gold and silver",
+            "snippet": "Gold prices have climbed to their highest on record and silver recently touched a more than 11-year high, but both may be ready for a pullback in the coming ...",
+            "publisher": "MarketWatch",
+            "timestamp": "1727287740000",
+            "newsUrl": "https://www.marketwatch.com/story/why-now-may-be-a-good-time-to-take-opportunistic-profits-in-gold-and-silver-f5268eb8",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTZVVnBLWDBkcllsQkhibEZwVFJDcUJCaXFCQ2dLTWdZQk1KSzBOQWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTZVVnBLWDBkcllsQkhibEZwVFJDcUJCaXFCQ2dLTWdZQk1KSzBOQWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Shippers scramble for workarounds ahead of looming US East Coast port strike",
+            "snippet": "LOS ANGELES/NEW YORK, Sept 25 (Reuters) - U.S. companies that rely on East and Gulf Coast seaports have been importing early, shifting goods to the West ...",
+            "publisher": "Reuters",
+            "timestamp": "1727295513000",
+            "newsUrl": "https://www.reuters.com/markets/us/shippers-scramble-workarounds-ahead-threatened-us-port-strike-2024-09-25/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVpUbGxqTkhsc1JsQkdhRzlMVFJERUF4aW1CU2dLTWdrQklJem1QT1VzS1FJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVpUbGxqTkhsc1JsQkdhRzlMVFJERUF4aW1CU2dLTWdrQklJem1QT1VzS1FJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Many plastics in Bay Area blue bins end up in landfills. Here’s what is actually recycled",
+            "snippet": "Plastic bottles are bundled at Recycle Central in San Francisco. California has sued Exxon over its misleading messaging about plastics.",
+            "publisher": "San Francisco Chronicle",
+            "timestamp": "1727304478000",
+            "newsUrl": "https://www.sfchronicle.com/climate/article/plastic-recycling-19786872.php",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVRTWEkwWm1aTk1UUXlhV2h4VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVRTWEkwWm1aTk1UUXlhV2h4VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Mortgage Demand Soars As Fed Interest Rate Cut Fuels Housing Market Revival: 'Next Spring Could See A Real Rebound'",
+            "snippet": "US homeowners and buyers were waiting for the Federal Reserve's move to boost the mortgage market. A 50-basis-point rate cut led to a surge in applications.",
+            "publisher": "Benzinga",
+            "timestamp": "1727269215000",
+            "newsUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/24/09/41024067/mortgage-demand-soars-as-fed-interest-rate-cut-fuels-housing-market-revival-next-sp",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHlNM0UxUlU1RFV6UTBiRkZqVFJERUF4aW5CU2dLTWdrQk5JUm1UV094c0FF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHlNM0UxUlU1RFV6UTBiRkZqVFJERUF4aW5CU2dLTWdrQk5JUm1UV094c0FF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Ta-Nehisi Coates & Sarah Silverman Win Bid For Meta “Chief Decision Maker” Mark Zuckerberg To Be Deposed In AI Suit",
+            "snippet": "Mark Zuckerberg is going to have answer some hard questions about Meta's AI initiative & where its getting its training from.",
+            "publisher": "Deadline",
+            "timestamp": "1727311980000",
+            "newsUrl": "https://deadline.com/2024/09/sarah-silverman-ai-lawsuit-mark-zuckerberg-meta-1236099357/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXFlRmhvV2twU1oxRnNZVFZTVFJEX0FoaXBCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXFlRmhvV2twU1oxRnNZVFZTVFJEX0FoaXBCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "US data center electricity use expected to jump on AI",
+            "snippet": "US data centers are expected to use more electricity as training and running artificial intelligence (AI) models is power-intensive.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1727303460000",
+            "newsUrl": "https://finance.yahoo.com/video/us-data-center-electricity-expected-223100483.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNURkVWhhZFhCd1NqWjRZV3BDVFJDZkF4amlCU2dLTWdNQlVBZw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNURkVWhhZFhCd1NqWjRZV3BDVFJDZkF4amlCU2dLTWdNQlVBZw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Titan sub hearings live: Engineer testifies OceanGate CEO was closed off to criticism in years before deadly implosion",
+            "snippet": "The Titan submersible implosion hearings resume today in front of US Coast Guard after yesterday's testimony from friend of OceanGate CEO: Latest news.",
+            "publisher": "The Independent",
+            "timestamp": "1727326794000",
+            "newsUrl": "https://www.independent.co.uk/news/world/americas/titan-oceangate-submersible-implosion-hearing-latest-news-b2618567.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHpRazQyVVVkZlZYTmtRalZXVFJERUF4aW1CU2dLTWdhQk1JU1cyQUk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHpRazQyVVVkZlZYTmtRalZXVFJERUF4aW1CU2dLTWdhQk1JU1cyQUk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "US consumer confidence plunges to worst numbers in 3 years as Americans grapple with inflation",
+            "snippet": "US consumer confidence plunged in September by the most in three years as Americans continue to grapple with high prices and a shaky labor market.",
+            "publisher": "New York Post ",
+            "timestamp": "1727214660000",
+            "newsUrl": "https://nypost.com/2024/09/24/business/consumer-confidence-plummets-in-september-by-most-in-3-years/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDRZVXB1ZFVKbGJsUXlhbEF4VFJERUF4aW5CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDRZVXB1ZFVKbGJsUXlhbEF4VFJERUF4aW5CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "DoNotPay 'robot lawyer' fined $193K by the FTC for not being a lawyer",
+            "snippet": "The Federal Trade Commission is taking action against DoNotPay, alleging that the AI-powered company billing itself as \"the world's first robot lawyer\" ...",
+            "publisher": "Engadget",
+            "timestamp": "1727303547000",
+            "newsUrl": "https://www.engadget.com/ai/donotpay-robot-lawyer-fined-193k-by-the-ftc-for-not-being-a-lawyer-223227153.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhTVkZaYkU5VlVXOU9TVEF3VFJDckF4aUFCU2dLTWdZbFJaQ3RxUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhTVkZaYkU5VlVXOU9TVEF3VFJDckF4aUFCU2dLTWdZbFJaQ3RxUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Mark Cuban Calls Gary Gensler A 'Blight' After SEC Chair Gets Grilled On Crypto By Congress: 'You Leaving Is Worth A Point In GDP Growth'",
+            "snippet": "Billionaire investor and television celebrity Mark Cuban welcomed SEC Chair Gary Gensler's intense grilling by legislators on his stance on cryptocurrencies ...",
+            "publisher": "Benzinga",
+            "timestamp": "1727228655000",
+            "newsUrl": "https://www.benzinga.com/markets/cryptocurrency/24/09/41016977/mark-cuban-calls-gary-gensler-a-blight-after-sec-chair-gets-grilled-on-crypto-by-congress-",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9SalJXVXpGRU5tSTVVV1pQVFJERUF4aW1CU2dLTWdhQlpKU3VwUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9SalJXVXpGRU5tSTVVV1pQVFJERUF4aW1CU2dLTWdhQlpKU3VwUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Caroline Ellison, former FTX executive, sentenced to 24 months in prison",
+            "snippet": "Caroline Ellison, a former top executive at Sam Bankman-Fried's FTX cryptocurrency exchange, was sentenced Tuesday to 24 months for her role in a ...",
+            "publisher": "CBS News",
+            "timestamp": "1727210836000",
+            "newsUrl": "https://www.cbsnews.com/news/caroline-ellison-ftx-executive-alameda-sam-bankman-fried-sentence-prison/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVhWVWxaTm1kMk4zQkhjblpQVFJDUkF4ajhCU2dLTWdZdFJaYXVKUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVhWVWxaTm1kMk4zQkhjblpQVFJDUkF4ajhCU2dLTWdZdFJaYXVKUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "10th death reported in Boar’s Head deli meat listeria outbreak",
+            "snippet": "A 10th person has died in an ongoing outbreak of listeria food poisoning tied to a now-closed Boar's Head deli meat plant in Virginia.",
+            "publisher": "The Associated Press",
+            "timestamp": "1727309580000",
+            "newsUrl": "https://apnews.com/article/boars-head-listeria-deaths-85ee1b241fb3cf46d206c20ed732254e",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVFjV05zUkZkTkxWUm9iek5xVFJEVkFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVFjV05zUkZkTkxWUm9iek5xVFJEVkFSakFBaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Ford and GM tumble on reported China import crackdown",
+            "snippet": "Ford Motor Company (F) and General Motors (GM) stocks are plummeting after reports of a proposed rule that would force the automakers to stop importing to ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1727273011000",
+            "newsUrl": "https://finance.yahoo.com/video/ford-gm-tumble-reported-china-140331613.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVRMDg0T0hSYWNucFhVVFl6VFJDZkF4amlCU2dLTWdZQlFJcGtwUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVRMDg0T0hSYWNucFhVVFl6VFJDZkF4amlCU2dLTWdZQlFJcGtwUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Tesla's Massive October Starts Next Week With Third-Quarter Deliveries",
+            "snippet": "Tesla stock has gained more than 18% in September and is now up slightly in 2024. Tesla deliveries for Q3 are expected next week, kicking off a big October.",
+            "publisher": "Investor's Business Daily",
+            "timestamp": "1727294820000",
+            "newsUrl": "https://www.investors.com/news/tesla-stock-third-quarter-deliveries-kick-off-massive-october/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWhWekpWZVRKallubFdPVk0wVFJDZkF4amlCU2dLTWdZVm9wQ0x1UVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWhWekpWZVRKallubFdPVk0wVFJDZkF4amlCU2dLTWdZVm9wQ0x1UVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Striking Boeing workers would like the company to stop negotiating in public",
+            "snippet": "The union representing striking Boeing machinists is criticizing the company's efforts to rally support for a contract that workers deem insufficient.",
+            "publisher": "Quartz",
+            "timestamp": "1727280240000",
+            "newsUrl": "https://qz.com/boeing-strike-company-offer-inadequate-1851657195",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXBZMjV2U2pNMGJtRlZWak5xVFJEckFoaUZCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXBZMjV2U2pNMGJtRlZWak5xVFJEckFoaUZCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Carahsoft, FBI Confirm Raid On Reston Office; SAP Reportedly Involved",
+            "snippet": "FBI raids Carahsoft office amid look into SAP prices, potentially related to an Accenture investigation.",
+            "publisher": "CRN",
+            "timestamp": "1727294400000",
+            "newsUrl": "https://www.crn.com/news/cloud/2024/carahsoft-fbi-confirm-raid-on-reston-office-sap-reportedly-involved",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUxSVFF6TFRGRmVGWjZPRmwxVFJEYkFSam1BU2dCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUxSVFF6TFRGRmVGWjZPRmwxVFJEYkFSam1BU2dCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Salt Life apparel brand to close all retail stores after bankruptcy auction",
+            "snippet": "Hilco Consumer-Retail Group, one of the new owners of the brand, announced Tuesday that it will be closing all 28 retail locations.",
+            "publisher": "New York Post ",
+            "timestamp": "1727341260000",
+            "newsUrl": "https://nypost.com/2024/09/26/business/salt-life-apparel-brand-to-close-all-retail-stores-after-bankruptcy-auction/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNU5SRmRRVkd0NGFFZEtibkZuVFJDVkF4ajFCU2dLTWdPTllnUQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNU5SRmRRVkd0NGFFZEtibkZuVFJDVkF4ajFCU2dLTWdPTllnUQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Google files EU antitrust complaint over Microsoft’s cloud practices",
+            "snippet": "Google has filed an antitrust complaint with EU regulators against Microsoft's cloud practices. It's accusing Microsoft of unfair licensing contracts for ...",
+            "publisher": "The Verge",
+            "timestamp": "1727273884000",
+            "newsUrl": "https://www.theverge.com/2024/9/25/24253990/google-eu-complaint-microsoft-cloud-azure-practices",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUpaMGxKWlhaMVQweEdaamh2VFJDUUF4ai1CU2dLTWdtQklJVHhMR2FwNmdF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUpaMGxKWlhaMVQweEdaamh2VFJDUUF4ai1CU2dLTWdtQklJVHhMR2FwNmdF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Scientists want every flight to take up to an hour longer — they say slower speeds are better for the planet",
+            "snippet": "Researchers at the University of Cambridge announced a sky-high plan to get the aviation industry to net zero emissions by 2050 — by mandating longer flight ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727310480000",
+            "newsUrl": "https://nypost.com/2024/09/25/lifestyle/climate-experts-push-for-slower-flights-up-to-an-hour-longer/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXliRmh1ZG14Qk5uSkNhVEI1VFJERUF4aW5CU2dLTWdrSllJSXVPZWFwQ2dJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXliRmh1ZG14Qk5uSkNhVEI1VFJERUF4aW5CU2dLTWdrSllJSXVPZWFwQ2dJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Kamala Harris Vows to Keep US ‘Dominant in Blockchain’",
+            "snippet": "Democratic presidential nominee Kamala Harris discussed blockchain in a public speech for the first time Wednesday. Here's what she said.",
+            "publisher": "Decrypt",
+            "timestamp": "1727299722000",
+            "newsUrl": "https://decrypt.co/251247/kamala-harris-vows-keep-us-dominant-blockchain",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHdWVzQ1UzJoR2F6a3RVRXcxVFJDZkFSaS1BaWdCTWdhdEZZek9rUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHdWVzQ1UzJoR2F6a3RVRXcxVFJDZkFSaS1BaWdCTWdhdEZZek9rUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Buy the stocks of these companies helping fuel the ‘AI gold rush,’ analyst says",
+            "snippet": "With demand for the use of artificial intelligence expected to continue to surge, Oppenheimer analyst Edward Yang recommended investors buy the stocks of a ...",
+            "publisher": "MarketWatch",
+            "timestamp": "1727280720000",
+            "newsUrl": "https://www.marketwatch.com/story/buy-the-stocks-of-these-companies-helping-fuel-the-ai-gold-rush-analyst-says-25294624",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWpRbUZJVjNaV05FeG1NSFY1VFJDcUJCaXFCQ2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWpRbUZJVjNaV05FeG1NSFY1VFJDcUJCaXFCQ2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "CrowdStrike exec apologizes in front of Congress over huge global IT outage",
+            "snippet": "House lawmakers struck a sympathetic tone toward the company at a hearing where they nevertheless said nothing like that could happen again.",
+            "publisher": "CyberScoop",
+            "timestamp": "1727214789000",
+            "newsUrl": "https://cyberscoop.com/crowdstrike-exec-apologizes-congressional-hearing-it-outage/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBaR3R0U1ZsWFZFa3lTVEJEVFJERUF4aW1CU2dLTWdZQllZN1ZOQVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBaR3R0U1ZsWFZFa3lTVEJEVFJERUF4aW1CU2dLTWdZQllZN1ZOQVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "PayPal Enables U.S. Business Accounts to Buy, Hold and Sell Crypto",
+            "snippet": "The service won't be available to New York state businesses in the beginning.",
+            "publisher": "CoinDesk",
+            "timestamp": "1727292840000",
+            "newsUrl": "https://www.coindesk.com/business/2024/09/25/paypal-enables-us-business-accounts-to-buy-hold-and-sell-crypto/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhXVTFmVEVGRU1GbHhZakZmVFJDUUF4ai1CU2dLTWdZQk1JRFVGQVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXhXVTFmVEVGRU1GbHhZakZmVFJDUUF4ai1CU2dLTWdZQk1JRFVGQVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Pfizer pulls sickle cell treatment Oxbryta off global markets",
+            "snippet": "Pfizer said Wednesday that it was removing Oxbryta, a pill for the treatment of sickle cell disease, from all markets globally due to high risks of severe ...",
+            "publisher": "STAT",
+            "timestamp": "1727302782000",
+            "newsUrl": "https://www.statnews.com/2024/09/25/pfizer-oxbryta-sickle-cell-treatment-withdrawn-global-markets/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNTFZbXN3ZUhSS05IUk1jbkYyVFJDcUJCaXFCQ2dLTWdtSmNZNW9zYWRGa0FF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNTFZbXN3ZUhSS05IUk1jbkYyVFJDcUJCaXFCQ2dLTWdtSmNZNW9zYWRGa0FF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Americans might have to wait until 2030 for homes to be affordable again",
+            "snippet": "Buying a home could get much more affordable, but Americans might have to wait a while. In a report published on September 11, Goldman Sachs analyst Vinay ...",
+            "publisher": "Business Insider",
+            "timestamp": "1727284260000",
+            "newsUrl": "https://www.businessinsider.com/house-affordability-could-increase-mortgage-rates-inflation-goldman-sachs-2024-9",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJaVUp5WW14bFQwZzBNR3BxVFJEZUFoaThCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJaVUp5WW14bFQwZzBNR3BxVFJEZUFoaThCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Why Are Intel Shares Trading Higher Today?",
+            "snippet": "Intel Corp shares are trading higher Wednesday following the company's highly anticipated launch of its Xeon 6 processors and Gaudi 3 AI accelerators.",
+            "publisher": "Benzinga",
+            "timestamp": "1727295253000",
+            "newsUrl": "https://www.benzinga.com/news/24/09/41034496/why-are-intel-shares-trading-higher-today",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVNla0ZPYzNSUmMzbFdlRmM0VFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVNla0ZPYzNSUmMzbFdlRmM0VFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Warren Buffett Moves: Berkshire Hathaway Reduces Bank Of America Holdings By $863M",
+            "snippet": "Berkshire now owns close to 10% of the second-largest U.S. bank after the latest disposals over three trading days through Tuesday.",
+            "publisher": "Benzinga",
+            "timestamp": "1727234534000",
+            "newsUrl": "https://www.benzinga.com/markets/equities/24/09/41017420/warren-buffett-moves-berkshire-hathaway-reduces-bank-of-america-holdings-by-863m",
+            "hasSubnews": false
+        },
+        {
+            "title": "Donald Trump Selling Truth Social Shares Would Be A Legendary Hedge Against Losing The Election",
+            "snippet": "Social media companies have only ever been able to successfully monetize their operations in one way: addicting large numbers of us to their platforms so ...",
+            "publisher": "Above the Law",
+            "timestamp": "1727275393000",
+            "newsUrl": "https://abovethelaw.com/2024/09/donald-trump-selling-truth-social-shares-would-be-a-legendary-hedge-against-losing-the-election/",
+            "hasSubnews": false
+        },
+        {
+            "title": "Speech by Governor Kugler on the economic outlook",
+            "snippet": "September 25, 2024. How We Got Here: A Perspective on Inflation and the Labor Market. Governor Adriana D. Kugler. At the Mossavar-Rahmani Center for ...",
+            "publisher": "Federal Reserve",
+            "timestamp": "1727294423000",
+            "newsUrl": "https://www.federalreserve.gov/newsevents/speech/kugler20240925a.htm",
+            "hasSubnews": false
+        },
+        {
+            "title": "Can dealmaking save Intel?",
+            "snippet": "America's failing chip champion needs a financial-engineering miracle | Business.",
+            "publisher": "The Economist",
+            "timestamp": "1727288910000",
+            "newsUrl": "https://www.economist.com/business/2024/09/25/can-dealmaking-save-intel",
+            "hasSubnews": false
+        },
+        {
+            "title": "More And More Americans Don't Believe EVs Are Good For The Planet",
+            "snippet": "Good morning! It's Wednesday, September 25, 2024, and this is The Morning Shift, your daily roundup of the top automotive headlines from around the world, ...",
+            "publisher": "Jalopnik",
+            "timestamp": "1727270400000",
+            "newsUrl": "https://jalopnik.com/more-and-more-americans-dont-believe-evs-are-good-for-t-1851656883",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNHpRbGMxVmpGNFVIUXhSMUJZVFJEckFoaUZCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNHpRbGMxVmpGNFVIUXhSMUJZVFJEckFoaUZCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Coca-Cola Spiced is getting canceled after 7 months on the market",
+            "snippet": "Coca-Cola Co. is discontinuing its newest “permanent” flavor a little more than seven months after putting the product on the market.",
+            "publisher": "The Associated Press",
+            "timestamp": "1727276100000",
+            "newsUrl": "https://apnews.com/article/cocacola-coke-spiced-soda-c13ff635fa8f8b6977b1371d6bdc88c3",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUtOa3RrU0dGRlJuVXRhV2hWVFJEVkFSakFBaWdLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUtOa3RrU0dGRlJuVXRhV2hWVFJEVkFSakFBaWdLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Stocks are poised for something that hasn’t happened since the days of the dot-com bubble",
+            "snippet": "The S&P 500 is flirting with what would be a rare accomplishment: rising 20% or more during two consecutive calendar years.",
+            "publisher": "MarketWatch",
+            "timestamp": "1727297760000",
+            "newsUrl": "https://www.marketwatch.com/story/stocks-are-poised-for-something-that-hasnt-happened-since-the-days-of-the-dot-com-bubble-23230cb1",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNVRjakpRWTJzMVJVd3lVMnczVFJDcUJCaXFCQ2dLTWdzQkFJeWtES1hnNk5tT1RR=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNVRjakpRWTJzMVJVd3lVMnczVFJDcUJCaXFCQ2dLTWdzQkFJeWtES1hnNk5tT1RR"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "No ‘quick fix’ for Intel: Portfolio manager",
+            "snippet": "Eric Jackson, the founder and president of EMJ Capital, joins Yahoo Finance's Executive Editor Brian Sozzi and Catalyst hosts Seana Smith and Madison Mills ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1727280689000",
+            "newsUrl": "https://finance.yahoo.com/video/no-quick-fix-intel-portfolio-161129521.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVRiM3A2TlRaTU0xUnBUbFYyVFJDZkF4amlCU2dLTWdhOVVvQVUyUUU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVRiM3A2TlRaTU0xUnBUbFYyVFJDZkF4amlCU2dLTWdhOVVvQVUyUUU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Stock Of The Day: Nvidia Shares Jump As Technical Patterns Signal Market Shift, CEO Completes Stock Sale Early",
+            "snippet": "Nvidia's CEO selling company stock early signals confidence and aligns with bullish technical patterns. Technical analysis is study of psychology.",
+            "publisher": "Benzinga",
+            "timestamp": "1727291512000",
+            "newsUrl": "https://www.benzinga.com/trading-ideas/technicals/24/09/41033398/stock-of-the-day-nvidia-shares-jump-as-technical-patterns-signal-market-shift-ceo-comple",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVFkbWQ1YWxkS04xWklXVGRsVFJERUF4aW1CU2dLTWdhTmVKS0dzZ1k=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVFkbWQ1YWxkS04xWklXVGRsVFJERUF4aW1CU2dLTWdhTmVKS0dzZ1k"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Home Builders Are Sitting on a Lot of Supply they Struggle to Sell",
+            "snippet": "New home sales fell 4.7 percent in August but the supply of homes started homes and finished homes is the big story. Data from the Census Department, ...",
+            "publisher": "Mish Talk",
+            "timestamp": "1727279301000",
+            "newsUrl": "https://mishtalk.com/economics/home-builders-are-sitting-on-a-lot-of-supply-they-struggle-to-sell/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXRZMFJxZEVSeVZ6QjFWMVJTVFJEQUF4aXNCU2dLTWdNTkFnZw=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXRZMFJxZEVSeVZ6QjFWMVJTVFJEQUF4aXNCU2dLTWdNTkFnZw"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "91% of polled Amazon staff unhappy with return-to-office, 3-in-4 want to jump ship",
+            "snippet": "Amazon CEO Andy Jassy last week sent a memo to staff informing them everyone is now expected in the office five days a week from the start of next year, ...",
+            "publisher": "The Register",
+            "timestamp": "1727296860000",
+            "newsUrl": "https://www.theregister.com/2024/09/25/amazon_staff_return_office/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURWbTVJZEZwUVFTMVJjV3hLVFJEQUFSaUdBaWdCTWdhdFpKQ1BLUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURWbTVJZEZwUVFTMVJjV3hLVFJEQUFSaUdBaWdCTWdhdFpKQ1BLUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "X releases its first transparency report since Elon Musk’s takeover",
+            "snippet": "LOS ANGELES (AP) — Social media platform X on Wednesday published its first transparency report since the company was purchased by Elon Musk.",
+            "publisher": "The Associated Press",
+            "timestamp": "1727286420000",
+            "newsUrl": "https://apnews.com/article/x-elon-musk-transparency-report-01ecfaaca4701a7c399efbf1401ef76d",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNXVZbEk1ZVU5bU1FeDRXWEJ1VFJDZkF4ampCU2dLTWdrQkFaRFVOS2JRQlFN=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNXVZbEk1ZVU5bU1FeDRXWEJ1VFJDZkF4ampCU2dLTWdrQkFaRFVOS2JRQlFN"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "High demand means free Covid tests not available from USPS site until \"late September\"",
+            "snippet": "The U.S. Food and Drug Administration recently announced that folks in the United States would be able to order four more COVID-19 tests per household, ...",
+            "publisher": "Boing Boing",
+            "timestamp": "1727278645000",
+            "newsUrl": "https://boingboing.net/2024/09/25/high-demand-means-free-covid-tests-not-available-from-usps-site-until-late-september.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxkV0owWW1JeVVETm5aV3hCVFJDZkF4ampCU2dLTWdZaE01VHNLUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUxkV0owWW1JeVVETm5aV3hCVFJDZkF4ampCU2dLTWdZaE01VHNLUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Pennsylvania-based pet food issues recall: ‘Do not touch’",
+            "snippet": "A Pennsylvania-based pet food company has issued a nationwide recall.",
+            "publisher": "PennLive",
+            "timestamp": "1727274780000",
+            "newsUrl": "https://www.pennlive.com/life/2024/09/pennsylvania-based-pet-food-issues-recall-do-not-touch.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJkRGRxUWpGdk4ydFFaVFpHVFJEZ0F4aUFCU2dLTWdZcHBaU3ROUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXJkRGRxUWpGdk4ydFFaVFpHVFJEZ0F4aUFCU2dLTWdZcHBaU3ROUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Amtrak announces 'Floridian' train with 2-day route, sparking reactions on social media",
+            "snippet": "Amtrak has announced a new train line connecting Chicago to Miami. The news has ignited some reactions from social media users who addressed the length and ...",
+            "publisher": "Fox News",
+            "timestamp": "1727286540000",
+            "newsUrl": "https://www.foxnews.com/travel/amtrak-announces-floridian-train-2-day-route-sparking-reactions-social-media",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVljRGRXYzA5R1NteFFkbDl1VFJDZkF4ampCU2dLTWdZQlVJcTB1QVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVljRGRXYzA5R1NteFFkbDl1VFJDZkF4ampCU2dLTWdZQlVJcTB1QVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Trump Media stock surges as Donald Trump holds onto his shares",
+            "snippet": "Shares of Trump Media & Technology Group spiked more than 10% Wednesday afternoon, reversing course after weeks of free-falling that saw the media company's ...",
+            "publisher": "Quartz",
+            "timestamp": "1727273820000",
+            "newsUrl": "https://qz.com/trump-media-donald-trump-stock-share-lockup-1851657035",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURiRm80Ykd0UFRIRmhObVExVFJDdUF4aUZCU2dLTWdhOUlwQVNIUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURiRm80Ykd0UFRIRmhObVExVFJDdUF4aUZCU2dLTWdhOUlwQVNIUWs"
+            },
+            "hasSubnews": false
+        }
+    ]
+}

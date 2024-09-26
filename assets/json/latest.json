@@ -1,0 +1,959 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "Hezbollah fires a missile at Tel Aviv in deepest strike yet after Israel bombardment in Lebanon",
+            "snippet": "The Israeli military said it intercepted the surface-to-surface missile, which set off air raid sirens in Tel Aviv and across central Israel.",
+            "publisher": "The Associated Press",
+            "timestamp": "1727253060000",
+            "newsUrl": "https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNHdNRVpHUkZaZlFYWjRkRE5zVFJDZkF4ampCU2dLTWdzRkVJSXBsYUs1UjNxTFRB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNHdNRVpHUkZaZlFYWjRkRE5zVFJDZkF4ampCU2dLTWdzRkVJSXBsYUs1UjNxTFRB"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Israel strikes Hezbollah targets as conflict intensifies",
+                    "snippet": "Israeli airstrikes targeting militant group Hezbollah in Lebanon killed nearly 500 people and wounded 1600 others on Monday — the deadliest day in the ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727173740000",
+                    "newsUrl": "https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-24-24-intl-hnk/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXZjMVptV1hSTGVWVnRXamhqVFJDeUF4akNCU2dLTWdPUlJ3NA=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXZjMVptV1hSTGVWVnRXamhqVFJDeUF4akNCU2dLTWdPUlJ3NA"
+                    }
+                },
+                {
+                    "title": "Hezbollah launched its deepest strike on Israel yet — targeting Tel Aviv",
+                    "snippet": "Hezbollah fired a missile at Tel Aviv on Wednesday morning in what is believed to be its deepest strike yet into Israel.",
+                    "publisher": "Business Insider",
+                    "timestamp": "1727258040000",
+                    "newsUrl": "https://www.businessinsider.com/israel-intercepts-hezbollah-missile-strike-tel-aviv-lebanon-2024-9",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5iREJDYW1aT1UwWm1abFZrVFJEZ0F4aUFCU2dLTWdZQm9JcVVRQVU=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5iREJDYW1aT1UwWm1abFZrVFJEZ0F4aUFCU2dLTWdZQm9JcVVRQVU"
+                    }
+                },
+                {
+                    "title": "Israeli military says it intercepted missile from Lebanon near Tel Aviv in rare attack",
+                    "snippet": "A missile fired from Lebanon was intercepted near Israel's economic center Tel Aviv on Wednesday, Israel's military said, in a rare attack far from the ...",
+                    "publisher": "Yahoo! Voices",
+                    "timestamp": "1727241980000",
+                    "newsUrl": "https://www.yahoo.com/news/israeli-military-says-intercepted-missile-052620418.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxURkpMY1c1cFdGRjZVVWwyVFJEb0FoaUFCU2dLTWdZbFpZck5LUWc=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWxURkpMY1c1cFdGRjZVVWwyVFJEb0FoaUFCU2dLTWdZbFpZck5LUWc"
+                    }
+                },
+                {
+                    "title": "IDF confirms Hezbollah commander in charge of missiles and rockets killed in airstrike",
+                    "snippet": "Israel Defense Forces said an Israeli airstrike in Beirut, Lebanon, killed Ibrahim Muhammad Qubaisi, commander of Hezbollah's missiles and rockets force.",
+                    "publisher": "Fox News",
+                    "timestamp": "1727196600000",
+                    "newsUrl": "https://www.foxnews.com/world/idf-confirms-hezbollah-commander-charge-missiles-rockets-killed-airstrike",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNVphV3hsUWxoS1JtVkhUVE5EVFJDZkF4ampCU2dLTWdNTkJRZw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNVphV3hsUWxoS1JtVkhUVE5EVFJDZkF4ampCU2dLTWdNTkJRZw"
+                    }
+                },
+                {
+                    "title": "Missile intercepted above Tel Aviv as Hezbollah targets city for first time – video",
+                    "snippet": "Missile streak seen over Tel Aviv after Hezbollah targets Israeli intelligence agency headquarters.",
+                    "publisher": "The Guardian",
+                    "timestamp": "1727256960000",
+                    "newsUrl": "https://www.theguardian.com/world/video/2024/sep/25/missile-intercepted-above-tel-aviv-as-hezbollah-targets-city-for-first-time-video",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNW1aR3RITkhWemIxUlBkbVF0VFJDWEFoalJBeWdLTWdNQkd3Zw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNW1aR3RITkhWemIxUlBkbVF0VFJDWEFoalJBeWdLTWdNQkd3Zw"
+                    }
+                },
+                {
+                    "title": "Israel-Hezbollah Conflict Displaces 500,000 People in Lebanon: Live Updates",
+                    "snippet": "Israel said it was the first time the Lebanese militia had taken aim at Israel's economic hub. Half a million people are displaced in Lebanon, the foreign ...",
+                    "publisher": "The New York Times",
+                    "timestamp": "1727259883000",
+                    "newsUrl": "https://www.nytimes.com/live/2024/09/25/world/israel-gaza-hamas-hezbollah",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlWMVpUV2tFMU5UZHJlWFZPVFJDcUJCaXFCQ2dLTWdZQjhJWXAwZ00=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUlWMVpUV2tFMU5UZHJlWFZPVFJDcUJCaXFCQ2dLTWdZQjhJWXAwZ00"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Maps: Tracking Tropical Storm Helene",
+            "snippet": "Helene was a tropical storm in the Caribbean Sea early Wednesday Eastern time, the National Hurricane Center said in its latest advisory.",
+            "publisher": "The New York Times",
+            "timestamp": "1727255047000",
+            "newsUrl": "https://www.nytimes.com/interactive/2024/09/24/weather/helene-map-path-tracker.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZVamhYYkU5SE4ydDVTakJGVFJDZkF4ampCU2dLTWdhcEE0cnZ1UVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZVamhYYkU5SE4ydDVTakJGVFJDZkF4ampCU2dLTWdhcEE0cnZ1UVU"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Tropical Storm Helene Continues To Strengthen",
+                    "snippet": "Helene has grown in size and strengthened. It is expected to be a hurricane later on Wednesday, make landfall Thursday, and carry significant impacts across ...",
+                    "publisher": "The Weather Channel",
+                    "timestamp": "1727258391000",
+                    "newsUrl": "https://weather.com/storms/hurricane/video/tropical-storm-helene-hurricane-florida-southeast-forecast",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNXpXVkZrTTJkbWFrcE9iVTlaVFJDMEFSakFBaWdLTWd1QkFvU3RqYU9pcERvVlJR=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNXpXVkZrTTJkbWFrcE9iVTlaVFJDMEFSakFBaWdLTWd1QkFvU3RqYU9pcERvVlJR"
+                    }
+                },
+                {
+                    "title": "Wednesday updates: Tropical Storm Helene expected to become hurricane today",
+                    "snippet": "Tampa Bay area residents should prepare for potential hurricane conditions on Thursday, officials say, with Tropical Storm Helene expected to become a ...",
+                    "publisher": "Tampa Bay Times",
+                    "timestamp": "1727259676000",
+                    "newsUrl": "https://www.tampabay.com/hurricane/2024/09/25/live-updates-helene-tampa-florida-hurricane/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNUxjMEZPWDFwdWRVODJWMFZrVFJDb0FSaXNBaWdCTWdNcEJRZw=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNUxjMEZPWDFwdWRVODJWMFZrVFJDb0FSaXNBaWdCTWdNcEJRZw"
+                    }
+                },
+                {
+                    "title": "COUNTY BY COUNTY: What to expect around Tampa Bay",
+                    "snippet": "Our Spectrum Bay News 9 Weather Experts have broken down, by county, what to watch for as Helene gets closer to landfall. For the latest forecast updates, ...",
+                    "publisher": "Bay News 9",
+                    "timestamp": "1727191560000",
+                    "newsUrl": "https://baynews9.com/fl/tampa/weather/2024/09/24/what-to-expect-around-tampa-bay-helene",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXNaM1JpTTJobVFsZGhWME56VFJDb0FSaXNBaWdCTWdPQmNRWQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXNaM1JpTTJobVFsZGhWME56VFJDb0FSaXNBaWdCTWdPQmNRWQ"
+                    }
+                },
+                {
+                    "title": "Thousands forced to evacuate in Florida as Helene threatens to become the strongest storm to hit the US in over a year",
+                    "snippet": "Thousands of Florida residents have been forced to evacuate as the state prepares for rapidly strengthening Tropical Storm Helene, which could bring ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727247480000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/us/helene-tropical-storm-florida-evacuations/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUZaRUUxVW05cWRGTlJhbTlqVFJDb0FSaXNBaWdCTWdZQmdKVE10UWM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUZaRUUxVW05cWRGTlJhbTlqVFJDb0FSaXNBaWdCTWdZQmdKVE10UWM"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "New report details stunning Secret Service leadership failures around first Trump assassination attempt",
+            "snippet": "Secret Service agents failed to take charge of decision-making for security at the Butler, Pennsylvania, rally where former President Donald Trump was shot ...",
+            "publisher": "CNN",
+            "timestamp": "1727254860000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/politics/trump-shooting-butler-senate-report-secret-service/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW5iMUZZUkV4YVVucDNTSFF5VFJDZkF4amlCU2dLTWdtSklJNm9IQ2x6N2dF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNW5iMUZZUkV4YVVucDNTSFF5VFJDZkF4amlCU2dLTWdtSklJNm9IQ2x6N2dF"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Leadership, but No Clear Leader, Failed at Tragic Trump Rally",
+                    "snippet": "A Senate committee report on the Secret Service's inability to protect the former president at a July event depicts a lack of individual responsibility ...",
+                    "publisher": "The New York Times",
+                    "timestamp": "1727255152000",
+                    "newsUrl": "https://www.nytimes.com/2024/09/25/us/politics/secret-service-trump-rally.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUpiMUY2ZEhSWmJGbEVaVzFKVFJEZ0F4aUFCU2dLTWdZQmM0UU1LZ2c=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUpiMUY2ZEhSWmJGbEVaVzFKVFJEZ0F4aUFCU2dLTWdZQmM0UU1LZ2c"
+                    }
+                },
+                {
+                    "title": "Trump assassination attempt: Inexperienced Secret Service agent flying drone called toll-free number for help",
+                    "snippet": "Senate Committee on Homeland Security and Governmental Affairs releases preliminary findings on Secret Service handling of Trump rally assassination ...",
+                    "publisher": "Fox News",
+                    "timestamp": "1727254800000",
+                    "newsUrl": "https://www.foxnews.com/us/trump-assassination-attempt-inexperienced-secret-service-agent-flying-drone-called-toll-free-number-help",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUdiRTF4ZURjdFFucExOVTkxVFJDZkF4ampCU2dLTWdZaEFJNnRpUXM=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUdiRTF4ZURjdFFucExOVTkxVFJDZkF4ampCU2dLTWdZaEFJNnRpUXM"
+                    }
+                },
+                {
+                    "title": "Lead Secret Service agent at Trump’s Butler rally knew of ‘credible intelligence’ of threat but didn’t raise alarm, Senate report finds",
+                    "snippet": "The Secret Service agent in charge of Donald Trump's July 13 rally in Butler, Pa., was made aware of “credible intelligence” of a threat against the former ...",
+                    "publisher": "New York Post ",
+                    "timestamp": "1727255040000",
+                    "newsUrl": "https://nypost.com/2024/09/25/us-news/lead-secret-service-agent-at-trumps-butler-rally-knew-of-credible-intelligence-of-threat-but-didnt-raise-alarm-senate-report-finds/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNHRaR0l4YkZoZldFMUlPVU0yVFJERUF4aW5CU2dLTWdZQlZZaWxwZ2c=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNHRaR0l4YkZoZldFMUlPVU0yVFJERUF4aW5CU2dLTWdZQlZZaWxwZ2c"
+                    }
+                },
+                {
+                    "title": "Bipartisan Senate report details Secret Service 'failures' in Trump assassination attempt in Pennsylvania",
+                    "snippet": "The Secret Service did not communicate properly with local law enforcement or provide necessary resources that caused “preventable” security failings on ...",
+                    "publisher": "ABC News",
+                    "timestamp": "1727255815000",
+                    "newsUrl": "https://abcnews.go.com/Politics/bipartisan-senate-report-details-secret-service-failures-butler/story?id=113988920",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUVZa3czZFdFeWNrWTNhRTVIVFJDZkF4ampCU2dLTWdrQmNJSkF5dU5UVEFF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUVZa3czZFdFeWNrWTNhRTVIVFJDZkF4ampCU2dLTWdrQmNJSkF5dU5UVEFF"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "China's PLA conducts rare publicized test launch of intercontinental ballistic missile",
+            "snippet": "China said on Wednesday it had successfully conducted a rare launch of an intercontinental ballistic missile into the Pacific Ocean, a move likely to raise ...",
+            "publisher": "Reuters",
+            "timestamp": "1727246880000",
+            "newsUrl": "https://www.reuters.com/world/china/chinas-pla-launches-intercontinental-ballistic-missile-into-pacific-ocean-2024-09-25/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNWxRbFJWVERNelpFVldOMEoxVFJERUF4aW1CU2dLTWdNQlFBQQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNWxRbFJWVERNelpFVldOMEoxVFJERUF4aW1CU2dLTWdNQlFBQQ"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "China fires ICBM into Pacific Ocean in first such public test in decades as regional tensions flare",
+                    "snippet": "China says it successfully fired an intercontinental ballistic missile into the Pacific Ocean on Wednesday, a rare public test that comes amid heightened ...",
+                    "publisher": "CNN",
+                    "timestamp": "1727250420000",
+                    "newsUrl": "https://www.cnn.com/2024/09/25/asia/china-icbm-test-pacific-ocean-intl-hnk/index.html",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWljRTUzV25ocVoybGphVTh6VFJDZkF4amlCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWljRTUzV25ocVoybGphVTh6VFJDZkF4amlCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "China says test-launched ICBM with ‘dummy warhead’ into Pacific",
+                    "snippet": "First public test-launch of missile likely to raise concerns about China's nuclear build-up.",
+                    "publisher": "Al Jazeera English",
+                    "timestamp": "1727237957000",
+                    "newsUrl": "https://www.aljazeera.com/news/2024/9/25/china-says-test-launched-icbm-with-dummy-warhead-into-pacific",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNXpVSFJaWldKVlZYcFhSMUk1VFJEZ0F4aUFCU2dLTWdNQlVBQQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNXpVSFJaWldKVlZYcFhSMUk1VFJEZ0F4aUFCU2dLTWdNQlVBQQ"
+                    }
+                },
+                {
+                    "title": "China Holds Rare Test of ICBM Into Pacific to Show Its Might",
+                    "snippet": "China launched an intercontinental ballistic missile into the Pacific Ocean in what appeared to be its first such public test in some four decades, ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1727258607000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2024-09-25/china-launches-icbm-with-dummy-warhead-into-pacific-ocean",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVpOVVp0VlhRd1MybExiRkpaVFJDNEFSaVNBaWdCTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVpOVVp0VlhRd1MybExiRkpaVFJDNEFSaVNBaWdCTWdB"
+                    }
+                },
+                {
+                    "title": "China Says It Test-Fired Intercontinental Ballistic Missile",
+                    "snippet": "SINGAPORE—China said it test-fired an intercontinental ballistic missile on Wednesday, a rare public acknowledgment that is likely to increase tensions with ...",
+                    "publisher": "The Wall Street Journal",
+                    "timestamp": "1727249640000",
+                    "newsUrl": "https://www.wsj.com/world/asia/china-says-it-test-fired-intercontinental-ballistic-missile-273612fc",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iNkNnNW1Remh5ZFZKcVpXaFNNMHhXVFJERkF4aWxCU2dLTWc0Qk1JU2dHcW9jMU5qZUxWcURLQQ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iNkNnNW1Remh5ZFZKcVpXaFNNMHhXVFJERkF4aWxCU2dLTWc0Qk1JU2dHcW9jMU5qZUxWcURLQQ"
+                    }
+                },
+                {
+                    "title": "China test-fires an intercontinental ballistic missile into the Pacific Ocean",
+                    "snippet": "China has test-fired an intercontinental ballistic missile into the Pacific Ocean. The Defense Ministry said the ICBM launched Wednesday morning carried a ...",
+                    "publisher": "The Associated Press",
+                    "timestamp": "1727249280000",
+                    "newsUrl": "https://apnews.com/article/china-missile-us-taiwan-9eba29cf62b21a19c15a8e119736182c",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU1SVE13U3pSblVGcExXVEY2VFJEVkFSakFBaWdLTWdrQlVJYlZ1R1dTRXdF=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNU1SVE13U3pSblVGcExXVEY2VFJEVkFSakFBaWdLTWdrQlVJYlZ1R1dTRXdF"
+                    }
+                },
+                {
+                    "title": "Nuclear Fears as China Announces Ballistic Missile Test",
+                    "snippet": "China's military launched an intercontinental ballistic missile from its southern coast deep into the Pacific Ocean on Wednesday, its defense ministry has ...",
+                    "publisher": "Newsweek",
+                    "timestamp": "1727245109000",
+                    "newsUrl": "https://www.newsweek.com/china-military-test-launch-icbm-missile-pacific-1958957",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU5PVFU0TkhCM1owTnJlbGxWVFJEZ0F4aUFCU2dLTWdZWnBKQ0tPUVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU5PVFU0TkhCM1owTnJlbGxWVFJEZ0F4aUFCU2dLTWdZWnBKQ0tPUVk"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "CNN Poll: Harris leads Trump among young voters but falls short of Biden’s 2020 winning margin",
+            "snippet": "Vice President Kamala Harris holds a 12-point lead over former President Donald Trump among voters younger than 35 – a group that's largely dissatisfied ...",
+            "publisher": "CNN",
+            "timestamp": "1727254800000",
+            "newsUrl": "https://www.cnn.com/2024/09/25/politics/cnn-poll-young-voters-harris-trump/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNU9hVUZUUzNCT05HeEtVV2sxVFJDZkF4amlCU2dLTWdtTllaVFZyS2VwQ2dJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNU9hVUZUUzNCT05HeEtVV2sxVFJDZkF4amlCU2dLTWdtTllaVFZyS2VwQ2dJ"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Polling Whiplash",
+                    "snippet": "Today on TAP: All polls are prisoners of subjective assumptions. As a great student of public opinion said, 'Don't speak too soon, for the wheel's still in ...",
+                    "publisher": "The American Prospect",
+                    "timestamp": "1727131733000",
+                    "newsUrl": "https://prospect.org/blogs-and-newsletters/tap/2024-09-23-polling-whiplash/",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVFUR1l4VldGMmMySllZMDltVFJDM0FSaVRBaWdCTWdtTk1aeW1vbWc5WndJ=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVFUR1l4VldGMmMySllZMDltVFJDM0FSaVRBaWdCTWdtTk1aeW1vbWc5WndJ"
+                    }
+                },
+                {
+                    "title": "Younger Americans overwhelmingly support Harris -- but both Harris, Trump have room to grow: Poll",
+                    "snippet": "Young voters overwhelmingly support Vice President Kamala Harris' bid for the White House, according to new polling.",
+                    "publisher": "ABC News",
+                    "timestamp": "1727211526000",
+                    "newsUrl": "https://abcnews.go.com/Politics/younger-americans-overwhelmingly-support-harris-harris-trump-room/story?id=113974070",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWxkQzFFWTJSb2MzVm1UMXBOVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWxkQzFFWTJSb2MzVm1UMXBOVFJDZkF4ampCU2dLTWdB"
+                    }
+                },
+                {
+                    "title": "New poll indicates whether Harris or Trump is making gains with younger voters",
+                    "snippet": "A new poll indicates surging support among America's youngest voters for Vice President Kamala Harris in her 2024 showdown against former President Trump.",
+                    "publisher": "Fox News",
+                    "timestamp": "1727168400000",
+                    "newsUrl": "https://www.foxnews.com/politics/new-poll-indicates-whether-harris-trump-making-gains-younger-voters",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXhUMTlVU1dSa2MyWmtXRkZrVFJDZkF4ampCU2dLTWdZTmhKQ3R0UVk=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXhUMTlVU1dSa2MyWmtXRkZrVFJDZkF4ampCU2dLTWdZTmhKQ3R0UVk"
+                    }
+                },
+                {
+                    "title": "Has Harris pulled ahead of Trump? The state of the 2024 polls, explained.",
+                    "snippet": "The polling in states like Pennsylvania, Wisconsin, and Michigan, explained.",
+                    "publisher": "Vox.com",
+                    "timestamp": "1727202900000",
+                    "newsUrl": "https://www.vox.com/2024-elections/373559/trump-harris-polls-electoral-college-pennsylvania-swing-states",
+                    "images": {
+                        "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTViSGxsVG1KbWVFOXplbGxXVFJER0F4aWpCU2dLTWdB=-w280-h168-p-df-rw",
+                        "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTViSGxsVG1KbWVFOXplbGxXVFJER0F4aWpCU2dLTWdB"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "3rd house collapses in 4 days on North Carolina coast",
+            "snippet": "A third house has collapsed in four days on the North Carolina coast as officials closed off the beach due to dangerous debris on the shore and in the ...",
+            "publisher": "ABC News",
+            "timestamp": "1727248145000",
+            "newsUrl": "https://abcnews.go.com/US/3rd-house-collapses-4-days-north-carolina-coast/story?id=114066997",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUNiVlJTUVZCaWMzRlRTMHB4VFJDZkF4ampCU2dLTWdZTmdJaUpSUVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUNiVlJTUVZCaWMzRlRTMHB4VFJDZkF4ampCU2dLTWdZTmdJaUpSUVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Trump: \"Big threats on my life by Iran\"",
+            "snippet": "Former President Trump said early Wednesday after his campaign announced intelligence officials had briefed him on Iran's efforts to assassinate him that he ...",
+            "publisher": "Axios",
+            "timestamp": "1727250075000",
+            "newsUrl": "https://www.axios.com/2024/09/25/trump-iran-assassinate-threats-intelligence-briefing-odi",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXpWR3RwUkhJMFgwSjBUWEV5VFJDZkF4ampCU2dLTWdhaFJvd0xvZ2c=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXpWR3RwUkhJMFgwSjBUWEV5VFJDZkF4ampCU2dLTWdhaFJvd0xvZ2c"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Marcellus Williams executed in Missouri after 20 years on death row",
+            "snippet": "Marcellus Williams was executed on Tuesday night in the US state of Missouri after spending more than two decades on death row.",
+            "publisher": "BBC.com",
+            "timestamp": "1727253712000",
+            "newsUrl": "https://www.bbc.com/news/articles/cz9p518j0nqo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNUJhRnBYYlhwc1RFRlBXbk5KVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNUJhRnBYYlhwc1RFRlBXbk5KVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Hemmed In by the Hard Right, Johnson Again Turns to Democrats for Votes",
+            "snippet": "Speaker Mike Johnson is preparing to steer around a bloc of conservative opposition to a bipartisan short-term agreement to fund the government by relying ...",
+            "publisher": "The New York Times",
+            "timestamp": "1727202762000",
+            "newsUrl": "https://www.nytimes.com/2024/09/24/us/politics/johnson-spending-democrats-republicans.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUlPVzk0ZGtkalRHdFFlbGxyVFJDUUF4allCQ2dLTWdZbFJaak5IUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUlPVzk0ZGtkalRHdFFlbGxyVFJDUUF4allCQ2dLTWdZbFJaak5IUWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Robinson hires law firm to investigate ‘false smears’ in CNN report",
+            "snippet": "North Carolina Republican gubernatorial candidate Mark Robinson announced it hired a law firm to investigate the “false smears” in the CNN report that ...",
+            "publisher": "The Hill",
+            "timestamp": "1727234700000",
+            "newsUrl": "https://thehill.com/homenews/campaign/4897839-mark-robinson-hires-law-firm-cnn-report/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9NbWx1UzFGUWVHcEtXV1ZLVFJDZkF4ampCU2dLTWdhVkpaanRtUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9NbWx1UzFGUWVHcEtXV1ZLVFJDZkF4ampCU2dLTWdhVkpaanRtUWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Harris to pitch U.S. manufacturing revival in new economic speech",
+            "snippet": "The vice president also recently signaled support for the cryptocurrency industry, in a move meant to appeal to big donors and young men.",
+            "publisher": "The Washington Post",
+            "timestamp": "1727209987000",
+            "newsUrl": "https://www.washingtonpost.com/business/2024/09/24/kamala-harris-crypto-bitcoin/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWFjVmRzVEZsdFZYbExaVVIxVFJERUF4aW1CU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWFjVmRzVEZsdFZYbExaVVIxVFJERUF4aW1CU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Zelenskyy’s victory plan sets Ukraine’s terms in a desperate war against Russia",
+            "snippet": "KYIV, Ukraine (AP) — The victory plan that President Volodymyr Zelenskyy will present to the White House this week asks the Biden administration to do ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1727249820000",
+            "newsUrl": "https://apnews.com/article/zelenskyy-peace-plan-biden-russia-ukraine-d5e0d1aa9bf7d17e13609c2564d26489",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNURkMVJDT1RSdVRuZHBTMEZJVFJDUEF4alhCQ2dLTWdtQkU2QXlrV3VTcHdJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNURkMVJDT1RSdVRuZHBTMEZJVFJDUEF4alhCQ2dLTWdtQkU2QXlrV3VTcHdJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Caroline Ellison sentenced to two years in prison for her role in FTX scandal",
+            "snippet": "Caroline Ellison was sentenced on Tuesday to two years in prison by a federal judge in New York, for her role in the FTX cryptocurrency scandal.",
+            "publisher": "Axios",
+            "timestamp": "1727223750000",
+            "newsUrl": "https://www.axios.com/2024/09/24/caroline-ellison-ftx-prison",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNURTbTlCYmpCRVNEQnpaV0pDVFJDZkF4ampCU2dLTWdZZFJwWUxLZ2c=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNURTbTlCYmpCRVNEQnpaV0pDVFJDZkF4ampCU2dLTWdZZFJwWUxLZ2c"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Judge grants special counsel Jack Smith’s motion to file an ‘oversized’ brief on presidential immunity in Trump 2020 election interference case",
+            "snippet": "The federal judge overseeing Donald Trump's 2020 election interference case approved a request by special counsel Jack Smith on Tuesday allowing him to file ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727221920000",
+            "newsUrl": "https://nypost.com/2024/09/24/us-news/judge-grants-special-counsel-jack-smiths-motion-to-file-an-oversized-brief-on-presidential-immunity-in-trump-2020-election-interference-case/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDBOWE5KU0VZMloxSkpSSGR3VFJETUFSaXlBaWdLTWdaRkVxRDBsQW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDBOWE5KU0VZMloxSkpSSGR3VFJETUFSaXlBaWdLTWdaRkVxRDBsQW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Exclusive: Russia has secret war drones project in China, intel sources say",
+            "snippet": "Sept 25 (Reuters) - Russia has established a weapons programme in China to develop and produce long-range attack drones for use in the war against Ukraine, ...",
+            "publisher": "Reuters",
+            "timestamp": "1727259257000",
+            "newsUrl": "https://www.reuters.com/world/russia-has-secret-war-drones-project-china-intel-sources-say-2024-09-25/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUphekZmTmt4SWFtUkRObHBoVFJDbkF4alZCU2dLTWdrQkFJZ0lEV1RKNUFJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUphekZmTmt4SWFtUkRObHBoVFJDbkF4alZCU2dLTWdrQkFJZ0lEV1RKNUFJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Ryan Routh charged with attempted assassination of Donald Trump",
+            "snippet": "US prosecutors have charged a man arrested near Donald Trump's Florida golf course with the attempted assassination of a presidential candidate.",
+            "publisher": "BBC.com",
+            "timestamp": "1727260972000",
+            "newsUrl": "https://www.bbc.com/news/articles/c5y5l9jzjglo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxOMUJ5WkRKRVRHdzFWbTF0VFJDZkF4ampCU2dLTWdhQm9JaHdOUVU=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWxOMUJ5WkRKRVRHdzFWbTF0VFJDZkF4ampCU2dLTWdhQm9JaHdOUVU"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dangerous chemical leak spurs evacuation order in Ohio town",
+            "snippet": "Students in school buildings and residents in neighboring homes were told to evacuate after a dangerous chemical began leaking from a railcar Tuesday near ...",
+            "publisher": "CNN",
+            "timestamp": "1727256150000",
+            "newsUrl": "https://www.cnn.com/2024/09/24/us/ohio-train-chemical-leak-evacuation-order/index.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXRWRFZHUTNNd2RtZFBVMUZmVFJDbEFSaXhBaWdCTWdZWmRwZ3FMZ2c=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXRWRFZHUTNNd2RtZFBVMUZmVFJDbEFSaXhBaWdCTWdZWmRwZ3FMZ2c"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Leadership Failures Helped Lead to FAFSA Debacle, Watchdog Finds",
+            "snippet": "Leaders in the Education Department systematically failed to manage deadlines and badly underestimated technical shortcomings while overhauling the Free ...",
+            "publisher": "The New York Times",
+            "timestamp": "1727229531000",
+            "newsUrl": "https://www.nytimes.com/2024/09/24/us/politics/watchdog-faults-leadership-fafsa-debacle.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXVjM05xUldSUVRtbFZlbTFYVFJDUUF4allCQ2dLTWdhQkI0dG0wZ00=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXVjM05xUldSUVRtbFZlbTFYVFJDUUF4allCQ2dLTWdhQkI0dG0wZ00"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Manchin says he won't endorse Harris over abortion filibuster carveout",
+            "snippet": "Outgoing West Virginia Sen. Joe Manchin, I-W.Va., said Tuesday he is not endorsing Vice President Kamala Harris' White House bid.",
+            "publisher": "ABC News",
+            "timestamp": "1727214456000",
+            "newsUrl": "https://abcnews.go.com/Politics/manchin-endorse-harris-abortion-filibuster-carveout/story?id=114031490",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTBjREZqTjA5Sk5rOVlPSGRPVFJDZkF4ampCU2dLTWdZOVk0UXpxUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTBjREZqTjA5Sk5rOVlPSGRPVFJDZkF4ampCU2dLTWdZOVk0UXpxUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Russian Offensive Campaign Assessment, September 24, 2024",
+            "snippet": "Russian forces have reached the outskirts of Vuhledar amid what appears to be an intensified offensive push near the settlement, but the capture of Vuhledar ...",
+            "publisher": "Institute for the Study of War",
+            "timestamp": "1727227713000",
+            "newsUrl": "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-september-24-2024",
+            "hasSubnews": false
+        },
+        {
+            "title": "Northwestern University, University of Chicago and University of Illinois Urbana-Champaign ranked among top 40 schools in US",
+            "snippet": "Northwestern, University of Chicago and U of I Urbana-Champaign are ranked among the top 40 in the nation in U.S. News and World Report's annual list.",
+            "publisher": "ABC7 Chicago",
+            "timestamp": "1727231130000",
+            "newsUrl": "https://abc7chicago.com/northwestern-university-chicago-illinois-urbana-champaign-ranked-among-top-40-schools-us/15351288/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWxjRnBLYUdWa05uRlJOVGhhVFJDZkF4ampCU2dLTWdZZGRKQ0tzUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWxjRnBLYUdWa05uRlJOVGhhVFJDZkF4ampCU2dLTWdZZGRKQ0tzUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "\"The greatest thing ever invented\": Tariffs become Trump's miracle cure",
+            "snippet": "Trump's plan to impose massive tariffs has become the single biggest economic question of the election.",
+            "publisher": "Axios",
+            "timestamp": "1727255654000",
+            "newsUrl": "https://www.axios.com/2024/09/25/trump-tariffs-economic-policies-harris",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUxOakIwUmtneFEyZzNWRGxVVFJDZkF4ampCU2dLTWdZQklJNWxHQW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUxOakIwUmtneFEyZzNWRGxVVFJDZkF4ampCU2dLTWdZQklJNWxHQW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Reported \"suicide capsule\" death of U.S. woman in Switzerland prompts multiple arrests, launch of criminal case",
+            "snippet": "Police in northern Switzerland said Tuesday that several people have been detained and a criminal case opened in connection with the suspected death of a ...",
+            "publisher": "CBS News",
+            "timestamp": "1727218752000",
+            "newsUrl": "https://www.cbsnews.com/news/suicide-capsule-american-woman-dies-switzerland-arrests/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNWFNSG8zY1ZGWFQxQmxVMnhxVFJDNkF4aUFCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNWFNSG8zY1ZGWFQxQmxVMnhxVFJDNkF4aUFCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Missile intercepted over central Israel after Hezbollah targets Tel Aviv",
+            "snippet": "For the first time, Hezbollah launched a rocket at Tel Aviv, with sirens sounding across the city in the early hours of Wednesday morning.",
+            "publisher": "The Jerusalem Post",
+            "timestamp": "1727235366000",
+            "newsUrl": "https://www.jpost.com/breaking-news/article-821615",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iJ0NnNTFVRzFaTW1aVFkwOTJZblpUVFJDX0F4aXRCU2dLTWdPRlFnRQ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iJ0NnNTFVRzFaTW1aVFkwOTJZblpUVFJDX0F4aXRCU2dLTWdPRlFnRQ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "House panel votes to hold Blinken in contempt",
+            "snippet": "House Foreign Affairs Committee Republicans voted 26-25 to recommend Secretary of State Antony Blinken be held in contempt of Congress.",
+            "publisher": "Axios",
+            "timestamp": "1727226099000",
+            "newsUrl": "https://www.axios.com/2024/09/24/house-gop-panel-votes-to-hold-blinken-in-contempt",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVRWV2xoZUZodWVWTkVZbXBUVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVRWV2xoZUZodWVWTkVZbXBUVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Office of Governor Pillen",
+            "snippet": "CONTACT: Laura Strimple, (402) 580-9495. Allan Urlis, (531) 510-8529. Gov. Pillen Issues Statement Regarding Special Session to Restore Winner-Take-All to ...",
+            "publisher": "Governor Pete Ricketts",
+            "timestamp": "1727195272000",
+            "newsUrl": "https://governor.nebraska.gov/press/gov-pillen-issues-statement-regarding-special-session-restore-winner-take-all-nebraska",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXNUblJFWkdoQlIzUndlSGRPVFJDbUFSaXZBaWdCTWdZdFpaRE9MUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXNUblJFWkdoQlIzUndlSGRPVFJDbUFSaXZBaWdCTWdZdFpaRE9MUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Israel-Hezbollah violence is Biden's big Middle East fear come true",
+            "snippet": "Biden has spent nearly a year praying he could help prevent the war in Gaza from spreading.",
+            "publisher": "Axios",
+            "timestamp": "1727255465000",
+            "newsUrl": "https://www.axios.com/2024/09/25/israel-lebanon-hezbollah-gaza-biden-fears",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHlXa1ZLTTBka2FIQXlRVkpVVFJDZkF4ampCU2dLTWdrQkVJaFFIQ2JJQ1FJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHlXa1ZLTTBka2FIQXlRVkpVVFJDZkF4ampCU2dLTWdrQkVJaFFIQ2JJQ1FJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "NYC schools Chancellor David Banks announces he’s retiring amid federal investigations",
+            "snippet": "Less than three years after taking the helm of New York City's school system, Chancellor David Banks is planning to retire at the end of the year amid ...",
+            "publisher": "Chalkbeat",
+            "timestamp": "1727210760000",
+            "newsUrl": "https://www.chalkbeat.org/newyork/2024/09/24/nyc-schools-chancellor-david-banks-retires-federal-investigation/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9NbWhOU0d4SlZtbEpObWMzVFJEQ0FSaURBaWdCTWdZZEpwd0xsZ28=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9NbWhOU0d4SlZtbEpObWMzVFJEQ0FSaURBaWdCTWdZZEpwd0xsZ28"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Europe’s deadly floods offer glimpse of future climate",
+            "snippet": "A new study shows that the record-breaking rainfall was made more likely and intense by climate change.",
+            "publisher": "BBC.com",
+            "timestamp": "1727234860000",
+            "newsUrl": "https://www.bbc.com/news/articles/cn5zx2zx5xvo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNW1YMEo0Tkc1Sk1sUnhPSHBwVFJDZkF4ampCU2dLTWdrVlFKUW9udWtsQ3dJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNW1YMEo0Tkc1Sk1sUnhPSHBwVFJDZkF4ampCU2dLTWdrVlFKUW9udWtsQ3dJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Biden struggles to contain conflict as Israel and Hezbollah on the brink",
+            "snippet": "As the US president called for restraint in a speech at the UN, Israel's leader vowed to continue striking Hezbollah.",
+            "publisher": "BBC.com",
+            "timestamp": "1727204475000",
+            "newsUrl": "https://www.bbc.com/news/articles/cr4xnq2zqlgo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJiRFEyZVhoS2IzbE5TbnBRVFJDZkF4ampCU2dLTWdhZEJZck5qUXM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXJiRFEyZVhoS2IzbE5TbnBRVFJDZkF4ampCU2dLTWdhZEJZck5qUXM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Israel is gambling Hezbollah will crumple but it faces a well-armed, angry enemy",
+            "snippet": "The Lebanese armed group has - like Israel - spent years preparing and is more formidable than Hamas in Gaza.",
+            "publisher": "BBC.com",
+            "timestamp": "1727237258000",
+            "newsUrl": "https://www.bbc.com/news/articles/c93pg1qpxxzo",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDNhMnR0UmxBd1QzRlZVMlJHVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDNhMnR0UmxBd1QzRlZVMlJHVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Stock futures slip after Dow, S&P 500 hit record highs: Live updates",
+            "snippet": "Economic growth is in focus with the three major Wall Street stock averages on track for a winning September.",
+            "publisher": "CNBC",
+            "timestamp": "1727258220000",
+            "newsUrl": "https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDViVVJKVUhwVFEwWTNOR05aVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDViVVJKVUhwVFEwWTNOR05aVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "‘The world has to see my hurt’: Mother reflects on the death of her daughter after Georgia abortion ban",
+            "snippet": "Amber Nicole Thurman, 28, discovered she was pregnant with twins shortly after Georgia's six-week abortion ban in 2022. She had a medication abortion but ...",
+            "publisher": "CNN",
+            "timestamp": "1727233823000",
+            "newsUrl": "https://www.cnn.com/2024/09/24/us/video/amber-thurman-mother-abortion-georgia-ban-lcl-digvid",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNDFZVFprZGw5NFREWlJkSE5WVFJDZkF4ampCU2dLTWdZQk1KVENIUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNDFZVFprZGw5NFREWlJkSE5WVFJDZkF4ampCU2dLTWdZQk1KVENIUWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "O’Rourke and Emhoff raise another million for Harris campaign, tout voter registration momentum",
+            "snippet": "After lunching on Whataburgers with Beto O'Rourke, Doug Emhoff criticized GOP voting laws and urged Texans not to “let anyone prevent you from registering ...",
+            "publisher": "The Texas Tribune",
+            "timestamp": "1727222503000",
+            "newsUrl": "https://www.texastribune.org/2024/09/24/doug-emhoff-beto-orourke-whataburger-texas-austin/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDBWMHhQYW5aNldVSjBNMVUyVFJERkF4aWtCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDBWMHhQYW5aNldVSjBNMVUyVFJERkF4aWtCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Texas man executed for killing infant son after waiving right to appeal death sentence",
+            "snippet": "HUNTSVILLE — A Texas man who had waived his right to appeal his death sentence was put to death Tuesday evening for killing his 3-month-old son more than 16 ...",
+            "publisher": "CBS News",
+            "timestamp": "1727226087000",
+            "newsUrl": "https://www.cbsnews.com/texas/news/texas-man-executed-for-killing-infant-son-after-waiving-right-to-appeal-death-sentence/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNUVabW95VUdaaWJHOVhWM1JTVFJDUkF4ajhCU2dLTWdtTkk0WUtGaVZrRHdF=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNUVabW95VUdaaWJHOVhWM1JTVFJDUkF4ajhCU2dLTWdtTkk0WUtGaVZrRHdF"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Trump repeats claims that women will 'no longer be thinking about abortion' if he becomes president",
+            "snippet": "Donald Trump said in a rally Monday that he will be a \"protector\" of women and repeated a claim that they \"will no longer be thinking about abortion\" if he ...",
+            "publisher": "ABC News",
+            "timestamp": "1727207550000",
+            "newsUrl": "https://abcnews.go.com/Politics/trump-repeats-claims-women-longer-thinking-abortion-president/story?id=113932624",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNTVObDlUTUdWUVkwbHZXRnBLVFJDb0FSaXNBaWdCTWdhcElJaXRFUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNTVObDlUTUdWUVkwbHZXRnBLVFJDb0FSaXNBaWdCTWdhcElJaXRFUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Top Democrats rage at Mike Johnson's big \"if\" on certifying 2024 election",
+            "snippet": "House Speaker Mike Johnson (R-La.) ignited outrage among Democrats on Tuesday by saying the House will follow standard procedure for certifying the 2024 ...",
+            "publisher": "Axios",
+            "timestamp": "1727215931000",
+            "newsUrl": "https://www.axios.com/2024/09/24/johnson-spikes-top-democrats-anxiety-about-a-jan-6-redux",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXZkSHB2ZW5aR2RIZG1jRGRvVFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXZkSHB2ZW5aR2RIZG1jRGRvVFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Israel has landed heavy blows on Hezbollah. The victory it seeks could prove elusive",
+            "snippet": "It has been a devastating week for Hezbollah and the people of Lebanon. Bombs hidden in the group's pagers and walkie-talkies killed dozens of its members ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1727236980000",
+            "newsUrl": "https://apnews.com/article/israel-lebanon-hezbollah-conflict-military-strategy-cce53839bbcf0a9a36af45ed2fa7dbb4",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXJSWFZFUVZabGRHVmlORGhYVFJDUEF4alhCQ2dLTWdhSlJaRHJwUVk=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXJSWFZFUVZabGRHVmlORGhYVFJDUEF4alhCQ2dLTWdhSlJaRHJwUVk"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Jenn Sterger has no sympathy for Brett Favre after he says he has Parkinson’s disease",
+            "snippet": "Jenn Sterger doesn't have any sympathy for Brett Favre's Parkinson's disease plight. Sterger, a former Jets sideline reporter who accused the Pro Football ...",
+            "publisher": "New York Post ",
+            "timestamp": "1727231460000",
+            "newsUrl": "https://nypost.com/2024/09/24/sports/jenn-sterger-has-no-sympathy-for-brett-favre-has-parkinsons-revelation/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNHhNVXRZUldOMWNXRnVjbWRyVFJETUFSaXlBaWdLTWdrTlk0Z3pyYWVwQ2dJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNHhNVXRZUldOMWNXRnVjbWRyVFJETUFSaXlBaWdLTWdrTlk0Z3pyYWVwQ2dJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Americans growing more worried about where economy is headed",
+            "snippet": "Consumer confidence plunged by the most in three years this month as more Americans adopt increasingly negative perceptions of the current and future ...",
+            "publisher": "Axios",
+            "timestamp": "1727195679000",
+            "newsUrl": "https://www.axios.com/2024/09/24/us-consumer-confidence-index-september",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNXdkamd3Yms4MVowMW5hRkJEVFJDZkF4ampCU2dLTWdZNUE0b3lGUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNXdkamd3Yms4MVowMW5hRkJEVFJDZkF4ampCU2dLTWdZNUE0b3lGUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Padres turn game-ending triple play to stun Dodgers, clinch playoff berth",
+            "snippet": "LOS ANGELES -- These Padres specialize in the dramatic. They win games they shouldn't win. They've taken the NL West race to the wire, when nobody expected ...",
+            "publisher": "MLB.com",
+            "timestamp": "1727249754000",
+            "newsUrl": "https://www.mlb.com/news/padres-beat-dodgers-on-triple-play-to-end-game",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVliRmt4WWtSUldXdExXRTlvVFJDSEF4aVBCaWdLTWdZQlFJNUdKQWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVliRmt4WWtSUldXdExXRTlvVFJDSEF4aVBCaWdLTWdZQlFJNUdKQWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "‘America’s Got Talent’ Crowns Season 19 Winner On NBC",
+            "snippet": "SPOILER ALERT: This post contains details of the America's Got Talent Season 19 finale. After a whole season of show-stopping performances, America's Got ...",
+            "publisher": "Deadline",
+            "timestamp": "1727233140000",
+            "newsUrl": "https://deadline.com/2024/09/americas-got-talent-season-19-winner-nbc-1236098617/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNW1VVFpIT1RscWJsbElRa05pVFJEX0FoaXBCU2dLTWdzSklJaFl6S09oeE5xY1d3=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNW1VVFpIT1RscWJsbElRa05pVFJEX0FoaXBCU2dLTWdzSklJaFl6S09oeE5xY1d3"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Caught cold by UniCredit’s swoop on Commerzbank, Germany will want to avoid a national embarrassment",
+            "snippet": "Italy's UniCredit appears to have caught German authorities off guard with a potential multibillion euro merger of Frankfurt-based Commerzbank.",
+            "publisher": "CNBC",
+            "timestamp": "1727240933000",
+            "newsUrl": "https://www.cnbc.com/2024/09/25/german-authorities-caught-cold-by-unicredits-swoop-on-commerzbank.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWZlVFpTZVdrM2JteERkbFpMVFJDZkF4ampCU2dLTWdZZGRvd01PZ1k=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWZlVFpTZVdrM2JteERkbFpMVFJDZkF4ampCU2dLTWdZZGRvd01PZ1k"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Quinn wants Daniels free from 'ghosts' of QBs past",
+            "snippet": "PHOENIX -- The Washington Commanders know that Jayden Daniels can dodge defenders when he starts to run. What they don't want is for him to also have to ...",
+            "publisher": "ESPN",
+            "timestamp": "1727221200000",
+            "newsUrl": "https://www.espn.com/nfl/story/_/id/41425192/commanders-coach-dan-quinn-wants-avoid-comparing-jayden-daniels-franchise-qbs",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNUthekl5VGxkSVRqaDZTVVJvVFJDb0FSaXNBaWdCTWdhMUU0aHdHUWs=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNUthekl5VGxkSVRqaDZTVVJvVFJDb0FSaXNBaWdCTWdhMUU0aHdHUWs"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Boeing strike: Workers not interested in 30% pay offer, union says",
+            "snippet": "The union representing thousands of striking Boeing workers says a survey of its members shows they are \"not interested\" in the aviation giant's latest pay ...",
+            "publisher": "BBC.com",
+            "timestamp": "1727243690000",
+            "newsUrl": "https://www.bbc.com/news/articles/cwyl7w036y4o",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNVphVVo1ZUZOYVYzVm9ZVTV3VFJDZkF4ampCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNVphVVo1ZUZOYVYzVm9ZVTV3VFJDZkF4ampCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Torres' baserunning blunder cuts Yankees' rally short",
+            "snippet": "NEW YORK -- Gleyber Torres rose slowly from the chalky dirt, having landed a few feet shy of returning to the safety of third base.",
+            "publisher": "MLB.com",
+            "timestamp": "1727239237000",
+            "newsUrl": "https://www.mlb.com/news/gleyber-torres-baserunning-blunder-costly-to-yankees",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNU9NMXBtZUV3Mk5XazNRbU4xVFJDb0FSaXNBaWdCTWdhaGRKTE5yUWM=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNU9NMXBtZUV3Mk5XazNRbU4xVFJDb0FSaXNBaWdCTWdhaGRKTE5yUWM"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Pac-12 Conference and Utah State University Unite to Advance the New Era of the 100-Year-Old Legacy",
+            "snippet": "SAN RAMON, CA (September 24, 2024) – The Pac-12 Conference and Utah State University are proud to announce their new partnership, marking an exciting ...",
+            "publisher": "Utah State Aggies",
+            "timestamp": "1727227946000",
+            "newsUrl": "https://utahstateaggies.com/news/2024/9/24/general-pac-12-conference-and-utah-state-university-unite-to-advance-the-new-era-of-the-100-year-old-legacy.aspx",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNDFTWGMxZFdKVVQxRm5TWEV0VFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNDFTWGMxZFdKVVQxRm5TWEV0VFJDb0FSaXNBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Loss to Astros ends Mariners' AL West hopes as attention shifts to Wild Card",
+            "snippet": "HOUSTON -- The Mariners haven't had at least a share of first place in the American League West in 45 days, with their hopes of winning their first division ...",
+            "publisher": "MLB.com",
+            "timestamp": "1727249400000",
+            "newsUrl": "https://www.mlb.com/news/mariners-focus-on-wild-card-race",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNWtTR3hKTVMwemJXNVljRTVOVFJDb0FSaXNBaWdCTWdZaEo0WXFtZ2s=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNWtTR3hKTVMwemJXNVljRTVOVFJDb0FSaXNBaWdCTWdZaEo0WXFtZ2s"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "US Navy replenishment ship damaged after refueling warships in the Middle East",
+            "snippet": "DUBAI, United Arab Emirates (AP) — A U.S. Navy replenishment ship operating in the Middle East sustained damage after refueling vessels and the cause is ...",
+            "publisher": "The Associated Press",
+            "timestamp": "1727225760000",
+            "newsUrl": "https://apnews.com/article/us-navy-big-horn-mideast-israel-hamas-war-2e03c24dece6807bac359bf86c5a81dd",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdlVkJDU0UxVmRYUlpjbTV0VFJEVkFSakFBaWdLTWdZQmtJSlR6UVE=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVdlVkJDU0UxVmRYUlpjbTV0VFJEVkFSakFBaWdLTWdZQmtJSlR6UVE"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "DOJ's Visa antitrust lawsuit alleges debit card company monopoly",
+            "snippet": "The Justice Department has filed an antitrust lawsuit against Visa, accusing the company of running a debit card monopoly that imposed “billions of dollars” ...",
+            "publisher": "USA TODAY",
+            "timestamp": "1727218022000",
+            "newsUrl": "https://www.usatoday.com/story/money/2024/09/24/visa-monopoly-doj-antitrust/75367978007/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNDVVbWRFYVRGeVpHODRZMDlwVFJEekFoaVVCU2dLTWdrQlk0cEhzV1ZVaWdJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNDVVbWRFYVRGeVpHODRZMDlwVFJEekFoaVVCU2dLTWdrQlk0cEhzV1ZVaWdJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Ionescu high-fives Spike, drops 36 to fuel Liberty",
+            "snippet": "Sabrina Ionescu tied a franchise playoff record with 36 points, and the New York Liberty beat the Atlanta Dream 91-82 on Tuesday night to advance to the ...",
+            "publisher": "ESPN",
+            "timestamp": "1727228340000",
+            "newsUrl": "https://www.espn.com/wnba/story/_/id/41426901/sabrina-ionescu-scores-36-points-liberty-put-away-dream-reach-wnba-semifinals",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNU9kRVJYUkRGQldqZHZXbVpSVFJDb0FSaXNBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNU9kRVJYUkRGQldqZHZXbVpSVFJDb0FSaXNBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Lawmakers challenge drug company CEO over steep prices for Ozempic and Wegovy",
+            "snippet": "Ozempic and Wegovy are some of the most popular drugs in the country, driven by their remarkable success in treating diabetes and obesity.",
+            "publisher": "PBS NewsHour",
+            "timestamp": "1727217357000",
+            "newsUrl": "https://www.pbs.org/newshour/show/lawmakers-challenge-drug-company-ceo-over-steep-prices-for-ozempic-and-wegovy",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVlOWFZCUVd3elNXUkNNek5VVFJERUF4aW1CU2dLTWdZUmdKU3BMUWc=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVlOWFZCUVd3elNXUkNNek5VVFJERUF4aW1CU2dLTWdZUmdKU3BMUWc"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "‘Dancing With The Stars’ Week 2: See Who Went Home On Double Elimination Night & Got “Nothing” From Competition",
+            "snippet": "Here's what we know so far (at least, according to her partner Ezra Sosa): Anna Delvey couldn't be found after night one of Dancing with the Stars because ...",
+            "publisher": "Deadline",
+            "timestamp": "1727229900000",
+            "newsUrl": "https://deadline.com/2024/09/dancing-with-the-stars-week-2-who-went-home-1236098661/",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iL0NnNVVNM1o1ZUhkZlRFMDFSMEUxVFJEX0FoaXBCU2dLTWdtZEFaaTJqS3FLcFFJ=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iL0NnNVVNM1o1ZUhkZlRFMDFSMEUxVFJEX0FoaXBCU2dLTWdtZEFaaTJqS3FLcFFJ"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Mets' lead over Braves cut to 1 game after loss in Atlanta",
+            "snippet": "ATLANTA -- Coming into Atlanta, home to a quarter century of horrors for the Mets, was never going to be easy. “It's going to be a story,” was how manager ...",
+            "publisher": "MLB.com",
+            "timestamp": "1727229621000",
+            "newsUrl": "https://www.mlb.com/news/mets-lose-to-braves-in-opener-of-big-series-in-atlanta",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iK0NnNVdTeTF3YW1OWlJHRlFNVk16VFJEUkFSajBBaWdLTWdhaEpZcnNGUW8=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iK0NnNVdTeTF3YW1OWlJHRlFNVk16VFJEUkFSajBBaWdLTWdhaEpZcnNGUW8"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "ACC Announces 2024-25 Men’s Basketball Conference Schedule",
+            "snippet": "2024-25 ACC Composite Schedule CHARLOTTE, N.C. (TheACC.com) – The Atlantic Coast Conference today announced its 2024-25 men's basketball conference schedule ...",
+            "publisher": "The ACC",
+            "timestamp": "1727223556000",
+            "newsUrl": "https://theacc.com/news/2024/9/24/acc-announces-2024-25-mens-basketball-conference-schedule.aspx",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNXRlVFZLZFRaVFRYTkZaa2hZVFJDdUFSaWlBaWdCTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNXRlVFZLZFRaVFRYTkZaa2hZVFJDdUFSaWlBaWdCTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dissecting 3-0 teams: why the Bills, Seahawks, Steelers, Vikings and Chiefs are undefeated | Football 301",
+            "snippet": "Nate Tice is joined by Charles McDonald to give their thoughts and takeaways from Week 3 of NFL action.",
+            "publisher": "Yahoo Sports",
+            "timestamp": "1727214292000",
+            "newsUrl": "https://sports.yahoo.com/dissecting-3-0-teams-why-the-bills-seahawks-steelers-vikings-and-chiefs-are-undefeated--football-301-214452675.html",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iI0NnNTROVmh4UjJ0ak5WUmZNR3RUVFJEb0FoaUFCU2dLTWdB=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iI0NnNTROVmh4UjJ0ak5WUmZNR3RUVFJEb0FoaUFCU2dLTWdB"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "WNBA player who gave Caitlin Clark a black eye with fingernail explains what happened: 'I didn't know'",
+            "snippet": "Caitlin Clark of the Indiana Fever was poked in the eye by Sun player DiJonai Carrington Sunday. Carrington has explained her side of the incident.",
+            "publisher": "Fox News",
+            "timestamp": "1727212980000",
+            "newsUrl": "https://www.foxnews.com/sports/wnba-player-gave-caitlin-clark-black-eye-fingernail-poke-explains-what-happened-i-didnt-know",
+            "images": {
+                "thumbnail": "https://news.google.com/api/attachments/CC8iMkNnNUpjVWRRVEVGcWR6VkJhRUZrVFJDZkF4ampCU2dLTWdzWk1JaVVuS21DamJra1JR=-w280-h168-p-df-rw",
+                "thumbnailProxied": "https://i.zedtranslate.com/newsimage/CC8iMkNnNUpjVWRRVEVGcWR6VkJhRUZrVFJDZkF4ampCU2dLTWdzWk1JaVVuS21DamJra1JR"
+            },
+            "hasSubnews": false
+        }
+    ]
+}
