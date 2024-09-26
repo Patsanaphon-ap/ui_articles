@@ -18,12 +18,15 @@ class TodayArticleWidget extends StatelessWidget {
     return GetBuilder<ArticleController>(
       builder: (_) {
         if (articleCtrl.isloading) {
-          return const Column(
-            children: [
-              Center(
-                child: MyLoadingWidget(),
-              ),
-            ],
+          return Container(
+            margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+            child: const Column(
+              children: [
+                Center(
+                  child: MyLoadingWidget(),
+                ),
+              ],
+            ),
           );
         } else if (articleCtrl.errormessage.isNotEmpty) {
           return MyErrorWidget(

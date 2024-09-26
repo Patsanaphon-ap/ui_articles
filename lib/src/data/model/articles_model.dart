@@ -21,11 +21,11 @@ class ArticlesModel {
 
   factory ArticlesModel.fromJson(Map<dynamic, dynamic> json) {
     return ArticlesModel(
-      title: json['title'],
-      snippet: json['snippet'],
-      publisher: json['publisher'],
-      timestamp: json['timestamp'],
-      newsUrl: json['newsUrl'],
+      title: json['title'] ?? '',
+      snippet: json['snippet'] ?? '',
+      publisher: json['publisher'] ?? '',
+      timestamp: json['timestamp'] ?? '',
+      newsUrl: json['newsUrl'] ?? '',
       images: (json['images'] != null)
           ? ImagesThumbnail.fromJson(json['images'])
           : null,

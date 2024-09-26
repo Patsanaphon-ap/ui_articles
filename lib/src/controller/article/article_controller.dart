@@ -27,9 +27,7 @@ class ArticleController extends GetxController {
     isloading = true;
     article = value ?? 'latest';
     errormessage = '';
-    if (onRefresh ?? false) {
-      update();
-    }
+    update();
 
     final response = await _articlesApi.getArticle(article: article);
     final res = response.isSuccess();
