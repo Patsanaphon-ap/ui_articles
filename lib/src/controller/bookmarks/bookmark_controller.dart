@@ -24,11 +24,13 @@ class BookmarksController extends GetxController {
     update();
   }
 
+//clear bookmark didn't use
   Future<void> removeAllBookMark() async {
     bookmarksdata.clear();
     await prefs.removeBookMarks();
   }
 
+//save bookmark when select
   Future<void> addBookMark(ArticlesModel article, {bool isFav = false}) async {
     if (!isBookMarked(article.title)) {
       bookmarksdata.add(article);
@@ -36,6 +38,7 @@ class BookmarksController extends GetxController {
     }
   }
 
+  //delete bookmark when unselect
   Future<void> deleteBookMark(ArticlesModel article) async {
     if (isBookMarked(article.title)) {
       bookmarksdata.removeWhere((e) => e.title == article.title);

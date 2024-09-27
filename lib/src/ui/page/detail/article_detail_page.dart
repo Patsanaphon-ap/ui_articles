@@ -3,6 +3,7 @@ import 'package:get/get.dart';
 import 'package:ui_articles/src/controller/articledetail/article_detail_controller.dart';
 import 'package:ui_articles/src/controller/bookmarks/bookmark_controller.dart';
 import 'package:ui_articles/src/data/model/articles_model.dart';
+import 'package:ui_articles/src/ui/page/home/widget/thumbnail_widget.dart';
 import 'package:ui_articles/src/ui/widget/my_loading.dart';
 import 'package:ui_articles/src/ui/widget/my_page.dart';
 import 'package:ui_articles/src/ui/widget/my_text.dart';
@@ -22,7 +23,9 @@ class ArticleDetailPage extends StatelessWidget {
         padding: const EdgeInsets.only(left: 24, right: 24, bottom: 24),
         child: _appbar(),
       ),
+      //custom bottomnav for read more
       bottomNavigationBar: _bottomNavigator(context),
+      //pull to refresh if error
       child: RefreshIndicator(
         onRefresh: () async {},
         child: ListView(
@@ -76,6 +79,7 @@ class ArticleDetailPage extends StatelessWidget {
     );
   }
 
+  //bottomnav bar
   Widget _bottomNavigator(context) {
     return GetBuilder<ArticleDetailController>(
       builder: (_) {
@@ -134,6 +138,7 @@ class ArticleDetailPage extends StatelessWidget {
     );
   }
 
+  //  publisherName
   Widget _publisherName() {
     return Container(
       decoration: BoxDecoration(
@@ -154,49 +159,12 @@ class ArticleDetailPage extends StatelessWidget {
     );
   }
 
+//thumbnailimage
   Widget _thumbnail(ArticleDetailController articleDetailCtrl) {
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Row(
-          children: [
-            Expanded(
-              child: Container(
-                height: Get.height * 0.25,
-                decoration: const BoxDecoration(
-                  borderRadius: BorderRadius.all(Radius.circular(18)),
-                  boxShadow: [
-                    BoxShadow(
-                      color: Colors.black26,
-                      offset: Offset(0, 4),
-                      blurRadius: 10,
-                    ),
-                  ],
-                ),
-                child: ClipRRect(
-                  borderRadius: const BorderRadius.all(Radius.circular(18)),
-                  child: Image.network(
-                    Get.arguments['image'] ?? '',
-                    fit: BoxFit.cover,
-                    loadingBuilder: (context, child, loadingProgress) {
-                      if (loadingProgress == null) return child;
-                      return const Center(child: CircularProgressIndicator());
-                    },
-                    errorBuilder: (context, error, stackTrace) {
-                      return const Center(
-                        child: Icon(Icons.error),
-                      ); // Placeholder icon or widget
-                    },
-                  ),
-                ),
-              ),
-            ),
-          ],
-        ),
-      ],
-    );
+    return ThumbnailWidget(thumbnailImage: Get.arguments['image'] ?? '');
   }
 
+  //custom appbar
   Widget _appbar() {
     return AppBar(
       backgroundColor: Colors.white,
@@ -225,6 +193,7 @@ class ArticleDetailPage extends StatelessWidget {
   }
 }
 
+//bookmark for save
 class ArticleBookMark extends StatelessWidget {
   final ArticlesModel articleData;
   ArticleBookMark({required this.articleData, super.key});
@@ -237,6 +206,7 @@ class ArticleBookMark extends StatelessWidget {
       (data) {
         // Observing the reactive value directly in Obx
         bool isBookmarked = bookmarkCtrl.isBookMarked(articleData.title);
+        //bookmark widget
         return ElevatedButton(
           onPressed: () {
             if (isBookmarked) {

@@ -42,6 +42,7 @@ class ArticlesRemoteDateImp extends ArticlesRemote {
         return Error(resp.statusCode.toString());
       }
     } on DioException catch (e) {
+      //when it meet limit
       if (e.response?.statusCode == 429) {
         Get.snackbar(
           'Error',

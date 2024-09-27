@@ -28,6 +28,7 @@ class SharePreferencesImp implements SharePreferenceData {
     getBookMarks();
   }
 
+  //receive bookmark data
   @override
   Future<List<ArticlesModel>> getBookMarks() async {
     final prefs = await _db;
@@ -42,6 +43,7 @@ class SharePreferencesImp implements SharePreferenceData {
     return [];
   }
 
+  //store bookmark data
   @override
   Future<void> setBookMarks(ArticlesModel articleData) async {
     final prefs = await _db;
@@ -63,6 +65,7 @@ class SharePreferencesImp implements SharePreferenceData {
     await prefs.setString(PrefKeyConst.bookmarks, jsonEncode(results));
   }
 
+  // unselected bookmarks
   @override
   Future<void> deleteBookMarks(String title) async {
     //
@@ -81,6 +84,7 @@ class SharePreferencesImp implements SharePreferenceData {
     await prefs.setString(PrefKeyConst.bookmarks, jsonEncode(results));
   }
 
+  // clear bookmark
   @override
   Future<void> removeBookMarks() async {
     //
@@ -89,6 +93,7 @@ class SharePreferencesImp implements SharePreferenceData {
     await prefs.setString(PrefKeyConst.bookmarks, '');
   }
 
+  //store articles when load online
   @override
   Future<void> setArticles(
       {required String prefsKey,
@@ -98,6 +103,7 @@ class SharePreferencesImp implements SharePreferenceData {
     await prefs.setString(prefsKey, jsonEncode(articleData));
   }
 
+  //get articlesdata
   @override
   Future<List<ArticlesModel>> getSavedArticles(
       {required String prefsKey}) async {

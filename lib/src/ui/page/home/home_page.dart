@@ -16,22 +16,23 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MyPage(
-      child: RefreshIndicator(
-        onRefresh: () async {},
-        child: ListView(
-          padding: const EdgeInsets.symmetric(horizontal: 24),
-          physics: const BouncingScrollPhysics(),
-          shrinkWrap: true,
-          children: const [
-            MyAppbar(
-              title: 'Hi There,',
-              subtitle: 'Good Morning!',
-            ),
-            SearchWidget(),
-            ArticleMenu(),
-            TodayArticleWidget(),
-          ],
-        ),
+      child: ListView(
+        padding: const EdgeInsets.symmetric(horizontal: 24),
+        physics: const BouncingScrollPhysics(),
+        shrinkWrap: true,
+        children: const [
+          // Custom app bar with a title and subtitle
+          MyAppbar(
+            title: 'Hi There,',
+            subtitle: 'Good Morning!',
+          ),
+          //Search bar widget not work didn't do
+          SearchWidget(),
+          // Dropdown menu for selecting news categories
+          ArticleMenu(),
+          // Widget displaying today's articles
+          TodayArticleWidget(),
+        ],
       ),
     );
   }
@@ -46,6 +47,7 @@ class ArticleMenu extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
+        //dropdown select category
         DropdownButtonFormField(
           decoration: InputDecoration(
             enabledBorder: OutlineInputBorder(
@@ -59,8 +61,9 @@ class ArticleMenu extends StatelessWidget {
             filled: true,
             fillColor: Colors.white,
           ),
-          value: 'latest',
+          value: 'latest', // Default selected value
           onChanged: (String? newValue) {
+            // Update the article list based on the selected category
             Get.put(ArticleController()).onLoadData(value: newValue);
           },
           items: <String>[

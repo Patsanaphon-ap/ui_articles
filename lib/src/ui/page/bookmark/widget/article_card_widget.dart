@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ui_articles/src/data/model/articles_model.dart';
 import 'package:ui_articles/src/route/route_path.dart';
+import 'package:ui_articles/src/ui/page/home/widget/thumbnail_widget.dart';
 import 'package:ui_articles/src/ui/widget/my_text.dart';
 import 'package:ui_articles/src/util/format_util.dart';
 
@@ -18,52 +19,20 @@ class ArticleCardWidget extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        InkWell(
+        //thumnail image
+        ThumbnailWidget(
+          thumbnailImage: bookmarksdata.images?.thumbnail ?? '',
           onTap: () {
             Get.toNamed(
               RoutePath.articledetail,
               arguments: {
                 'image': bookmarksdata.images?.thumbnail,
-                'data': bookmarksdata,
+                'data': bookmarksdata
               },
             );
           },
-          child: Row(
-            children: [
-              Expanded(
-                child: Container(
-                  height: Get.height * 0.25,
-                  decoration: const BoxDecoration(
-                    borderRadius: BorderRadius.all(Radius.circular(18)),
-                    boxShadow: [
-                      BoxShadow(
-                        color: Colors.black26,
-                        offset: Offset(0, 4),
-                        blurRadius: 10,
-                      ),
-                    ],
-                  ),
-                  child: ClipRRect(
-                    borderRadius: const BorderRadius.all(Radius.circular(18)),
-                    child: Image.network(
-                      bookmarksdata.images?.thumbnail ?? '',
-                      fit: BoxFit.cover,
-                      loadingBuilder: (context, child, loadingProgress) {
-                        if (loadingProgress == null) return child;
-                        return const Center(child: CircularProgressIndicator());
-                      },
-                      errorBuilder: (context, error, stackTrace) {
-                        return const Center(
-                          child: Icon(Icons.error),
-                        ); // Placeholder icon or widget
-                      },
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
         ),
+        //publisher name
         Container(
           decoration: BoxDecoration(
             color: Colors.white,
@@ -81,12 +50,15 @@ class ArticleCardWidget extends StatelessWidget {
             bookmarksdata.publisher,
           ),
         ),
+        //title
         text16Bold(
           bookmarksdata.title,
         ),
+        //snippet
         text16Normal(
           bookmarksdata.snippet,
         ),
+        //timestamp
         text14Bold(
           TimeStamp.timeStampParse(
             bookmarksdata.timestamp,

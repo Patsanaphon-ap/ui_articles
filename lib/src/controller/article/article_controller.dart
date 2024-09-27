@@ -22,6 +22,7 @@ class ArticleController extends GetxController {
     super.onInit();
   }
 
+  //load data from google news
   void onLoadData({bool? onRefresh, String? value}) async {
     currentIndex = 0.obs;
     isloading = true;
@@ -34,14 +35,17 @@ class ArticleController extends GetxController {
 
     if (res) {
       articlesData = response.tryGetSuccess() ?? [];
+      //save articles to local storage when load complete
       await prefs.setArticles(prefsKey: article, articleData: articlesData);
     } else {
+      //use storage data when load not complete
       articlesData = await prefs.getSavedArticles(prefsKey: article);
     }
     isloading = false;
     update();
   }
 
+  //for testing only when reach limit
   // void onLoadJson({String? value}) async {
   //   currentIndex = 0.obs;
   //   isloading = true;
@@ -61,11 +65,13 @@ class ArticleController extends GetxController {
   //   update();
   // }
 
+  //previous function on homepage articles
   void onPrevious() {
     currentIndex.value--;
     update();
   }
 
+  //next function on homepage articles
   void onNext() {
     currentIndex.value++;
     update();

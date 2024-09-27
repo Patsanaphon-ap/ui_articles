@@ -23,6 +23,7 @@ class BookmarkPage extends StatelessWidget {
         child: GetBuilder<BookmarksController>(
           builder: (_) {
             if (bookmarkCtrl.isloading) {
+              //when loading bookmarks on local or online
               return const Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -30,6 +31,7 @@ class BookmarkPage extends StatelessWidget {
                 ],
               );
             } else if (bookmarkCtrl.bookmarksdata.isEmpty) {
+              //when bookarmsdata is empty
               return Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -47,6 +49,7 @@ class BookmarkPage extends StatelessWidget {
                       physics: const NeverScrollableScrollPhysics(),
                       shrinkWrap: true,
                       itemBuilder: (_, index) {
+                        //show article widget
                         return ArticleCardWidget(
                           bookmarksdata: bookmarkCtrl.bookmarksdata[index],
                         );
